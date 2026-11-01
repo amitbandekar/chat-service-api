@@ -232,6 +232,28 @@ app.post('/api/messages', async (req, res) => {
     }
 });
 
+// In-memory / DB profile state
+let profileData = {
+    name: 'Rutuja 🦋',
+    phone: '+91 98765 43210',
+    about: 'Busy aahe call nako karu... ✨',
+    avatar_url: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=400'
+};
+
+// GET /api/profile - Fetch contact profile details & avatar
+app.get('/api/profile', (req, res) => {
+    res.json({ success: true, profile: profileData });
+});
+
+// POST /api/profile - Update profile picture / details
+app.post('/api/profile', (req, res) => {
+    const { avatar_url, about } = req.body;
+    if (avatar_url) profileData.avatar_url = avatar_url;
+    if (about) profileData.about = about;
+    console.log(`[PROFILE] Updated profile picture: ${avatar_url}`);
+    res.json({ success: true, profile: profileData });
+});
+
 // POST /api/rate - Rate an assistant response (1-10)
 app.post('/api/rate', async (req, res) => {
     const { turn_id, score, notes } = req.body;
