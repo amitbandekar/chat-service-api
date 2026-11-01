@@ -35,7 +35,7 @@ git push -u origin main
 1. Go to [dashboard.render.com](https://dashboard.render.com/) and click **New +** $\rightarrow$ **Web Service**.
 2. Connect your GitHub repository.
 3. Configure the service settings:
-   - **Name:** `rutuja-bot-api`
+   - **Name:** `chat-service-api`
    - **Environment:** `Node`
    - **Region:** Singapore / Frankfurt / Oregon (closest to you)
    - **Branch:** `main`
@@ -52,10 +52,10 @@ Under **Environment Variables** in Render, add:
 | `XKIRO_BASE_URL` | `https://api.xkiro.com/v1` | Xkiro / OpenRouter API Base URL |
 | `MODEL_NAME` | `qwen/qwen3.8-max:free` | Model name |
 | `CRICKET_API_KEY` | *(Optional)* | CricAPI key for live Indian cricket scores |
-| `INACTIVITY_HOURS_THRESHOLD` | `8` | Daytime hours before Rutuja sends a proactive nudge |
+| `INACTIVITY_HOURS_THRESHOLD` | `8` | Daytime hours before proactive nudge |
 
 Click **Deploy Web Service**. Once deployed, Render will provide a public URL like:
-`https://rutuja-bot-api.onrender.com`
+`https://chat-service-api.onrender.com`
 
 ---
 
@@ -64,9 +64,9 @@ Click **Deploy Web Service**. Once deployed, Render will provide a public URL li
 In your `whatsapp-clone` mobile project (React Native / Expo):
 
 ### A. Set API Base URL
-Point the app's chat service or Axios instance to your Render URL:
+In `constants/Config.ts`, point to your Render URL:
 ```javascript
-const API_BASE_URL = 'https://rutuja-bot-api.onrender.com';
+export const API_BASE_URL = 'https://chat-service-api.onrender.com';
 ```
 
 ### B. Fetch Messages
