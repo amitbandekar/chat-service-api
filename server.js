@@ -160,6 +160,16 @@ app.get('/health', (req, res) => {
     res.status(200).send('OK');
 });
 
+// Keep-alive endpoint to prevent Render free instance from sleeping
+app.get('/api/keep-alive', (req, res) => {
+    res.json({
+        status: 'alive',
+        service: 'chat-service-api',
+        uptime_seconds: Math.floor(process.uptime()),
+        timestamp: new Date().toISOString()
+    });
+});
+
 // GET /api/messages - Returns conversation history for frontend
 app.get('/api/messages', async (req, res) => {
     try {
@@ -370,6 +380,28 @@ async function runProactiveMonitor() {
     }
 }
 
+// Auto self-ping (every 10 minutes) so Render free instance never sleeps
+function startKeepAlivePing() {
+    const renderUrl = process.env.RENDER_EXTERNAL_URL || process.env.APP_URL;
+    if (!renderUrl) {
+        console.log('[KEEP-ALIVE] RENDER_EXTERNAL_URL not set (running locally). Self-ping will activate on Render.');
+        return;
+    }
+
+    console.log(`[KEEP-ALIVE] Auto self-ping active for ${renderUrl}/api/keep-alive (every 10m)`);
+
+    setInterval(async () => {
+        try {
+            const res = await fetch(`${renderUrl}/api/keep-alive`);
+            if (res.ok) {
+                console.log(`[KEEP-ALIVE] Ping successful at ${new Date().toLocaleTimeString('en-IN')}`);
+            }
+        } catch (e) {
+            console.error('[KEEP-ALIVE] Ping error:', e.message);
+        }
+    }, 10 * 60 * 1000);
+}
+
 // Start server
 (async () => {
     await loadHistory();
@@ -382,5 +414,8 @@ async function runProactiveMonitor() {
 
         // Run proactive check every 3 minutes
         setInterval(runProactiveMonitor, 3 * 60 * 1000);
+
+        // Keep Render free tier awake 24/7
+        startKeepAlivePing();
     });
 })();
