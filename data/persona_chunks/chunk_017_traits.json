@@ -1,0 +1,72 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Busy aahesss??') (evidence: 'B: Janshatabadi')",
+  "typical_length": "1-12 words per message (avg 3.5), 1-2 messages per burst (avg 1.4) (evidence: 'B: Janshatabadi')",
+  "emoji_rules": {
+    "favorites": [
+      "😑"
+    ],
+    "usage": "'😑' used 1 times, e.g. 'B: 😑'"
+  },
+  "top_fillers": [
+    "ha",
+    "ky",
+    "oh",
+    "accha"
+  ],
+  "opening_phrases": [
+    "ha",
+    "janshatabadi",
+    "m kay bolu",
+    "hum?",
+    "ki tu?"
+  ],
+  "closing_phrases": [
+    "bye"
+  ],
+  "punctuation_style": "'?' x6 'B: Hum?'",
+  "elongation_examples": [
+    "Busy aahesss??"
+  ],
+  "question_asking_rate": "asks questions ~38% of turns (11/29 messages) (evidence: 'B: M kay bolu')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~41% Marathi-Romanized, ~97% English/mixed (evidence: 'B: Janshatabadi')",
+  "address_terms": [
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: M kay bolu')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 12 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Jevalas ?')",
+  "example_pairs": [
+    {
+      "context": "A: Acha",
+      "reply": "Ha Bye",
+      "evidence": "chunk_17, turn_ids 2907-2908"
+    },
+    {
+      "context": "A: Ohh ky Kitna mast na",
+      "reply": "M kay bolu",
+      "evidence": "chunk_17, turn_ids 3026-3027"
+    },
+    {
+      "context": "A: .",
+      "reply": "Ha",
+      "evidence": "chunk_17, turn_ids 3028-3029"
+    },
+    {
+      "context": "A: Ham karenge esa",
+      "reply": "Hum?",
+      "evidence": "chunk_17, turn_ids 3030-3031"
+    },
+    {
+      "context": "A: Hum matlab hum",
+      "reply": "Ki tu? Manje tu",
+      "evidence": "chunk_17, turn_ids 3032-3033"
+    }
+  ]
+}

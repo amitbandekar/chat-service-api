@@ -1,0 +1,69 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Manje yeun zopali tyanantar kela ani aata kela')",
+  "typical_length": "1-13 words per message (avg 3.3), 1-3 messages per burst (avg 1.4) (evidence: 'B: Manje yeun zopali tyanantar kela ani aata kela')",
+  "top_fillers": [
+    "ani",
+    "ha",
+    "ch",
+    "ho",
+    "tr",
+    "ka"
+  ],
+  "opening_phrases": [
+    "haa",
+    "manje yeun zopali",
+    "mnje",
+    "ha jagyach hot",
+    "mi aaj dupari"
+  ],
+  "closing_phrases": [
+    "kuthe pochala??",
+    "puran zop ani rest bhetat ch nhi aahe",
+    "mi aaj dupari 3.00 la zopli ani 7.00 la uthali",
+    "bye",
+    "manje yeun zopali tyanantar kela ani aata kela"
+  ],
+  "punctuation_style": "'?' x3 'B: Dp ka kadhla?'",
+  "question_asking_rate": "asks questions ~17% of turns (5/29 messages) (evidence: 'B: Dp ka kadhla?')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~48% Marathi-Romanized, ~97% English/mixed (evidence: 'B: Manje yeun zopali tyanantar kela ani aata kela')",
+  "address_terms": [
+    "tula"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Manje yeun zopali tyanantar kela ani aata kela')",
+    "greeting": "casual (evidence: 'B: Puran zop ani rest bhetat ch nhi aahe')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 13 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Manje yeun zopali tyanantar kela ani aata kela')",
+  "example_pairs": [
+    {
+      "context": "A: Ohh Kharavh Kharach",
+      "reply": "Manje yeun zopali tyanantar kela ani aata kela",
+      "evidence": "chunk_7, turn_ids 1727-1728"
+    },
+    {
+      "context": "A: Acha Mala vatla tu kashi jagates",
+      "reply": "Mnje",
+      "evidence": "chunk_7, turn_ids 1729-1730"
+    },
+    {
+      "context": "A: Zop kami bhet te Na",
+      "reply": "Ha jagyach hot pn udya dadar la janar aahe tr lavkar uthave lagnar Udya jagin baghu",
+      "evidence": "chunk_7, turn_ids 1731-1732"
+    },
+    {
+      "context": "A: 🤦‍♀️ Mi zopch bolto ahe Ani tu jagacha",
+      "reply": "Mi aaj dupari 3.00 la zopli ani 7.00 la uthali Puran zop ani rest bhetat ch nhi aahe",
+      "evidence": "chunk_7, turn_ids 1733-1734"
+    },
+    {
+      "context": "A: Acha M changla ahe",
+      "reply": "Haa",
+      "evidence": "chunk_7, turn_ids 1735-1736"
+    }
+  ]
+}

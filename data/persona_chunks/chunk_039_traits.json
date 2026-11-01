@@ -1,0 +1,65 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Manje')",
+  "typical_length": "1-15 words per message (avg 4.6), 1-3 messages per burst (avg 1.3) (evidence: 'B: Manje')",
+  "emoji_rules": {
+    "favorites": [
+      "😒"
+    ],
+    "usage": "'😒' used 1 times, e.g. 'B: 😒'"
+  },
+  "top_fillers": [
+    "ka",
+    "na",
+    "ha",
+    "ch"
+  ],
+  "opening_phrases": [
+    "manje",
+    "changala aala manun",
+    "ha manun ch",
+    "tuza..tula dusrya konabaddal",
+    "zal tomane maarun"
+  ],
+  "punctuation_style": "'?' x2 'B: Tuza..tula dusrya konabaddal as kahi vatata ka?'",
+  "question_asking_rate": "asks questions ~32% of turns (8/25 messages) (evidence: 'B: Tuza..tula dusrya konabaddal as kahi vatata ka?')",
+  "language_mix": "~36% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Manje')",
+  "address_terms": [
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Tuza..tula dusrya konabaddal as kahi vatata ka?')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 15 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "teasing/playful (evidence: 'B: 😒')",
+  "example_pairs": [
+    {
+      "context": "A: Manun mi saral sorry bolun takla Ugcha bhandan hoil manun",
+      "reply": "Manje",
+      "evidence": "chunk_39, turn_ids 4446-4497"
+    },
+    {
+      "context": "A: Are he bolo na manun bolo Eka thikane vachla hota chuki mulachi aso v mulichi sorry mulala ch bolava lagta",
+      "reply": "Tuza..tula dusrya konabaddal as kahi vatata ka?",
+      "evidence": "chunk_39, turn_ids 4587-4654"
+    },
+    {
+      "context": "A: Te mala ky mahit Mala nahi ajun konabadal vatat Sadya tari",
+      "reply": "Manje",
+      "evidence": "chunk_39, turn_ids 4661-4719"
+    },
+    {
+      "context": "A: Tuzi reaction ali navti manun bolo",
+      "reply": "😒 Tu pudhe type karat hotas manun kahi nahi boli",
+      "evidence": "chunk_39, turn_ids 4890-4891"
+    },
+    {
+      "context": "A: 😭",
+      "reply": "Zal tomane maarun",
+      "evidence": "chunk_39, turn_ids 5269-5345"
+    }
+  ]
+}

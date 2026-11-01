@@ -1,0 +1,77 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Mi shayad gaavi jana') (evidence: 'B: Mast')",
+  "typical_length": "1-20 words per message (avg 5.2), 1-4 messages per burst (avg 2.0) (evidence: 'B: Mast')",
+  "emoji_rules": {
+    "favorites": [
+      "💃"
+    ],
+    "usage": "'💃' used 1 times, e.g. 'B: Mi shayad gaavi janar aaheeeeeeeee💃'"
+  },
+  "top_fillers": [
+    "pan",
+    "ok",
+    "ho",
+    "ani",
+    "ha",
+    "oh"
+  ],
+  "opening_phrases": [
+    "mast",
+    "time baghyacha asto",
+    "ho kay",
+    "ok",
+    "ok thik aahe"
+  ],
+  "closing_phrases": [
+    "sem chi exam chalu aahe",
+    "thik aahe baher chalay aahes pan tari pan",
+    "zopnar kadhi?"
+  ],
+  "punctuation_style": "'?' x2 'B: Jevalas?'",
+  "elongation_examples": [
+    "Mi shayad gaavi janar aaheeeeeeeee💃"
+  ],
+  "question_asking_rate": "asks questions ~20% of turns (8/40 messages) (evidence: 'B: Ho kay')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~57% Marathi-Romanized, ~98% English/mixed (evidence: 'B: Mast')",
+  "address_terms": [
+    "tu",
+    "tula",
+    "baba"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Zopnar kadhi?')",
+    "greeting": "casual (evidence: 'B: Asach pahije')"
+  },
+  "never_does": [
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Jevalas?')",
+  "example_pairs": [
+    {
+      "context": "A: Ho na 😢 Gharun pan orda khala",
+      "reply": "Mast Asach pahije",
+      "evidence": "chunk_21, turn_ids 373-374"
+    },
+    {
+      "context": "A: 😢",
+      "reply": "Time baghyacha asto Thik aahe baher chalay aahes pan tari pan",
+      "evidence": "chunk_21, turn_ids 375-376"
+    },
+    {
+      "context": "A: Ho",
+      "reply": "Ho kay",
+      "evidence": "chunk_21, turn_ids 377-378"
+    },
+    {
+      "context": "A: Tyat tu asa bolte Ha khara ahe mi message nahi karat Ata sadya Karan time ch nahi betat Ahe Mazya friend lach mi gele 4 divas ignore karto ahe",
+      "reply": "Ok Hyavar mi kay bolu",
+      "evidence": "chunk_21, turn_ids 379-380"
+    },
+    {
+      "context": "A: Gele don divas mi radvela zalo ahe Yevdha kam Exam ali ahe tyat kahich preparation nahi ahe ajun Manun m aaj gelo kasa tari",
+      "reply": "Ok thik aahe I am sorry",
+      "evidence": "chunk_21, turn_ids 381-382"
+    }
+  ]
+}

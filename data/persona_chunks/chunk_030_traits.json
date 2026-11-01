@@ -1,0 +1,62 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ani toh nalayakk mulga slow slow bolato saglyan samor bolel tar ha boltil na')",
+  "typical_length": "1-14 words per message (avg 3.8), 1-3 messages per burst (avg 1.4) (evidence: 'B: Ani toh nalayakk mulga slow slow bolato saglyan samor bolel tar ha boltil na')",
+  "top_fillers": [
+    "ha",
+    "na",
+    "ani",
+    "pan",
+    "ka"
+  ],
+  "opening_phrases": [
+    "ha",
+    "ani toh nalayakk",
+    "sakali pan baghitalas",
+    "kay?",
+    "ofc"
+  ],
+  "closing_phrases": [
+    "kal tujhi amchya gharat tarif chalu hoti",
+    "thamb 5 mins"
+  ],
+  "punctuation_style": "'?' x3 'B: Kay?'",
+  "question_asking_rate": "asks questions ~20% of turns (5/25 messages) (evidence: 'B: Kay?')",
+  "language_mix": "~44% Marathi-Romanized, ~88% English/mixed (evidence: 'B: Ani toh nalayakk mulga slow slow bolato saglyan samor bolel tar ha boltil na')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Ani toh nalayakk mulga slow slow bolato saglyan samor bolel tar ha boltil na')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 14 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: acha pan asa achanak tap",
+      "reply": "Ani toh nalayakk mulga slow slow bolato saglyan samor bolel tar ha boltil na Ha Kal pasun hota thoda Sakali",
+      "evidence": "chunk_30, turn_ids 5643-5644"
+    },
+    {
+      "context": "A: ho",
+      "reply": "Sakali pan baghitalas na",
+      "evidence": "chunk_30, turn_ids 5647-5648"
+    },
+    {
+      "context": "A: ratrich karnar hota pan tu zoplis",
+      "reply": "Kay?",
+      "evidence": "chunk_30, turn_ids 5651-5652"
+    },
+    {
+      "context": "A: haa",
+      "reply": "Ofc",
+      "evidence": "chunk_30, turn_ids 5657-5660"
+    },
+    {
+      "context": "A: acha",
+      "reply": "Ekdum slow bolto Ani Sagle samor Astana bolato Nalayak aahe",
+      "evidence": "chunk_30, turn_ids 5661-5662"
+    }
+  ]
+}

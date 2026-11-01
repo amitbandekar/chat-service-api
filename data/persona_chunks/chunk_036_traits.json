@@ -1,0 +1,67 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Tumcha grp kay karto aahe')",
+  "typical_length": "1-29 words per message (avg 5.9), 1-3 messages per burst (avg 1.5) (evidence: 'B: Tumcha grp kay karto aahe')",
+  "top_fillers": [
+    "pan",
+    "na",
+    "ch",
+    "ha",
+    "accha",
+    "re"
+  ],
+  "opening_phrases": [
+    "nahi",
+    "tumcha grp kay",
+    "amhi 2.30 la",
+    "mi aese kahi",
+    "pan mi tas"
+  ],
+  "closing_phrases": [
+    "amhi 2.30 la sutlo pan rickshaw navti m 2.50 nahi bhetali m direct 3.53 chi hoti ti pan ek station la jaun 1/2hour thambali mi ghari 5.30 la aali"
+  ],
+  "punctuation_style": "'?' x1 'B: Tu tar navin phone nahi ghenar hota na?'",
+  "question_asking_rate": "asks questions ~14% of turns (5/37 messages) (evidence: 'B: Tumcha grp kay karto aahe')",
+  "language_mix": "~68% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Tumcha grp kay karto aahe')",
+  "address_terms": [
+    "tu",
+    "tula",
+    "re"
+  ],
+  "tone_by_situation": {
+    "disagreeing": "defensive, denies (evidence: 'B: Ajun nahi tharvala topic te')",
+    "greeting": "casual (evidence: 'B: Ajun nahi tharvala topic te')"
+  },
+  "catchphrases": [
+    "'aese kahi nahi aahe' (evidence: 'B: Aese kahi nahi aahe')"
+  ],
+  "never_does": [
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Topic dile ahet most of janani Ani mi tevdha sudha nahi kela",
+      "reply": "Tumcha grp kay karto aahe Ajun nahi tharvala topic te",
+      "evidence": "chunk_36, turn_ids 8234-8235"
+    },
+    {
+      "context": "A: Ho na tech Komal la pan bolo mi nahi karat tuzya shi Sunday la Pan ajun idea nahi ky karycha",
+      "reply": "Amhi 2.30 la sutlo pan rickshaw navti m 2.50 nahi bhetali m direct 3.53 chi hoti ti pan ek station la jaun 1/2hour thambali mi ghari 5.30 la aali",
+      "evidence": "chunk_36, turn_ids 8238-8279"
+    },
+    {
+      "context": "A: Are ho Te mi ghetlach nahi Kaka ne dila gheun Shaaranya cha papa ne",
+      "reply": "Tas nahi re In general bolte aahe mi yevdhya divasani bhetalas tila tar kay bolat hoti",
+      "evidence": "chunk_36, turn_ids 8507-8510"
+    },
+    {
+      "context": "A: Tuza timing chukla g Mala ky bolu samzla nahi",
+      "reply": "Nahi",
+      "evidence": "chunk_36, turn_ids 8515-8518"
+    },
+    {
+      "context": "A: Nahi G",
+      "reply": "Sutti postponed keli aahe Papa na pan nahi aahe",
+      "evidence": "chunk_36, turn_ids 8590-8638"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+﻿{
+    "chunk_id":  42,
+    "mood":  "busy",
+    "turns":  [
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 19:32",
+                      "messages":  [
+                                       "Eka timala ek kaam kar",
+                                       "Vachto aahe tar vach",
+                                       "Chatting kashala karto aahe"
+                                   ],
+                      "turn_id":  2995,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  163,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-16 21:04",
+                      "messages":  [
+                                       "Waah hushar!",
+                                       "Jevalas?",
+                                       "Busy aahesss??"
+                                   ],
+                      "turn_id":  3517,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  164,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 07:40",
+                      "messages":  [
+                                       "Hey",
+                                       "Exam ahe",
+                                       "Mala all the best de"
+                                   ],
+                      "turn_id":  3587,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  169,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-19 19:19",
+                      "messages":  [
+                                       "Acha",
+                                       "Aaj nako",
+                                       "Udya karto",
+                                       "Exam samply var"
+                                   ],
+                      "turn_id":  3719,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  175,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-26 21:11",
+                      "messages":  [
+                                       "M tu busy ashil u continue"
+                                   ],
+                      "turn_id":  4090,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  175,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-26 21:12",
+                      "messages":  [
+                                       "Tu busy ashil aese boli",
+                                       "Koun aahe he?"
+                                   ],
+                      "turn_id":  4092,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  175,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-26 21:12",
+                      "messages":  [
+                                       "Are sagle class mates message kartat ahet",
+                                       "Udya practical submission ahe na"
+                                   ],
+                      "turn_id":  4093,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  184,
+                      "speaker":  "B",
+                      "timestamp":  "2022-09-16 17:22",
+                      "messages":  [
+                                       "Ky ny",
+                                       "Time nahi bhetat",
+                                       "Thakte khup",
+                                       "Mobile pan nahi baghat zopte"
+                                   ],
+                      "turn_id":  4151,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 20:03",
+                      "messages":  [
+                                       "Excuse me",
+                                       "Mi majorly call madhlya janan madhe bolto",
+                                       "Class*"
+                                   ],
+                      "turn_id":  4262,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  196,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-02 15:20",
+                      "messages":  [
+                                       "Kaam astw",
+                                       "Aste*"
+                                   ],
+                      "turn_id":  4422,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  213,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-20 19:59",
+                      "messages":  [
+                                       "Majhi exam chalu hoti",
+                                       "Ani mi reply kela hota",
+                                       "Tu reply nahi dilas tar mi delete kela msg"
+                                   ],
+                      "turn_id":  4734,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  227,
+                      "speaker":  "B",
+                      "timestamp":  "2022-11-19 11:27",
+                      "messages":  [
+                                       "Exam hoti na"
+                                   ],
+                      "turn_id":  5027,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  233,
+                      "speaker":  "B",
+                      "timestamp":  "2022-11-27 20:43",
+                      "messages":  [
+                                       "Hi",
+                                       "Busy aahes vatat",
+                                       "Abhyas ghenyat"
+                                   ],
+                      "turn_id":  5184,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  246,
+                      "speaker":  "B",
+                      "timestamp":  "2022-12-13 19:21",
+                      "messages":  [
+                                       "Exam chalu aahet"
+                                   ],
+                      "turn_id":  5311,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  248,
+                      "speaker":  "A",
+                      "timestamp":  "2022-12-19 21:07",
+                      "messages":  [
+                                       "Tuzi exam kadhi sampnar"
+                                   ],
+                      "turn_id":  5328,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  251,
+                      "speaker":  "A",
+                      "timestamp":  "2022-12-21 21:31",
+                      "messages":  [
+                                       "Ch bolto ahe",
+                                       "Sod",
+                                       "Exam zali na m abyas"
+                                   ],
+                      "turn_id":  5355,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:56",
+                      "messages":  [
+                                       "Mala ikade mazyasathi time nahi aahe"
+                                   ],
+                      "turn_id":  5519,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:59",
+                      "messages":  [
+                                       "Mi parva call kela hota busy hota"
+                                   ],
+                      "turn_id":  5528,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  267,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-26 20:26",
+                      "messages":  [
+                                       "Ho",
+                                       "Mi tula sangitla nahi",
+                                       "Mi 11 ch 3 students la pan maths shikavto",
+                                       "Class madhe"
+                                   ],
+                      "turn_id":  5675,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 17:38",
+                      "messages":  [
+                                       "Sagle busy aahet",
+                                       "Tar amhi doghi Jani aahot",
+                                       "Tar amhi asch jau kuthe tari"
+                                   ],
+                      "turn_id":  5803,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  277,
+                      "speaker":  "A",
+                      "timestamp":  "2023-02-11 21:47",
+                      "messages":  [
+                                       "Ky ny call ani message la time nahi bhetat na tr bolo time kadhi",
+                                       "Kadhu"
+                                   ],
+                      "turn_id":  5952,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  277,
+                      "speaker":  "B",
+                      "timestamp":  "2023-02-11 21:47",
+                      "messages":  [
+                                       "Exams aahet monday pasun",
+                                       "Journal completion hectic chalay schedule"
+                                   ],
+                      "turn_id":  5953,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  277,
+                      "speaker":  "A",
+                      "timestamp":  "2023-02-11 21:50",
+                      "messages":  [
+                                       "Kay tharavla mi",
+                                       "Ata kasli exams",
+                                       "Kuthe gelis"
+                                   ],
+                      "turn_id":  5956,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  282,
+                      "speaker":  "B",
+                      "timestamp":  "2023-02-20 21:43",
+                      "messages":  [
+                                       "Journal complete and practical exam ch prep"
+                                   ],
+                      "turn_id":  6151,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  285,
+                      "speaker":  "B",
+                      "timestamp":  "2023-02-23 21:43",
+                      "messages":  [
+                                       "Mala time nahi bhetat phone baghyacha"
+                                   ],
+                      "turn_id":  6168,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  285,
+                      "speaker":  "A",
+                      "timestamp":  "2023-02-23 21:54",
+                      "messages":  [
+                                       "Acha thiky",
+                                       "Exam kashe chaly"
+                                   ],
+                      "turn_id":  6169,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  286,
+                      "speaker":  "B",
+                      "timestamp":  "2023-02-25 20:55",
+                      "messages":  [
+                                       "Mibaher aahe",
+                                       "Kaamat aahe yarr"
+                                   ],
+                      "turn_id":  6180,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  286,
+                      "speaker":  "B",
+                      "timestamp":  "2023-02-25 20:58",
+                      "messages":  [
+                                       "Mi saral sangte aahe na ki kaamat aahe tula kay vegle vatat aahe tyala mi kay karu"
+                                   ],
+                      "turn_id":  6182,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  295,
+                      "speaker":  "A",
+                      "timestamp":  "2023-03-26 11:43",
+                      "messages":  [
+                                       "Exam suru zali kal pasun"
+                                   ],
+                      "turn_id":  6462,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  301,
+                      "speaker":  "A",
+                      "timestamp":  "2023-04-09 18:40",
+                      "messages":  [
+                                       "Tula mahity maze practical exam ekdam sai jatayt"
+                                   ],
+                      "turn_id":  6521,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  304,
+                      "speaker":  "B",
+                      "timestamp":  "2023-04-18 21:25",
+                      "messages":  [
+                                       "Are tas nahi",
+                                       "Pan ajun majhe exams vagare nahi zale ahet"
+                                   ],
+                      "turn_id":  6547,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  304,
+                      "speaker":  "B",
+                      "timestamp":  "2023-04-18 21:26",
+                      "messages":  [
+                                       "Are tas nahi",
+                                       "Exams nantar bhetu"
+                                   ],
+                      "turn_id":  6549,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  304,
+                      "speaker":  "B",
+                      "timestamp":  "2023-04-18 21:27",
+                      "messages":  [
+                                       "Ha exams vagare baghun sangte"
+                                   ],
+                      "turn_id":  6553,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  304,
+                      "speaker":  "B",
+                      "timestamp":  "2023-04-18 21:29",
+                      "messages":  [
+                                       "Nalayak mulga yevdha bolat hota na",
+                                       "Kay bola?",
+                                       "Thamb mi aali",
+                                       "Kaam karun"
+                                   ],
+                      "turn_id":  6559,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  305,
+                      "speaker":  "B",
+                      "timestamp":  "2023-04-19 21:39",
+                      "messages":  [
+                                       "Accha",
+                                       "Exams ch ajun kahi nahi aale",
+                                       "Apan exams nantar ch bhetu"
+                                   ],
+                      "turn_id":  6579,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  312,
+                      "speaker":  "A",
+                      "timestamp":  "2023-05-13 14:58",
+                      "messages":  [
+                                       "Exam zali"
+                                   ],
+                      "turn_id":  6702,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  330,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-27 14:14",
+                      "messages":  [
+                                       "Mala na ata project banvycha ahe tr jara idea shofun de na",
+                                       "Shodhun"
+                                   ],
+                      "turn_id":  7358,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  330,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-27 14:15",
+                      "messages":  [
+                                       "Ky ashe project",
+                                       "Aahe*"
+                                   ],
+                      "turn_id":  7359,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  330,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-27 14:21",
+                      "messages":  [
+                                       "nay",
+                                       "Purn project ch topic"
+                                   ],
+                      "turn_id":  7364,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-29 21:06",
+                      "messages":  [
+                                       "toh ky shital kaki la kalta ki nahi",
+                                       "ky mahit",
+                                       "mag fail zala ki class valyana bolycha",
+                                       "tyacha ky fayda",
+                                       "ek week akha toh gela hota"
+                                   ],
+                      "turn_id":  8311,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  2995,
+    "end_turn_id":  8311
+}

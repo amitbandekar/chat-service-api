@@ -1,0 +1,78 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., '😒😒😒😒😒😒') (evidence: 'B: Jaude toh madat karto toh')",
+  "typical_length": "1-12 words per message (avg 3.9), 1-4 messages per burst (avg 1.6) (evidence: 'B: Jaude toh madat karto toh')",
+  "emoji_rules": {
+    "favorites": [
+      "😒😒😒😒😒😒",
+      "😒",
+      "😒😒😒😒😒"
+    ],
+    "usage": "'😒😒😒😒😒😒' used 1 times, e.g. 'B: 😒😒😒😒😒😒'; '😒' used 1 times, e.g. 'B: 😒😒😒😒😒😒'; '😒😒😒😒😒' used 1 times, e.g. 'B: 😒😒😒😒😒😒'"
+  },
+  "top_fillers": [
+    "ha",
+    "ka",
+    "re",
+    "pan",
+    "ky",
+    "ch"
+  ],
+  "opening_phrases": [
+    "jaude toh madat",
+    "karto toh kaki",
+    "are toh ghabharto",
+    "mla nhi",
+    "ha re pan"
+  ],
+  "closing_phrases": [
+    "thamb aali mi"
+  ],
+  "punctuation_style": "'?' x6 'B: ??'",
+  "elongation_examples": [
+    "😒😒😒😒😒😒",
+    "😒😒😒😒😒"
+  ],
+  "question_asking_rate": "asks questions ~25% of turns (8/32 messages) (evidence: 'B: ??')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~47% Marathi-Romanized, ~97% English/mixed (evidence: 'B: Jaude toh madat karto toh')",
+  "address_terms": [
+    "re",
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Karto toh kaki la bolto baher jaych aste tevha')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 12 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "teasing/playful (evidence: 'B: 😒😒😒😒😒😒')",
+  "example_pairs": [
+    {
+      "context": "A: Tari pan ky tula tevdha karta nahi yet Jauded hota hai kisi kisi me",
+      "reply": "Jaude toh madat karto toh",
+      "evidence": "chunk_19, turn_ids 6877-6878"
+    },
+    {
+      "context": "A: Tu karvun gheyla havis Kiti karto te distach ahe",
+      "reply": "Karto toh kaki la bolto baher jaych aste tevha",
+      "evidence": "chunk_19, turn_ids 6879-6880"
+    },
+    {
+      "context": "A: He is controlling u",
+      "reply": "Are toh ghabharto lagech",
+      "evidence": "chunk_19, turn_ids 6881-6882"
+    },
+    {
+      "context": "A: M ghabrav",
+      "reply": "Mla nhi Kaka la",
+      "evidence": "chunk_19, turn_ids 6883-6884"
+    },
+    {
+      "context": "A: Tu pan ghabrav Ani kaka na tu nahi handle karu shakat Tuzhech kaka ahet na Me pan konala samzavto ahe",
+      "reply": "Ha re pan mi sunny shivya baher nahi padu shkat",
+      "evidence": "chunk_19, turn_ids 6885-6886"
+    }
+  ]
+}

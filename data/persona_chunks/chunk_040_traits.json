@@ -1,0 +1,63 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Mala kahi nahi vatle manun tula vichrle na kashyabadal te')",
+  "typical_length": "1-12 words per message (avg 5.4), 1-3 messages per burst (avg 1.4) (evidence: 'B: Mala kahi nahi vatle manun tula vichrle na kashyabadal te')",
+  "top_fillers": [
+    "ha",
+    "ka",
+    "pan",
+    "na",
+    "accha",
+    "tr"
+  ],
+  "opening_phrases": [
+    "mala kahi nahi",
+    "mandovi",
+    "hha",
+    "offline hoti manun",
+    "mi ekti nahi"
+  ],
+  "closing_phrases": [
+    "kounala aanyach manje tyana sangave lagel ka chali kuthe vagare vagre"
+  ],
+  "punctuation_style": "'?' x3 'B: Ka??'",
+  "question_asking_rate": "asks questions ~37% of turns (7/19 messages) (evidence: 'B: Kay nay khup kay kay hot manat manun frustation zal')",
+  "language_mix": "~47% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Mala kahi nahi vatle manun tula vichrle na kashyabadal te')",
+  "address_terms": [
+    "tula"
+  ],
+  "tone_by_situation": {
+    "upset": "expresses sadness (evidence: 'B: Manje mala kahi problem nahi aahe pan tyana vatat kahitari aahe manun')",
+    "greeting": "casual (evidence: 'B: Mala kahi nahi vatle manun tula vichrle na kashyabadal te')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 12 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Tula kashya badal vatla",
+      "reply": "Mala kahi nahi vatle manun tula vichrle na kashyabadal te",
+      "evidence": "chunk_40, turn_ids 2876-2877"
+    },
+    {
+      "context": "A: Are kharach Mala kadhi vatchh nahi tu lamb javas Manun tu janar yacha mi vichr Nahi kela M trass hoto",
+      "reply": "Hha Kay nay khup kay kay hot manat manun frustation zal",
+      "evidence": "chunk_40, turn_ids 3376-3506"
+    },
+    {
+      "context": "A: 🥲 Tuzya mule",
+      "reply": "Offline hoti manun",
+      "evidence": "chunk_40, turn_ids 3593-3684"
+    },
+    {
+      "context": "A: at this phase mi khup adictive zalo ahe ya friendship la manun break karnycha vichar sudha nahi karu shakat",
+      "reply": "Nahi karu shakat bolas pan manat vichar tr aalana",
+      "evidence": "chunk_40, turn_ids 4272-4275"
+    },
+    {
+      "context": "A: Manun mi saral sorry bolun takla Ugcha bhandan hoil manun",
+      "reply": "Manje",
+      "evidence": "chunk_40, turn_ids 4446-4497"
+    }
+  ]
+}

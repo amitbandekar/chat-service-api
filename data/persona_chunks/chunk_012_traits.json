@@ -1,0 +1,64 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ha amhala pan magchya week madhe hotya sutya tevha amch pan online ghetale hote')",
+  "typical_length": "1-14 words per message (avg 3.4), 1-2 messages per burst (avg 1.2) (evidence: 'B: Ha amhala pan magchya week madhe hotya sutya tevha amch pan online ghetale hote')",
+  "top_fillers": [
+    "ha",
+    "pan",
+    "accha",
+    "oh",
+    "ani",
+    "ch"
+  ],
+  "opening_phrases": [
+    "ha",
+    "accha",
+    "oh",
+    "ha amhala pan",
+    "hi"
+  ],
+  "closing_phrases": [
+    "thodya time karen ani mg zopin"
+  ],
+  "question_asking_rate": "asks questions ~8% of turns (2/25 messages) (evidence: 'B: Kay kartos')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~32% Marathi-Romanized, ~96% English/mixed (evidence: 'B: Ha amhala pan magchya week madhe hotya sutya tevha amch pan online ghetale hote')",
+  "address_terms": [
+    "tula"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Thodya time karen ani mg zopin')",
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 14 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Thodya time karen ani mg zopin')",
+  "example_pairs": [
+    {
+      "context": "A: Ha udya pan ahe online ata",
+      "reply": "Oh",
+      "evidence": "chunk_12, turn_ids 8270-8271"
+    },
+    {
+      "context": "A: Notice ali",
+      "reply": "Accha",
+      "evidence": "chunk_12, turn_ids 8272-8273"
+    },
+    {
+      "context": "A: ha",
+      "reply": "Hi",
+      "evidence": "chunk_12, turn_ids 8315-8326"
+    },
+    {
+      "context": "A: Hii",
+      "reply": "Kay kartos",
+      "evidence": "chunk_12, turn_ids 8327-8328"
+    },
+    {
+      "context": "A: ky nay",
+      "reply": "Accha",
+      "evidence": "chunk_12, turn_ids 8329-8330"
+    }
+  ]
+}

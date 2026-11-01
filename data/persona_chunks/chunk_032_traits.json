@@ -1,0 +1,68 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Hooo') (evidence: 'B: Ok continue')",
+  "typical_length": "1-10 words per message (avg 2.1), 1-2 messages per burst (avg 1.2) (evidence: 'B: Ok continue')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️"
+    ],
+    "usage": "'🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "ok",
+    "ky",
+    "oh",
+    "ho",
+    "ha",
+    "na"
+  ],
+  "opening_phrases": [
+    "oh",
+    "ho",
+    "ha",
+    "ok continue",
+    "ky bolu?"
+  ],
+  "closing_phrases": [
+    "mama kadhe aali aahe ikdun dada kadhe chali bday aahe"
+  ],
+  "punctuation_style": "'?' x3 'B: Ky bolu?'",
+  "elongation_examples": [
+    "Hooo"
+  ],
+  "question_asking_rate": "asks questions ~27% of turns (6/22 messages) (evidence: 'B: Ky bolu?')",
+  "language_mix": "~41% Marathi-Romanized, ~82% English/mixed (evidence: 'B: Ok continue')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Ky bolu?')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 10 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Mutual fund ahe na tyat Investment karnar ahe Kaka ne bola ahe Tycha form fill karto ahe",
+      "reply": "Ok continue",
+      "evidence": "chunk_32, turn_ids 3693-3694"
+    },
+    {
+      "context": "A: Bol tu",
+      "reply": "Ky bolu?",
+      "evidence": "chunk_32, turn_ids 3695-3696"
+    },
+    {
+      "context": "A: Visarli ka",
+      "reply": "Ky",
+      "evidence": "chunk_32, turn_ids 3699-3700"
+    },
+    {
+      "context": "A: Mi visarlo Kal ky ky sangnar hoto",
+      "reply": "Oh",
+      "evidence": "chunk_32, turn_ids 3701-3702"
+    },
+    {
+      "context": "A: K Tuza laptop use karte ka ata",
+      "reply": "Kdhi kdhi",
+      "evidence": "chunk_32, turn_ids 3705-3706"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Hi')",
+  "typical_length": "1-10 words per message (avg 2.3), 1-3 messages per burst (avg 1.4) (evidence: 'B: Hi')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️",
+      "😒"
+    ],
+    "usage": "'🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'; '😒' used 1 times, e.g. 'B: 😒'"
+  },
+  "top_fillers": [
+    "ha",
+    "ho",
+    "accha",
+    "he",
+    "na"
+  ],
+  "opening_phrases": [
+    "ha",
+    "hi",
+    "ho",
+    "🤦‍♀️",
+    "kay lagla bol"
+  ],
+  "closing_phrases": [
+    "ho chalo",
+    "chali"
+  ],
+  "punctuation_style": "'?' x1 'B: Kuthe gelas?'",
+  "question_asking_rate": "asks questions ~18% of turns (5/28 messages) (evidence: 'B: Kay lagla bol')",
+  "language_mix": "~36% Marathi-Romanized, ~93% English/mixed (evidence: 'B: Hi')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 10 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "teasing/playful (evidence: 'B: 😒')",
+  "example_pairs": [
+    {
+      "context": "A: aaj amcha result lagla",
+      "reply": "M",
+      "evidence": "chunk_28, turn_ids 5470-5471"
+    },
+    {
+      "context": "A: ha konta m ahe savage vala ki normal",
+      "reply": "🤦‍♀️ Sagal complicate karyach aste baas",
+      "evidence": "chunk_28, turn_ids 5472-5473"
+    },
+    {
+      "context": "A: 9.20",
+      "reply": "Scholarr",
+      "evidence": "chunk_28, turn_ids 5476-5477"
+    },
+    {
+      "context": "A: hmm Tu college madhun yevdh late kasa hota",
+      "reply": "Ha Sakli 7.00 la jate ti sandyakali 6.00 7.00 la yete",
+      "evidence": "chunk_28, turn_ids 5478-5481"
+    },
+    {
+      "context": "A: Train la gardi aste tumcha side la",
+      "reply": "Ho",
+      "evidence": "chunk_28, turn_ids 5482-5483"
+    }
+  ]
+}

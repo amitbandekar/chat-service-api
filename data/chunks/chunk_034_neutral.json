@@ -1,0 +1,423 @@
+﻿{
+    "chunk_id":  34,
+    "mood":  "neutral",
+    "turns":  [
+                  {
+                      "session_id":  462,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-09 15:38",
+                      "messages":  [
+                                       "Dupari nighali"
+                                   ],
+                      "turn_id":  9388,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-09 15:46",
+                      "messages":  [
+                                       "Acha"
+                                   ],
+                      "turn_id":  9389,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-09 17:54",
+                      "messages":  [
+                                       "Ha",
+                                       "Tu kal ghari hota?"
+                                   ],
+                      "turn_id":  9390,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-09 17:58",
+                      "messages":  [
+                                       "kal sunday hota"
+                                   ],
+                      "turn_id":  9391,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-09 19:19",
+                      "messages":  [
+                                       "Ha mahiti aahe"
+                                   ],
+                      "turn_id":  9392,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-09 21:14",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9394,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  462,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-09 21:38",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9395,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  463,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-11 11:24",
+                      "messages":  [
+                                       "HI",
+                                       "Aaj paper ahe maza",
+                                       "All The best de"
+                                   ],
+                      "turn_id":  9396,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  463,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-11 11:36",
+                      "messages":  [
+                                       "All the Bestt!"
+                                   ],
+                      "turn_id":  9397,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  464,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-11 20:10",
+                      "messages":  [
+                                       "Kasa gela paper?"
+                                   ],
+                      "turn_id":  9398,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  464,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-11 20:55",
+                      "messages":  [
+                                       "nay g",
+                                       "theory ti jamlich nay",
+                                       "question baghun athvat hote pan answers nay athavle",
+                                       "baghu ata lihun aloy"
+                                   ],
+                      "turn_id":  9399,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  465,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-12 07:34",
+                      "messages":  [
+                                       "Question 9 lihle ahet"
+                                   ],
+                      "turn_id":  9409,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  466,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-12 11:52",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9410,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  466,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-12 12:20",
+                      "messages":  [
+                                       "baghu magcha goshiti change nay karu shakat pudhcha karen"
+                                   ],
+                      "turn_id":  9411,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  466,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-12 14:31",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9412,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  468,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-15 10:48",
+                      "messages":  [
+                                       "ðŸ« ",
+                                       "Zopetun uthun anly ka"
+                                   ],
+                      "turn_id":  9421,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  468,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-15 15:39",
+                      "messages":  [
+                                       "Hoo",
+                                       "7.30 vasta uthvale mala"
+                                   ],
+                      "turn_id":  9422,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  469,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-15 19:43",
+                      "messages":  [
+                                       "Are baap re",
+                                       "Sunday cha divshi pan"
+                                   ],
+                      "turn_id":  9423,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  470,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-16 07:32",
+                      "messages":  [
+                                       "Meet hota"
+                                   ],
+                      "turn_id":  9431,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  470,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-16 10:44",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9432,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  471,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-19 18:00",
+                      "messages":  [
+                                       "Changali ghosht aahe"
+                                   ],
+                      "turn_id":  9434,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  471,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-19 18:19",
+                      "messages":  [
+                                       "ha\n25/06/25, 7:46â€¯pm - A:"
+                                   ],
+                      "turn_id":  9435,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 21:18",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  9446,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 21:21",
+                      "messages":  [
+                                       "Tham karto nantar",
+                                       "Riya kade aloy"
+                                   ],
+                      "turn_id":  9447,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 21:24",
+                      "messages":  [
+                                       "Okay"
+                                   ],
+                      "turn_id":  9448,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  474,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 09:13",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9648,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  474,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 09:23",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9649,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  476,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-22 21:34",
+                      "messages":  [
+                                       "Hio"
+                                   ],
+                      "turn_id":  9672,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  476,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-22 21:40",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  9673,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  476,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-22 21:45",
+                      "messages":  [
+                                       "Ahes ka"
+                                   ],
+                      "turn_id":  9674,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-24 12:59",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  9728,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-24 13:43",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  9729,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-24 13:50",
+                      "messages":  [
+                                       "shanivari convocation ahe"
+                                   ],
+                      "turn_id":  9730,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-24 14:04",
+                      "messages":  [
+                                       "Accha changal aahe"
+                                   ],
+                      "turn_id":  9731,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-24 14:10",
+                      "messages":  [
+                                       "maza first time ahe"
+                                   ],
+                      "turn_id":  9732,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-24 14:26",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9733,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-24 14:39",
+                      "messages":  [
+                                       "riya vachli",
+                                       "ticha phone la child lock lagt ny nit",
+                                       "meet fasla",
+                                       "kal jevla ny dupari"
+                                   ],
+                      "turn_id":  9734,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-24 14:59",
+                      "messages":  [
+                                       "ðŸ¤¦ðŸ»â€â™€ï¸"
+                                   ],
+                      "turn_id":  9735,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-24 17:23",
+                      "messages":  [
+                                       "zala vatta",
+                                       "kal ek divas hota",
+                                       "aaj sutla toh pan"
+                                   ],
+                      "turn_id":  9736,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  477,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-24 17:35",
+                      "messages":  [
+                                       "Accha aata parat naav sangu nako"
+                                   ],
+                      "turn_id":  9737,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  9388,
+    "end_turn_id":  9737
+}

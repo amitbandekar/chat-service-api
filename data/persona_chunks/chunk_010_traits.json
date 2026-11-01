@@ -1,0 +1,74 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Sasari mahiti pn mjhi mummy aahe ch')",
+  "typical_length": "1-8 words per message (avg 3.3), 1-3 messages per burst (avg 1.4) (evidence: 'B: Sasari mahiti pn mjhi mummy aahe ch')",
+  "emoji_rules": {
+    "favorites": [
+      "😒"
+    ],
+    "usage": "'😒' used 1 times, e.g. 'B: 😒'"
+  },
+  "top_fillers": [
+    "ha",
+    "ch",
+    "he",
+    "ky",
+    "ho",
+    "accha"
+  ],
+  "opening_phrases": [
+    "ho",
+    "ha",
+    "accha",
+    "sasari mahiti pn",
+    "sangyala he upwaas"
+  ],
+  "closing_phrases": [
+    "aata thevate mi phone",
+    "bye"
+  ],
+  "punctuation_style": "'?' x3 'B: Koun?'",
+  "question_asking_rate": "asks questions ~21% of turns (6/29 messages) (evidence: 'B: Sasari mhiti nhi ky boltil aese')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~59% Marathi-Romanized, ~93% English/mixed (evidence: 'B: Sasari mahiti pn mjhi mummy aahe ch')",
+  "address_terms": [
+    "baba",
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Nhi uthun marel aata mala')",
+    "greeting": "casual (evidence: 'B: Sasari mahiti pn mjhi mummy aahe ch')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 8 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Jaude tu ani toh baghun ghe'); teasing/playful (evidence: 'B: 😒')",
+  "example_pairs": [
+    {
+      "context": "A: Ky",
+      "reply": "Sangyala he upwaas kr te kr",
+      "evidence": "chunk_10, turn_ids 7644-7645"
+    },
+    {
+      "context": "A: Acha tasa",
+      "reply": "Sasari mhiti nhi ky boltil aese",
+      "evidence": "chunk_10, turn_ids 7646-7647"
+    },
+    {
+      "context": "A: aaj dada ne pan kela hota",
+      "reply": "Oh",
+      "evidence": "chunk_10, turn_ids 7648-7649"
+    },
+    {
+      "context": "A: Raut kaki ni sabudane Wade dile hote",
+      "reply": "Koun?",
+      "evidence": "chunk_10, turn_ids 7650-7651"
+    },
+    {
+      "context": "A: Raut kaki nahi mahit Mahit asel Amcha bajula rahatat te",
+      "reply": "Komal chi aai",
+      "evidence": "chunk_10, turn_ids 7652-7653"
+    }
+  ]
+}

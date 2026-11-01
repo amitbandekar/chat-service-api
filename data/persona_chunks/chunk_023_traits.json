@@ -1,0 +1,54 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ky bolu')",
+  "typical_length": "1-5 words per message (avg 1.6), 1-2 messages per burst (avg 1.1) (evidence: 'B: Ky bolu')",
+  "top_fillers": [
+    "ok",
+    "ha",
+    "ky",
+    "oh"
+  ],
+  "opening_phrases": [
+    "ok",
+    "ha",
+    "ky bolu",
+    "kuthe ny",
+    "changala aahe"
+  ],
+  "punctuation_style": "'?' x1 'B: Pakka?'",
+  "question_asking_rate": "asks questions ~22% of turns (4/18 messages) (evidence: 'B: Ky bolu')",
+  "language_mix": "~22% Marathi-Romanized, ~94% English/mixed (evidence: 'B: Ky bolu')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Ky bolu')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 5 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: M bol",
+      "reply": "Ky bolu",
+      "evidence": "chunk_23, turn_ids 2601-2602"
+    },
+    {
+      "context": "A: Kuthe gayab zali hoti",
+      "reply": "Kuthe ny",
+      "evidence": "chunk_23, turn_ids 2603-2604"
+    },
+    {
+      "context": "A: Acha Profile photo kasa ahe",
+      "reply": "Changala aahe",
+      "evidence": "chunk_23, turn_ids 2607-2608"
+    },
+    {
+      "context": "A: क्या ये हसीन चेहरा उफ तेरी अदा\nतुझे पे मे ही नाही सरा जहा है फिदा Hi pan ahe Buri nazar se jo dekhe tuze\nuski nochlu akhe\nHasen ho tum itni\nMere nazar se toh dekhe",
+      "reply": "Saglya",
+      "evidence": "chunk_23, turn_ids 2613-2616"
+    },
+    {
+      "context": "A: Acha 🤗",
+      "reply": "Ha",
+      "evidence": "chunk_23, turn_ids 2617-2618"
+    }
+  ]
+}

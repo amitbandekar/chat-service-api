@@ -1,0 +1,70 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Baghu kay hot te')",
+  "typical_length": "1-13 words per message (avg 4.3), 1-4 messages per burst (avg 1.7) (evidence: 'B: Baghu kay hot te')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️"
+    ],
+    "usage": "'🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "pan",
+    "ch",
+    "ha",
+    "ani",
+    "ka",
+    "ky"
+  ],
+  "opening_phrases": [
+    "baghu kay hot",
+    "14 chya aadhi",
+    "ha pan mala",
+    "nahi",
+    "praticals astat"
+  ],
+  "closing_phrases": [
+    "bye",
+    "te miss karun nahi chalnar"
+  ],
+  "punctuation_style": "'?' x4 'B: Aalas ka m ghari?'",
+  "question_asking_rate": "asks questions ~23% of turns (8/35 messages) (evidence: 'B: Baghu kay hot te')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~54% Marathi-Romanized, ~97% English/mixed (evidence: 'B: Baghu kay hot te')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Jast divas rahu pan nahi sakat')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 13 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Ho",
+      "reply": "14 chya aadhi yave lagnar",
+      "evidence": "chunk_14, turn_ids 417-418"
+    },
+    {
+      "context": "A: Thoda tari relief hoil",
+      "reply": "Ha pan mala mahiti nahi parat kadhi jayala bhetnar Sagale janar aahet may madhe Amchi vadit program aahet",
+      "evidence": "chunk_14, turn_ids 419-420"
+    },
+    {
+      "context": "A: Acha Tevha pan jau shakte thode divas Starting aselbna sem chi",
+      "reply": "Nahi Baal lagn pan aahe gharat Plus clg pan asnar Ani miss tar bilkul nahi karu shakat",
+      "evidence": "chunk_14, turn_ids 421-422"
+    },
+    {
+      "context": "A: Tyat kay yevdha Tu kay hushar ahet cover karshil tevdha",
+      "reply": "Praticals astat Te miss karun nahi chalnar",
+      "evidence": "chunk_14, turn_ids 423-424"
+    },
+    {
+      "context": "A: Ho Ka",
+      "reply": "Ha Ani amch clg tumchya sarkh naste 2 hours ch kiva 3 hours ch Amch sakali 8.45 te sandyakali 5.30 paryant aste",
+      "evidence": "chunk_14, turn_ids 425-426"
+    }
+  ]
+}

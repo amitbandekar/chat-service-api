@@ -1,0 +1,63 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: So')",
+  "typical_length": "1-9 words per message (avg 2.7), 1-2 messages per burst (avg 1.1) (evidence: 'B: So')",
+  "top_fillers": [
+    "na",
+    "accha",
+    "ha",
+    "ka",
+    "oh"
+  ],
+  "opening_phrases": [
+    "nahi",
+    "so",
+    "lame",
+    "joke",
+    "bye"
+  ],
+  "closing_phrases": [
+    "bye"
+  ],
+  "punctuation_style": "'?' x6 'B: Potat gola aala ka??'",
+  "question_asking_rate": "asks questions ~26% of turns (6/23 messages) (evidence: 'B: Tula tine hug kel tevha kay vatal')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~30% Marathi-Romanized, ~100% English/mixed (evidence: 'B: So')",
+  "address_terms": [
+    "tula"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Good night')",
+    "greeting": "casual (evidence: 'B: Hyavar bikul bharosa nhi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 9 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: aho bolcha 😂😂",
+      "reply": "Lame",
+      "evidence": "chunk_4, turn_ids 3649-3650"
+    },
+    {
+      "context": "A: ky",
+      "reply": "Joke",
+      "evidence": "chunk_4, turn_ids 3651-3652"
+    },
+    {
+      "context": "A: beta nahi aho 😂😂😂 chal bye zop m ja",
+      "reply": "Bye",
+      "evidence": "chunk_4, turn_ids 3653-3654"
+    },
+    {
+      "context": "A: kon uthav ta tula ki alaram",
+      "reply": "Papa",
+      "evidence": "chunk_4, turn_ids 3655-3656"
+    },
+    {
+      "context": "A: aaj tr alaram vajlach nahi late zala",
+      "reply": "Hyavar bikul bharosa nhi",
+      "evidence": "chunk_4, turn_ids 3657-3658"
+    }
+  ]
+}

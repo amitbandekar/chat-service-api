@@ -1,0 +1,423 @@
+﻿{
+    "chunk_id":  27,
+    "mood":  "neutral",
+    "turns":  [
+                  {
+                      "session_id":  326,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-24 20:51",
+                      "messages":  [
+                                       "Gf chya maghe veda zala aahe"
+                                   ],
+                      "turn_id":  7054,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:12",
+                      "messages":  [
+                                       "Ha bolo te mi tyala",
+                                       "Ky chalu ahe"
+                                   ],
+                      "turn_id":  7055,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:14",
+                      "messages":  [
+                                       "Are deva"
+                                   ],
+                      "turn_id":  7057,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:16",
+                      "messages":  [
+                                       "Are re",
+                                       "Kiti ti lachari"
+                                   ],
+                      "turn_id":  7059,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:22",
+                      "messages":  [
+                                       "Yevdhe yede ahe ka sangyala tevdhi akkal ahe"
+                                   ],
+                      "turn_id":  7063,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-24 21:23",
+                      "messages":  [
+                                       "Tula samjale mi kay bolate ?",
+                                       "Toh veglya meaning ne bolato aahe baba"
+                                   ],
+                      "turn_id":  7064,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-24 21:29",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  7066,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:29",
+                      "messages":  [
+                                       "ky",
+                                       "Ahe m meaning"
+                                   ],
+                      "turn_id":  7067,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-24 21:49",
+                      "messages":  [
+                                       "Tula kay vatat"
+                                   ],
+                      "turn_id":  7068,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:55",
+                      "messages":  [
+                                       "Hech na ki sab katam"
+                                   ],
+                      "turn_id":  7069,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-24 21:58",
+                      "messages":  [
+                                       "Kay?"
+                                   ],
+                      "turn_id":  7070,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  326,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-24 21:58",
+                      "messages":  [
+                                       "Ny mahit",
+                                       "Mala ky bolty tumhi te"
+                                   ],
+                      "turn_id":  7071,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  327,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-25 20:34",
+                      "messages":  [
+                                       "Hii"
+                                   ],
+                      "turn_id":  7148,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  327,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-25 21:15",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  7149,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:02",
+                      "messages":  [
+                                       "Hii"
+                                   ],
+                      "turn_id":  7242,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:03",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  7243,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:03",
+                      "messages":  [
+                                       "Clg sutla"
+                                   ],
+                      "turn_id":  7244,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:03",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  7245,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:10",
+                      "messages":  [
+                                       "live location shared"
+                                   ],
+                      "turn_id":  7246,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:11",
+                      "messages":  [
+                                       "Nako yeu"
+                                   ],
+                      "turn_id":  7248,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:11",
+                      "messages":  [
+                                       "Tuzyvar aahe"
+                                   ],
+                      "turn_id":  7249,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:15",
+                      "messages":  [
+                                       "Bg",
+                                       "Osha park na",
+                                       "Ek min",
+                                       "East la ahe ka"
+                                   ],
+                      "turn_id":  7250,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:19",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  7251,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:19",
+                      "messages":  [
+                                       "Ha m khalich ahe"
+                                   ],
+                      "turn_id":  7252,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:19",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  7253,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:19",
+                      "messages":  [
+                                       "Ata"
+                                   ],
+                      "turn_id":  7254,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:20",
+                      "messages":  [
+                                       "Kuthe?"
+                                   ],
+                      "turn_id":  7255,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:20",
+                      "messages":  [
+                                       "Istri vala ahe samor",
+                                       "Basyla jaga",
+                                       "Ahe"
+                                   ],
+                      "turn_id":  7256,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:20",
+                      "messages":  [
+                                       "Te chinese ch dukan aahe bagh"
+                                   ],
+                      "turn_id":  7257,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:20",
+                      "messages":  [
+                                       "Ha",
+                                       "Tyach ky"
+                                   ],
+                      "turn_id":  7258,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:21",
+                      "messages":  [
+                                       "Tithech ahe",
+                                       "hi kar",
+                                       "ata"
+                                   ],
+                      "turn_id":  7260,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:22",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸",
+                                       "Ektach ?"
+                                   ],
+                      "turn_id":  7261,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:22",
+                      "messages":  [
+                                       "M"
+                                   ],
+                      "turn_id":  7262,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:22",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  7265,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:22",
+                      "messages":  [
+                                       "Tyala ja bolo"
+                                   ],
+                      "turn_id":  7266,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:23",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  7267,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:23",
+                      "messages":  [
+                                       "Ajun"
+                                   ],
+                      "turn_id":  7268,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:23",
+                      "messages":  [
+                                       "Yevdh clg avdate id ajun ghalum thevala aahe"
+                                   ],
+                      "turn_id":  7269,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "A",
+                      "timestamp":  "2023-06-26 13:23",
+                      "messages":  [
+                                       "Ho",
+                                       "Hod ch lec hota las"
+                                   ],
+                      "turn_id":  7270,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  328,
+                      "speaker":  "B",
+                      "timestamp":  "2023-06-26 13:24",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  7271,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  7054,
+    "end_turn_id":  7271
+}

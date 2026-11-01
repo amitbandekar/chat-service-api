@@ -1,0 +1,73 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Busy aahesss??') (evidence: 'B: Eka timala ek kaam kar')",
+  "typical_length": "1-17 words per message (avg 4.0), 1-4 messages per burst (avg 2.1) (evidence: 'B: Eka timala ek kaam kar')",
+  "top_fillers": [
+    "na",
+    "ch",
+    "ky",
+    "pan",
+    "he",
+    "ani"
+  ],
+  "opening_phrases": [
+    "are tas nahi",
+    "eka timala ek",
+    "waah hushar!",
+    "m tu busy",
+    "tu busy ashil"
+  ],
+  "closing_phrases": [
+    "mobile pan nahi baghat zopte",
+    "journal completion hectic chalay schedule",
+    "majhi exam chalu hoti",
+    "thamb mi aali",
+    "exam chalu aahet"
+  ],
+  "punctuation_style": "'?' x5 'B: Jevalas?'; '!' x1 'B: Waah hushar!'",
+  "elongation_examples": [
+    "Busy aahesss??"
+  ],
+  "question_asking_rate": "asks questions ~21% of turns (10/48 messages) (evidence: 'B: Jevalas?')",
+  "language_mix": "~38% Marathi-Romanized, ~98% English/mixed (evidence: 'B: Eka timala ek kaam kar')",
+  "address_terms": [
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: M tu busy ashil u continue')"
+  },
+  "catchphrases": [
+    "'are tas nahi' (evidence: 'B: Are tas nahi')"
+  ],
+  "never_does": [
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Jevalas?')",
+  "example_pairs": [
+    {
+      "context": "A: Acha Aaj nako Udya karto Exam samply var",
+      "reply": "M tu busy ashil u continue",
+      "evidence": "chunk_42, turn_ids 3719-4090"
+    },
+    {
+      "context": "A: Are sagle class mates message kartat ahet Udya practical submission ahe na",
+      "reply": "Ky ny Time nahi bhetat Thakte khup Mobile pan nahi baghat zopte",
+      "evidence": "chunk_42, turn_ids 4093-4151"
+    },
+    {
+      "context": "A: Excuse me Mi majorly call madhlya janan madhe bolto Class*",
+      "reply": "Kaam astw Aste*",
+      "evidence": "chunk_42, turn_ids 4262-4422"
+    },
+    {
+      "context": "A: Ch bolto ahe Sod Exam zali na m abyas",
+      "reply": "Mala ikade mazyasathi time nahi aahe",
+      "evidence": "chunk_42, turn_ids 5355-5519"
+    },
+    {
+      "context": "A: Ho Mi tula sangitla nahi Mi 11 ch 3 students la pan maths shikavto Class madhe",
+      "reply": "Sagle busy aahet Tar amhi doghi Jani aahot Tar amhi asch jau kuthe tari",
+      "evidence": "chunk_42, turn_ids 5675-5803"
+    }
+  ]
+}

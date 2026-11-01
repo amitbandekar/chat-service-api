@@ -1,0 +1,55 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ha')",
+  "typical_length": "1-4 words per message (avg 1.7), 1-2 messages per burst (avg 1.1) (evidence: 'B: Ha')",
+  "top_fillers": [
+    "ha",
+    "oh"
+  ],
+  "opening_phrases": [
+    "ha",
+    "oh",
+    "11.55 chya train",
+    "hi",
+    "zopali mi"
+  ],
+  "closing_phrases": [
+    "zopali mi"
+  ],
+  "question_asking_rate": "asks questions ~0% of turns (0/20 messages)",
+  "language_mix": "~15% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Ha')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 4 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Zopali mi')",
+  "example_pairs": [
+    {
+      "context": "A: Clg la kadhi janar",
+      "reply": "11.55 chya train ne",
+      "evidence": "chunk_29, turn_ids 2801-2802"
+    },
+    {
+      "context": "A: Acha",
+      "reply": "Ha",
+      "evidence": "chunk_29, turn_ids 2803-2804"
+    },
+    {
+      "context": "A: Hey",
+      "reply": "Hi",
+      "evidence": "chunk_29, turn_ids 2870-2871"
+    },
+    {
+      "context": "A: Gav gelis te",
+      "reply": "Oh Chaan vatat aahe",
+      "evidence": "chunk_29, turn_ids 2874-2875"
+    },
+    {
+      "context": "A: Acha Acha",
+      "reply": "Ha",
+      "evidence": "chunk_29, turn_ids 2878-2879"
+    }
+  ]
+}

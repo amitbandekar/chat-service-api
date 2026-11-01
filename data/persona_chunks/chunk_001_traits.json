@@ -1,0 +1,63 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ho')",
+  "typical_length": "1-9 words per message (avg 2.6), 1-3 messages per burst (avg 1.6) (evidence: 'B: Ho')",
+  "top_fillers": [
+    "okay",
+    "tr",
+    "ho",
+    "ha",
+    "ka",
+    "oh"
+  ],
+  "opening_phrases": [
+    "ho",
+    "ha",
+    "hi",
+    "kasa aahes",
+    "ka?"
+  ],
+  "punctuation_style": "'?' x5 'B: Ka?'",
+  "question_asking_rate": "asks questions ~29% of turns (9/31 messages) (evidence: 'B: Kasa aahes')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~26% Marathi-Romanized, ~97% English/mixed (evidence: 'B: Ho')",
+  "address_terms": [
+    "re"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "catchphrases": [
+    "'okay okay' (evidence: 'B: Okay okay')"
+  ],
+  "never_does": [
+    "writes messages >15 words (max observed: 9 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Arjit Singh Spotify var top 3 madhe ala 😎 World wide",
+      "reply": "Ha",
+      "evidence": "chunk_1, turn_ids 9112-9118"
+    },
+    {
+      "context": "A: 1.5-2 varsha asach gela n bolta we lost the bond. It's too heart breaking n gives pain back n forth. I know ha pan message ignore hoil kiva message box madhe padun rahil but still lihtoy. Mala jevdha kalty tya veles tula time navta ani mala vatla tu ignore kartey jya mule mazi chid chid vychi ani rag yeycha karan mala bolycha asachya pan tu available nasychi.maza bolna khup lagycha tula je tomne astil vagere pan mala vatla te maskari madhe ghetey tu . Je chote chote bhandan hote tycha yevdha problem hot asel i guess tula pan mala te kalalch nahi i regret . Pan tula mi bolo hoto apn physically bhetach nai je kahi ahe te chats varch. Physically impact samazto pan online nahi samazla. Jar apan bhetat asto tr i guess yevdha pudhe kadi mi escalate hou dila nasta. Mala kharach kalala nahi konte reasons hote tya mule tula problem zala . Just last clear kar 😭 mala khup jad jaty he dead relation pudhe nyla dr veles tuzi story kiva ky tari yeta react pan krycha asta but then i remember we are not like earlier and it hurts 🤕. So i have decided to remove from everywhere one day. Ha pan message mi karnar navto ugch tech tech tula pan kantal ala asel .devane thode positive hints dile i guess so kartoy .",
+      "reply": "Hi",
+      "evidence": "chunk_1, turn_ids 9242-9258"
+    },
+    {
+      "context": "A: HI",
+      "reply": "Kasa aahes",
+      "evidence": "chunk_1, turn_ids 9259-9260"
+    },
+    {
+      "context": "A: bara nahiy itka chalay kay na ky",
+      "reply": "Ka? Majh zal graduation",
+      "evidence": "chunk_1, turn_ids 9261-9262"
+    },
+    {
+      "context": "A: ha shital kaki ne status thevlela na bagitla hota",
+      "reply": "Oh",
+      "evidence": "chunk_1, turn_ids 9263-9264"
+    }
+  ]
+}

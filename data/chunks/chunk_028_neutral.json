@@ -1,0 +1,422 @@
+﻿{
+    "chunk_id":  28,
+    "mood":  "neutral",
+    "turns":  [
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:02",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  5469,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-11 20:02",
+                      "messages":  [
+                                       "aaj amcha result lagla"
+                                   ],
+                      "turn_id":  5470,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:02",
+                      "messages":  [
+                                       "M"
+                                   ],
+                      "turn_id":  5471,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-11 20:04",
+                      "messages":  [
+                                       "ha konta m ahe savage vala ki normal"
+                                   ],
+                      "turn_id":  5472,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:04",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸",
+                                       "Sagal complicate karyach aste baas"
+                                   ],
+                      "turn_id":  5473,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:06",
+                      "messages":  [
+                                       "Kay lagla bol"
+                                   ],
+                      "turn_id":  5475,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-11 20:06",
+                      "messages":  [
+                                       "9.20"
+                                   ],
+                      "turn_id":  5476,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:07",
+                      "messages":  [
+                                       "Scholarr"
+                                   ],
+                      "turn_id":  5477,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-11 20:07",
+                      "messages":  [
+                                       "hmm",
+                                       "Tu college madhun yevdh late kasa hota"
+                                   ],
+                      "turn_id":  5478,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 20:56",
+                      "messages":  [
+                                       "Ha",
+                                       "Sakli 7.00 la jate ti sandyakali 6.00 7.00 la yete"
+                                   ],
+                      "turn_id":  5481,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-11 20:59",
+                      "messages":  [
+                                       "Train la gardi aste tumcha side la"
+                                   ],
+                      "turn_id":  5482,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  263,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-11 21:28",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  5483,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  264,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-16 08:31",
+                      "messages":  [
+                                       "Hii"
+                                   ],
+                      "turn_id":  5489,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  265,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-16 12:49",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  5490,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  265,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-16 15:02",
+                      "messages":  [
+                                       "College madhe ahe ka"
+                                   ],
+                      "turn_id":  5491,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  265,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-16 16:36",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  5492,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  265,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-16 16:49",
+                      "messages":  [
+                                       "Acha"
+                                   ],
+                      "turn_id":  5493,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  265,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-16 17:17",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  5494,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:42",
+                      "messages":  [
+                                       "Kuthe gelas?"
+                                   ],
+                      "turn_id":  5495,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:49",
+                      "messages":  [
+                                       "Ho",
+                                       "Gelo mi mummy hoti na"
+                                   ],
+                      "turn_id":  5496,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:50",
+                      "messages":  [
+                                       "Tu kuthe gelas aese",
+                                       "Ha"
+                                   ],
+                      "turn_id":  5497,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:50",
+                      "messages":  [
+                                       "Ata shivaji talo la ahe"
+                                   ],
+                      "turn_id":  5498,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:50",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  5499,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:51",
+                      "messages":  [
+                                       "Tu geli na"
+                                   ],
+                      "turn_id":  5500,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:51",
+                      "messages":  [
+                                       "Ho chalo",
+                                       "Chali",
+                                       "\u003cADDRESS\u003e"
+                                   ],
+                      "turn_id":  5501,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:51",
+                      "messages":  [
+                                       "Rahych na"
+                                   ],
+                      "turn_id":  5502,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:51",
+                      "messages":  [
+                                       "Jewellers kadhe aali aahe"
+                                   ],
+                      "turn_id":  5503,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Ohh"
+                                   ],
+                      "turn_id":  5504,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Monday pasun days aahe"
+                                   ],
+                      "turn_id":  5505,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Ajobana gheun glei",
+                                       "Ka"
+                                   ],
+                      "turn_id":  5506,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Tayari karyachi aahe"
+                                   ],
+                      "turn_id":  5507,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Ohh"
+                                   ],
+                      "turn_id":  5508,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Acha"
+                                   ],
+                      "turn_id":  5510,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:52",
+                      "messages":  [
+                                       "Ha",
+                                       "Mg bakki kay"
+                                   ],
+                      "turn_id":  5511,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:54",
+                      "messages":  [
+                                       "Baki ky blue tick no reply"
+                                   ],
+                      "turn_id":  5512,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:54",
+                      "messages":  [
+                                       "Typical x sarkhi behave karte ahes ekdam",
+                                       "M ky bolu"
+                                   ],
+                      "turn_id":  5514,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:54",
+                      "messages":  [
+                                       "Are"
+                                   ],
+                      "turn_id":  5515,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:55",
+                      "messages":  [
+                                       "Any ans for that",
+                                       "Thukra ke Mera pyar mera itkam dekhega"
+                                   ],
+                      "turn_id":  5516,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-21 18:55",
+                      "messages":  [
+                                       "ðŸ˜’",
+                                       "Kuch bhi",
+                                       "He aese bolatos na tar dok firate"
+                                   ],
+                      "turn_id":  5517,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  266,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-21 18:56",
+                      "messages":  [
+                                       ".",
+                                       "M kiti divas mi vaat bagto ahe"
+                                   ],
+                      "turn_id":  5518,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  5469,
+    "end_turn_id":  5518
+}

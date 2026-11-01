@@ -1,0 +1,63 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Gf chya maghe veda zala aahe')",
+  "typical_length": "1-8 words per message (avg 2.6), 1-2 messages per burst (avg 1.1) (evidence: 'B: Gf chya maghe veda zala aahe')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️"
+    ],
+    "usage": "'🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "accha",
+    "ha",
+    "ch"
+  ],
+  "opening_phrases": [
+    "accha",
+    "hi",
+    "ha",
+    "gf chya maghe",
+    "tula samjale mi"
+  ],
+  "punctuation_style": "'?' x4 'B: Tula samjale mi kay bolate ?'",
+  "question_asking_rate": "asks questions ~40% of turns (8/20 messages) (evidence: 'B: Tula samjale mi kay bolate ?')",
+  "language_mix": "~35% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Gf chya maghe veda zala aahe')",
+  "address_terms": [
+    "tula",
+    "baba"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Tula samjale mi kay bolate ?')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 8 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Yevdhe yede ahe ka sangyala tevdhi akkal ahe",
+      "reply": "Tula samjale mi kay bolate ? Toh veglya meaning ne bolato aahe baba",
+      "evidence": "chunk_27, turn_ids 7063-7064"
+    },
+    {
+      "context": "A: ky Ahe m meaning",
+      "reply": "Tula kay vatat",
+      "evidence": "chunk_27, turn_ids 7067-7068"
+    },
+    {
+      "context": "A: Hech na ki sab katam",
+      "reply": "Kay?",
+      "evidence": "chunk_27, turn_ids 7069-7070"
+    },
+    {
+      "context": "A: Hii",
+      "reply": "Hi",
+      "evidence": "chunk_27, turn_ids 7148-7149"
+    },
+    {
+      "context": "A: Hii",
+      "reply": "Hi",
+      "evidence": "chunk_27, turn_ids 7242-7243"
+    }
+  ]
+}

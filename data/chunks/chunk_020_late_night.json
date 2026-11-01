@@ -1,0 +1,439 @@
+﻿{
+    "chunk_id":  20,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 22:19",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8421,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 22:18",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8422,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 22:21",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8423,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 22:20",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8424,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 22:23",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8425,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 22:23",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8426,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 22:24",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8427,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 22:26",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8428,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 22:27",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8429,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 22:26",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8430,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:22",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8431,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:24",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8432,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8433,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8434,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8435,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8436,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8437,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:25",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8438,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:26",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8439,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:27",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8440,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:27",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8441,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:27",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8442,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:28",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8443,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:28",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8444,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:28",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8445,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:29",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8446,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:29",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8447,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:29",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8448,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:29",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8449,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:30",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8450,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:30",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8451,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:31",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8452,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:31",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8453,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:31",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8454,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:32",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8455,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:32",
+                      "messages":  [
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8456,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:35",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8457,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:35",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8458,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-12 23:36",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8459,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  364,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-12 23:38",
+                      "messages":  [
+                                       "Waiting for this message",
+                                       "Waiting for this message"
+                                   ],
+                      "turn_id":  8460,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  8421,
+    "end_turn_id":  8460
+}

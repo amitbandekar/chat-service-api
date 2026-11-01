@@ -1,0 +1,65 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')",
+  "typical_length": "1-17 words per message (avg 5.3), 1-6 messages per burst (avg 1.5) (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')",
+  "top_fillers": [
+    "ka",
+    "pan",
+    "ch",
+    "na",
+    "ha",
+    "tr"
+  ],
+  "opening_phrases": [
+    "nahi",
+    "kay bolaych aahe",
+    "m mala aata",
+    "tula mahiti aahe",
+    "time ch nahi"
+  ],
+  "closing_phrases": [
+    "station gele boli mi thambali nahi tikade",
+    "aaj zopalas nahi?"
+  ],
+  "punctuation_style": "'?' x3 'B: Tujha phone ka nahi lagat ??'",
+  "question_asking_rate": "asks questions ~24% of turns (8/34 messages) (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')",
+  "language_mix": "~62% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')",
+  "address_terms": [
+    "tula",
+    "tu"
+  ],
+  "tone_by_situation": {
+    "disagreeing": "defensive, denies (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')",
+    "greeting": "casual (evidence: 'B: Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi')"
+  },
+  "never_does": [
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Aaj zopalas nahi?')",
+  "example_pairs": [
+    {
+      "context": "A: Asa nahi Call var",
+      "reply": "M mala aata ka bolas Mazyat bikul patience nahi aahe",
+      "evidence": "chunk_35, turn_ids 2730-2731"
+    },
+    {
+      "context": "A: Asa nahi na Chat var bolu shakat Wait for it",
+      "reply": "Tujha phone ka nahi lagat ??",
+      "evidence": "chunk_35, turn_ids 2742-2791"
+    },
+    {
+      "context": "A: Mi vichrt nahi sangat ahe",
+      "reply": "Nahi",
+      "evidence": "chunk_35, turn_ids 2917-2922"
+    },
+    {
+      "context": "A: Hi cha snap la reply dycha asto ki nahi",
+      "reply": "Mala nahi disala Mala shayari disali fakt",
+      "evidence": "chunk_35, turn_ids 2956-2961"
+    },
+    {
+      "context": "A: Mala samzat nahi ahe munun vichrto ahe. Sarcastic reply nako karu",
+      "reply": "Aata mi kay sangu Nahi boli tr nahi pathavnar ka hi tu",
+      "evidence": "chunk_35, turn_ids 2972-2973"
+    }
+  ]
+}

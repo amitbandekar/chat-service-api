@@ -1,0 +1,420 @@
+﻿{
+    "chunk_id":  26,
+    "mood":  "neutral",
+    "turns":  [
+                  {
+                      "session_id":  410,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-05 15:17",
+                      "messages":  [
+                                       "Acha",
+                                       "bhari ahe"
+                                   ],
+                      "turn_id":  8905,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  411,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-05 21:27",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  8906,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  412,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-21 18:30",
+                      "messages":  [
+                                       "Thank you!"
+                                   ],
+                      "turn_id":  8908,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  412,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-21 18:31",
+                      "messages":  [
+                                       "Pochli ka ghri",
+                                       "Clg varun"
+                                   ],
+                      "turn_id":  8909,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-29 11:13",
+                      "messages":  [
+                                       "Ha ðŸ˜†",
+                                       "1 divas ch practice te pan"
+                                   ],
+                      "turn_id":  8928,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:20",
+                      "messages":  [
+                                       "Ha dance karyala majja yete ch"
+                                   ],
+                      "turn_id":  8931,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-29 11:20",
+                      "messages":  [
+                                       "4-5 vela stage var gelo mi"
+                                   ],
+                      "turn_id":  8932,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:20",
+                      "messages":  [
+                                       "Award ghyala"
+                                   ],
+                      "turn_id":  8933,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:21",
+                      "messages":  [
+                                       "Bapreeee scholarrrr,topperrrre"
+                                   ],
+                      "turn_id":  8935,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-29 11:21",
+                      "messages":  [
+                                       "ha"
+                                   ],
+                      "turn_id":  8936,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:21",
+                      "messages":  [
+                                       "Majja aahe",
+                                       "Mi pan kela hota cultures madhe dance"
+                                   ],
+                      "turn_id":  8937,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:23",
+                      "messages":  [
+                                       "Waah"
+                                   ],
+                      "turn_id":  8939,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "A",
+                      "timestamp":  "2024-03-29 11:23",
+                      "messages":  [
+                                       "Ha g kup maza ali"
+                                   ],
+                      "turn_id":  8940,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 12:00",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  8941,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 11:07",
+                      "messages":  [
+                                       "hii"
+                                   ],
+                      "turn_id":  8945,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 11:12",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  8946,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 11:19",
+                      "messages":  [
+                                       "aaj swpna padla la mala",
+                                       "Tuni message kele la",
+                                       "Ani tya peksha miracle",
+                                       "Call kela la"
+                                   ],
+                      "turn_id":  8947,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 11:49",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  8948,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 13:37",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  8950,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 13:40",
+                      "messages":  [
+                                       "kuthe ahe",
+                                       "clg ka"
+                                   ],
+                      "turn_id":  8951,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 15:27",
+                      "messages":  [
+                                       "m",
+                                       "sutti ahe"
+                                   ],
+                      "turn_id":  8953,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 16:58",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  8954,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 17:08",
+                      "messages":  [
+                                       "Ky reply kartey",
+                                       "Yevdha ky kartey"
+                                   ],
+                      "turn_id":  8955,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 17:08",
+                      "messages":  [
+                                       "Ky ny net band hota series baghat hoti"
+                                   ],
+                      "turn_id":  8956,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 17:08",
+                      "messages":  [
+                                       "Konti"
+                                   ],
+                      "turn_id":  8957,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 17:09",
+                      "messages":  [
+                                       "Sweet magnolias"
+                                   ],
+                      "turn_id":  8958,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "A",
+                      "timestamp":  "2024-05-24 17:59",
+                      "messages":  [
+                                       "Acha"
+                                   ],
+                      "turn_id":  8959,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 12:28",
+                      "messages":  [
+                                       "...."
+                                   ],
+                      "turn_id":  8960,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 15:59",
+                      "messages":  [
+                                       "?"
+                                   ],
+                      "turn_id":  8961,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 16:00",
+                      "messages":  [
+                                       "Kuthe geli tu"
+                                   ],
+                      "turn_id":  8962,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 16:05",
+                      "messages":  [
+                                       "Mi kuthe geli?"
+                                   ],
+                      "turn_id":  8963,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 16:06",
+                      "messages":  [
+                                       "Ha",
+                                       "à¤ªà¤¹à¤¿à¤²à¥à¤¯à¤¾ à¤¸à¤¾à¤°à¤–à¤¾ à¤•à¤¾ à¤¨à¤¾à¤¹à¥€",
+                                       "à¤•à¤¾à¤¹à¥€ à¤à¤¾à¤²à¤‚ à¤†à¤¹à¥‡ à¤•à¤¾"
+                                   ],
+                      "turn_id":  8964,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 17:14",
+                      "messages":  [
+                                       "ky"
+                                   ],
+                      "turn_id":  8966,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 18:06",
+                      "messages":  [
+                                       "I dont know"
+                                   ],
+                      "turn_id":  8969,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 18:10",
+                      "messages":  [
+                                       "We can talk but not like those days"
+                                   ],
+                      "turn_id":  8971,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 18:10",
+                      "messages":  [
+                                       "Koi mil gaya"
+                                   ],
+                      "turn_id":  8972,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 18:15",
+                      "messages":  [
+                                       "Fir"
+                                   ],
+                      "turn_id":  8974,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 18:19",
+                      "messages":  [
+                                       "Its me i dont want those days okay"
+                                   ],
+                      "turn_id":  8975,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-04 18:21",
+                      "messages":  [
+                                       "ðŸ˜”"
+                                   ],
+                      "turn_id":  8976,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  420,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-08 11:38",
+                      "messages":  [
+                                       "Ny samazla"
+                                   ],
+                      "turn_id":  8979,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  8905,
+    "end_turn_id":  8979
+}

@@ -1,0 +1,456 @@
+﻿{
+    "chunk_id":  40,
+    "mood":  "sad",
+    "turns":  [
+                  {
+                      "session_id":  147,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-05 10:08",
+                      "messages":  [
+                                       "Tula kashya badal vatla"
+                                   ],
+                      "turn_id":  2876,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  147,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-05 10:10",
+                      "messages":  [
+                                       "Mala kahi nahi vatle manun tula vichrle na kashyabadal te"
+                                   ],
+                      "turn_id":  2877,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 13:48",
+                      "messages":  [
+                                       "Mandovi"
+                                   ],
+                      "turn_id":  2943,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 18:51",
+                      "messages":  [
+                                       "Manje"
+                                   ],
+                      "turn_id":  2948,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 19:33",
+                      "messages":  [
+                                       "Sorry",
+                                       "Tula rag yecha",
+                                       "Manun"
+                                   ],
+                      "turn_id":  2996,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 21:18",
+                      "messages":  [
+                                       "Manje",
+                                       "Kiti",
+                                       "Khup ki medium"
+                                   ],
+                      "turn_id":  3012,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 18:18",
+                      "messages":  [
+                                       "Mala dist nahi",
+                                       "Bina chasma ch",
+                                       "Manun focus karun tuch ahe ka check karat hoto",
+                                       "Ahes na ajun",
+                                       "Ata kuthe geli"
+                                   ],
+                      "turn_id":  3268,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 14:03",
+                      "messages":  [
+                                       "Pan tu manat thev",
+                                       "Visru nako",
+                                       "Marines la jau"
+                                   ],
+                      "turn_id":  3336,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 21:16",
+                      "messages":  [
+                                       "ðŸ¥²"
+                                   ],
+                      "turn_id":  3374,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 21:18",
+                      "messages":  [
+                                       "Are kharach",
+                                       "Mala kadhi vatchh nahi tu lamb javas",
+                                       "Manun tu janar yacha mi vichr",
+                                       "Nahi kela",
+                                       "M trass hoto"
+                                   ],
+                      "turn_id":  3376,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  162,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-16 11:50",
+                      "messages":  [
+                                       "Hha",
+                                       "Kay nay khup kay kay hot manat manun frustation zal"
+                                   ],
+                      "turn_id":  3506,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  165,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 12:40",
+                      "messages":  [
+                                       "Khup lavkar dilas",
+                                       "Tu late dilas manun paper zala ghan",
+                                       "ðŸ¥²",
+                                       "Lakar dila asta tr changla tari gela asta"
+                                   ],
+                      "turn_id":  3589,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  165,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 14:00",
+                      "messages":  [
+                                       "ðŸ¥²",
+                                       "Tuzya mule"
+                                   ],
+                      "turn_id":  3593,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  168,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-19 12:41",
+                      "messages":  [
+                                       "Offline hoti manun"
+                                   ],
+                      "turn_id":  3684,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-21 20:08",
+                      "messages":  [
+                                       "Mi ekti nahi geli kadhi",
+                                       "Manun tula sangte aahe"
+                                   ],
+                      "turn_id":  3878,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-21 20:18",
+                      "messages":  [
+                                       "Accha",
+                                       "Ha ha tomana maar",
+                                       "Mazya bff la gf aahe"
+                                   ],
+                      "turn_id":  3892,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-21 20:22",
+                      "messages":  [
+                                       "Kounala aanyach manje tyana sangave lagel ka chali kuthe vagare vagre",
+                                       "Ka??"
+                                   ],
+                      "turn_id":  3902,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-21 20:24",
+                      "messages":  [
+                                       "Manje mala kahi problem nahi aahe pan tyana vatat kahitari aahe manun"
+                                   ],
+                      "turn_id":  3908,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-21 20:32",
+                      "messages":  [
+                                       "Manje tula kay vatat aahe mala nahi yaych aahe"
+                                   ],
+                      "turn_id":  3922,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  171,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-21 21:59",
+                      "messages":  [
+                                       "Ek divas bara navta manun nahi gelis asa samz"
+                                   ],
+                      "turn_id":  3935,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  172,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-24 19:53",
+                      "messages":  [
+                                       "Aaj call ch karar hoto",
+                                       "Mi",
+                                       "Manun"
+                                   ],
+                      "turn_id":  3989,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  173,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-25 08:07",
+                      "messages":  [
+                                       "Mi  visarlo",
+                                       "Kashabadal hota"
+                                   ],
+                      "turn_id":  4057,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  179,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-05 12:28",
+                      "messages":  [
+                                       "Ha",
+                                       "Photo",
+                                       "Ya badal bolat hoto mi"
+                                   ],
+                      "turn_id":  4133,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  187,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-21 20:26",
+                      "messages":  [
+                                       "Manje"
+                                   ],
+                      "turn_id":  4184,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 19:40",
+                      "messages":  [
+                                       "Tu white",
+                                       "Manun bolo"
+                                   ],
+                      "turn_id":  4238,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 19:52",
+                      "messages":  [
+                                       "Uba hoto mi",
+                                       "Mazya gharat",
+                                       "Avaj ala manun bher ali",
+                                       "Alo"
+                                   ],
+                      "turn_id":  4246,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 19:53",
+                      "messages":  [
+                                       "Manje side ne ka",
+                                       "Side ne light diste na"
+                                   ],
+                      "turn_id":  4248,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 19:59",
+                      "messages":  [
+                                       "Are manje apan eka college madhe nahi na",
+                                       "Tr tuzya chehrya varna samzel mala",
+                                       "Asa kasa samznar"
+                                   ],
+                      "turn_id":  4260,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 20:05",
+                      "messages":  [
+                                       "Ho asa jar asta tr tuzya shi ka bolo asto yevdha attitude asta tr",
+                                       "Maza mitra bola tula rag ala asel manun mala kala la",
+                                       "Mag mi vicrla"
+                                   ],
+                      "turn_id":  4264,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-24 21:05",
+                      "messages":  [
+                                       "at this phase",
+                                       "mi khup adictive zalo ahe ya friendship la",
+                                       "manun break karnycha vichar sudha nahi karu shakat"
+                                   ],
+                      "turn_id":  4272,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  188,
+                      "speaker":  "B",
+                      "timestamp":  "2022-09-24 21:51",
+                      "messages":  [
+                                       "Nahi karu shakat bolas pan manat vichar tr aalana"
+                                   ],
+                      "turn_id":  4275,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  189,
+                      "speaker":  "A",
+                      "timestamp":  "2022-09-25 19:47",
+                      "messages":  [
+                                       "Ha",
+                                       "Mi at madhe ahe",
+                                       "Manun"
+                                   ],
+                      "turn_id":  4331,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  201,
+                      "speaker":  "A",
+                      "timestamp":  "2022-10-05 09:39",
+                      "messages":  [
+                                       "Message ch bolto ahe toh bajula hota",
+                                       "Call cha veli navta toh bajula",
+                                       "Sorry inshort mazi chuki ahe",
+                                       "Maf kar mala mi message nahi kela manun"
+                                   ],
+                      "turn_id":  4440,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  201,
+                      "speaker":  "A",
+                      "timestamp":  "2022-10-05 14:42",
+                      "messages":  [
+                                       "Manun mi saral sorry bolun takla",
+                                       "Ugcha bhandan hoil manun"
+                                   ],
+                      "turn_id":  4446,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  202,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-06 21:29",
+                      "messages":  [
+                                       "Manje"
+                                   ],
+                      "turn_id":  4497,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  202,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-06 21:37",
+                      "messages":  [
+                                       "Changala aala manun thevala"
+                                   ],
+                      "turn_id":  4501,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  206,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-09 13:32",
+                      "messages":  [
+                                       "Ha manun ch kela delete"
+                                   ],
+                      "turn_id":  4570,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  206,
+                      "speaker":  "A",
+                      "timestamp":  "2022-10-09 21:03",
+                      "messages":  [
+                                       "Online ahe ani reply det nahi",
+                                       "Asa bolshil",
+                                       "Manun"
+                                   ],
+                      "turn_id":  4581,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  206,
+                      "speaker":  "A",
+                      "timestamp":  "2022-10-09 21:08",
+                      "messages":  [
+                                       "Are he bolo na manun bolo",
+                                       "Eka thikane vachla hota chuki mulachi aso v mulichi sorry mulala ch bolava lagta"
+                                   ],
+                      "turn_id":  4587,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  207,
+                      "speaker":  "B",
+                      "timestamp":  "2022-10-10 10:22",
+                      "messages":  [
+                                       "Tuza..tula dusrya konabaddal as kahi vatata ka?"
+                                   ],
+                      "turn_id":  4654,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  2876,
+    "end_turn_id":  4654
+}

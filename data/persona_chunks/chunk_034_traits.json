@@ -1,0 +1,62 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Dupari nighali')",
+  "typical_length": "1-6 words per message (avg 2.0), 1-2 messages per burst (avg 1.1) (evidence: 'B: Dupari nighali')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦🏻‍♀️"
+    ],
+    "usage": "'🤦🏻‍♀️' used 1 times, e.g. 'B: 🤦🏻‍♀️'"
+  },
+  "top_fillers": [
+    "accha",
+    "ha",
+    "okay"
+  ],
+  "opening_phrases": [
+    "accha",
+    "ha",
+    "hi",
+    "dupari nighali",
+    "ha mahiti aahe"
+  ],
+  "punctuation_style": "'?' x2 'B: Tu kal ghari hota?'; '!' x1 'B: All the Bestt!'",
+  "question_asking_rate": "asks questions ~14% of turns (3/22 messages) (evidence: 'B: Tu kal ghari hota?')",
+  "language_mix": "~27% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Dupari nighali')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Ha mahiti aahe')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 6 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Acha",
+      "reply": "Ha Tu kal ghari hota?",
+      "evidence": "chunk_34, turn_ids 9389-9390"
+    },
+    {
+      "context": "A: kal sunday hota",
+      "reply": "Ha mahiti aahe",
+      "evidence": "chunk_34, turn_ids 9391-9392"
+    },
+    {
+      "context": "A: HI Aaj paper ahe maza All The best de",
+      "reply": "All the Bestt!",
+      "evidence": "chunk_34, turn_ids 9396-9397"
+    },
+    {
+      "context": "A: Question 9 lihle ahet",
+      "reply": "Accha",
+      "evidence": "chunk_34, turn_ids 9409-9410"
+    },
+    {
+      "context": "A: baghu magcha goshiti change nay karu shakat pudhcha karen",
+      "reply": "Ha",
+      "evidence": "chunk_34, turn_ids 9411-9412"
+    }
+  ]
+}

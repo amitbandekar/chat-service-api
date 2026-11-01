@@ -1,0 +1,428 @@
+﻿{
+    "chunk_id":  9,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:38",
+                      "messages":  [
+                                       "Ny"
+                                   ],
+                      "turn_id":  9593,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:39",
+                      "messages":  [
+                                       "Sakali train ne jato"
+                                   ],
+                      "turn_id":  9594,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:39",
+                      "messages":  [
+                                       "Ho",
+                                       "Train m bus"
+                                   ],
+                      "turn_id":  9595,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:39",
+                      "messages":  [
+                                       "Acchaa"
+                                   ],
+                      "turn_id":  9596,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:40",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9597,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:42",
+                      "messages":  [
+                                       "Kay type karat hotas?"
+                                   ],
+                      "turn_id":  9598,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:43",
+                      "messages":  [
+                                       "Tula kartana bagitla ani thamblo",
+                                       "ðŸ˜‚"
+                                   ],
+                      "turn_id":  9599,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:45",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9600,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:46",
+                      "messages":  [
+                                       "Ajun konti series bagitlis"
+                                   ],
+                      "turn_id":  9601,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:48",
+                      "messages":  [
+                                       "Kdrama baghtey"
+                                   ],
+                      "turn_id":  9602,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:49",
+                      "messages":  [
+                                       "Konta",
+                                       "Mi ky tari ghetlala",
+                                       "Mage sangitla las tuch",
+                                       "Te",
+                                       "Pan ekat english subtitles navte",
+                                       "Ekat english dubbing navti"
+                                   ],
+                      "turn_id":  9603,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:49",
+                      "messages":  [
+                                       "Our unwritten seoul baghitala ,welcome to sam dalri , aata good boy baghtey",
+                                       "Accha"
+                                   ],
+                      "turn_id":  9604,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:50",
+                      "messages":  [
+                                       "Kashavar"
+                                   ],
+                      "turn_id":  9605,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:53",
+                      "messages":  [
+                                       "Telegram"
+                                   ],
+                      "turn_id":  9606,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:54",
+                      "messages":  [
+                                       "Mala pan pathav",
+                                       "Mi pan bagto"
+                                   ],
+                      "turn_id":  9607,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "Ha kounti pathavu?",
+                                       "Aai shi boltey mhanun late reply detey ha"
+                                   ],
+                      "turn_id":  9608,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "Saglya pathav",
+                                       "Ek ek bagen"
+                                   ],
+                      "turn_id":  9609,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9610,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "Ny"
+                                   ],
+                      "turn_id":  9611,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "Pathvate"
+                                   ],
+                      "turn_id":  9612,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:57",
+                      "messages":  [
+                                       "I accept as you are",
+                                       "Filmy dialogue",
+                                       "ðŸ˜‚"
+                                   ],
+                      "turn_id":  9613,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-20 23:58",
+                      "messages":  [
+                                       "ðŸ˜‚"
+                                   ],
+                      "turn_id":  9614,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-20 23:58",
+                      "messages":  [
+                                       "Mi oan movie ch bagtoy"
+                                   ],
+                      "turn_id":  9615,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:00",
+                      "messages":  [
+                                       "Kounti"
+                                   ],
+                      "turn_id":  9616,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:00",
+                      "messages":  [
+                                       "Raid 2"
+                                   ],
+                      "turn_id":  9617,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:00",
+                      "messages":  [
+                                       "Mala saiyaara baghyacha aahe"
+                                   ],
+                      "turn_id":  9618,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:00",
+                      "messages":  [
+                                       "Acha",
+                                       "Theatre madhe lagli ti na"
+                                   ],
+                      "turn_id":  9619,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:02",
+                      "messages":  [
+                                       "Haa"
+                                   ],
+                      "turn_id":  9620,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:03",
+                      "messages":  [
+                                       "Ti ghari kashi bagnar",
+                                       "Yeude ott var"
+                                   ],
+                      "turn_id":  9621,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:06",
+                      "messages":  [
+                                       "Ha",
+                                       "Ajun Kay ch karu shakate"
+                                   ],
+                      "turn_id":  9622,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:06",
+                      "messages":  [
+                                       "Ny tr chal jauya",
+                                       "ðŸ˜‚"
+                                   ],
+                      "turn_id":  9623,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:06",
+                      "messages":  [
+                                       "Ha ajun kay"
+                                   ],
+                      "turn_id":  9624,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:06",
+                      "messages":  [
+                                       "Next sat"
+                                   ],
+                      "turn_id":  9625,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:06",
+                      "messages":  [
+                                       "Mi chali Wednesday"
+                                   ],
+                      "turn_id":  9626,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:07",
+                      "messages":  [
+                                       "Tuzya ithe jau"
+                                   ],
+                      "turn_id":  9627,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:07",
+                      "messages":  [
+                                       "Kuch bhi kuch bhi"
+                                   ],
+                      "turn_id":  9628,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:08",
+                      "messages":  [
+                                       "Ka kuch bhi",
+                                       "Everything is possible"
+                                   ],
+                      "turn_id":  9629,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:08",
+                      "messages":  [
+                                       "Ho ka",
+                                       "ðŸ˜‚",
+                                       "Zop ja office la jaych tula"
+                                   ],
+                      "turn_id":  9630,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "A",
+                      "timestamp":  "2025-07-21 00:09",
+                      "messages":  [
+                                       "Udya Monday ahe"
+                                   ],
+                      "turn_id":  9631,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  473,
+                      "speaker":  "B",
+                      "timestamp":  "2025-07-21 00:09",
+                      "messages":  [
+                                       "Majh ky mi mast zopnar"
+                                   ],
+                      "turn_id":  9632,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  9593,
+    "end_turn_id":  9632
+}

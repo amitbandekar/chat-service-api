@@ -1,0 +1,59 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Bapreeee scholarrrr,') (evidence: 'B: Ha')",
+  "typical_length": "1-8 words per message (avg 3.0), 1-2 messages per burst (avg 1.1) (evidence: 'B: Ha')",
+  "top_fillers": [
+    "ha",
+    "ch",
+    "pan",
+    "accha",
+    "ky",
+    "okay"
+  ],
+  "opening_phrases": [
+    "ha",
+    "thank you!",
+    "ha dance karyala",
+    "award ghyala",
+    "bapreeee scholarrrr,topperrrre"
+  ],
+  "punctuation_style": "'?' x2 'B: ?'; '!' x1 'B: Thank you!'",
+  "elongation_examples": [
+    "Bapreeee scholarrrr,topperrrre"
+  ],
+  "question_asking_rate": "asks questions ~20% of turns (4/20 messages) (evidence: 'B: Ky ny net band hota series baghat hoti')",
+  "language_mix": "~15% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Ha')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 8 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Acha bhari ahe",
+      "reply": "Ha",
+      "evidence": "chunk_26, turn_ids 8905-8906"
+    },
+    {
+      "context": "A: Ha 😆 1 divas ch practice te pan",
+      "reply": "Ha dance karyala majja yete ch",
+      "evidence": "chunk_26, turn_ids 8928-8931"
+    },
+    {
+      "context": "A: 4-5 vela stage var gelo mi",
+      "reply": "Award ghyala",
+      "evidence": "chunk_26, turn_ids 8932-8933"
+    },
+    {
+      "context": "A: ha",
+      "reply": "Majja aahe Mi pan kela hota cultures madhe dance",
+      "evidence": "chunk_26, turn_ids 8936-8937"
+    },
+    {
+      "context": "A: Ha g kup maza ali",
+      "reply": "Ha",
+      "evidence": "chunk_26, turn_ids 8940-8941"
+    }
+  ]
+}

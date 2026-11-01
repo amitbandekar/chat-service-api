@@ -1,0 +1,435 @@
+﻿{
+    "chunk_id":  35,
+    "mood":  "argument",
+    "turns":  [
+                  {
+                      "session_id":  138,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-22 18:11",
+                      "messages":  [
+                                       "Kay bolaych aahe bol call karyala bhetle ki nahi Mahiti nahi"
+                                   ],
+                      "turn_id":  2686,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-27 21:39",
+                      "messages":  [
+                                       "Nahi",
+                                       "2 paper baaki aahet"
+                                   ],
+                      "turn_id":  2723,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "A",
+                      "timestamp":  "2022-07-27 21:45",
+                      "messages":  [
+                                       "Asa nahi",
+                                       "Call var"
+                                   ],
+                      "turn_id":  2730,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-27 21:45",
+                      "messages":  [
+                                       "M mala aata ka bolas",
+                                       "Mazyat bikul patience nahi aahe"
+                                   ],
+                      "turn_id":  2731,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-27 21:47",
+                      "messages":  [
+                                       "Tula mahiti aahe ti ghost pan mala nahi mahiti curiosity jast houn jate"
+                                   ],
+                      "turn_id":  2733,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-27 21:49",
+                      "messages":  [
+                                       "Time ch nahi aahe",
+                                       "Bagh aaj paper zala aata parva paper aahe",
+                                       "Aaj 3.00 vaje paryant basnar abhyas karat",
+                                       "Parat udya abhyas",
+                                       "M parva paper",
+                                       "Time kuthe aahe tuch sang"
+                                   ],
+                      "turn_id":  2737,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "A",
+                      "timestamp":  "2022-07-27 21:52",
+                      "messages":  [
+                                       "Mazyat pan bilkul nahi patience"
+                                   ],
+                      "turn_id":  2740,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  140,
+                      "speaker":  "A",
+                      "timestamp":  "2022-07-27 21:55",
+                      "messages":  [
+                                       "Asa nahi na",
+                                       "Chat var bolu shakat",
+                                       "Wait for it"
+                                   ],
+                      "turn_id":  2742,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  143,
+                      "speaker":  "B",
+                      "timestamp":  "2022-07-31 12:36",
+                      "messages":  [
+                                       "Tujha phone ka nahi lagat ??"
+                                   ],
+                      "turn_id":  2791,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  149,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-06 11:58",
+                      "messages":  [
+                                       "Karan good nahi aahe"
+                                   ],
+                      "turn_id":  2914,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  149,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-06 12:15",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  2916,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  149,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-06 12:28",
+                      "messages":  [
+                                       "Mi vichrt nahi sangat ahe"
+                                   ],
+                      "turn_id":  2917,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  149,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-06 13:34",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  2922,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 13:37",
+                      "messages":  [
+                                       "Mahiti nahi"
+                                   ],
+                      "turn_id":  2939,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 18:53",
+                      "messages":  [
+                                       "Ha nahi aahe",
+                                       "Station gele boli mi thambali nahi tikade"
+                                   ],
+                      "turn_id":  2951,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 18:55",
+                      "messages":  [
+                                       "Hi cha snap la reply dycha asto ki nahi"
+                                   ],
+                      "turn_id":  2956,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 18:58",
+                      "messages":  [
+                                       "Mala nahi disala",
+                                       "Mala shayari disali fakt"
+                                   ],
+                      "turn_id":  2961,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 18:59",
+                      "messages":  [
+                                       "Mi asa ekda pan bolo nahi mi send kela ahe te"
+                                   ],
+                      "turn_id":  2964,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-08 19:04",
+                      "messages":  [
+                                       "Mala samzat nahi ahe munun vichrto ahe. Sarcastic reply nako karu"
+                                   ],
+                      "turn_id":  2972,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 19:05",
+                      "messages":  [
+                                       "Aata mi kay sangu",
+                                       "Nahi boli tr nahi pathavnar ka hi tu"
+                                   ],
+                      "turn_id":  2973,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  152,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-08 21:18",
+                      "messages":  [
+                                       "Ji train havi hoti ti bhetnar ch nahi"
+                                   ],
+                      "turn_id":  3007,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  153,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-09 17:59",
+                      "messages":  [
+                                       "Nahi",
+                                       "Sona nahi hai"
+                                   ],
+                      "turn_id":  3089,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  155,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-11 18:33",
+                      "messages":  [
+                                       ".",
+                                       "He",
+                                       "Hymule",
+                                       "Zop lagli nahi kal pan",
+                                       "Ardhvat zop lagli"
+                                   ],
+                      "turn_id":  3214,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 20:23",
+                      "messages":  [
+                                       "Ka",
+                                       "Bolat nahi ahe ka",
+                                       "Mazya shi"
+                                   ],
+                      "turn_id":  3274,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 20:27",
+                      "messages":  [
+                                       "Bolate pan apan aese bolato te kounala nahi mahiti na",
+                                       "Sunny la ch mahiti aahe na"
+                                   ],
+                      "turn_id":  3275,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 13:56",
+                      "messages":  [
+                                       "Nahi bhetnar jayala"
+                                   ],
+                      "turn_id":  3321,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 18:22",
+                      "messages":  [
+                                       "Sod",
+                                       "Pan asa dusrynch gharat vakun nahi baghch ðŸ¤­"
+                                   ],
+                      "turn_id":  3356,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 18:31",
+                      "messages":  [
+                                       "Are word lakshat yet nahi ahe"
+                                   ],
+                      "turn_id":  3362,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 18:46",
+                      "messages":  [
+                                       "Acha",
+                                       "M sod",
+                                       "Ata ky karu shakt nahi"
+                                   ],
+                      "turn_id":  3366,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 18:48",
+                      "messages":  [
+                                       "Ha te navin nahi ahe"
+                                   ],
+                      "turn_id":  3368,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 21:18",
+                      "messages":  [
+                                       "Mala tar tujh kharch kadhi kadhi nahi samjat"
+                                   ],
+                      "turn_id":  3375,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 21:20",
+                      "messages":  [
+                                       "Nahi yar"
+                                   ],
+                      "turn_id":  3378,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  160,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 21:23",
+                      "messages":  [
+                                       "Tyana tar kimat nahich aahe fakt thodyat time changale vagtat nantar didi la kahi samjat nahi te"
+                                   ],
+                      "turn_id":  3385,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  161,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-15 15:07",
+                      "messages":  [
+                                       "Aaj zopalas nahi?"
+                                   ],
+                      "turn_id":  3423,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  161,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-15 19:10",
+                      "messages":  [
+                                       "Call nahi lagat tujha"
+                                   ],
+                      "turn_id":  3435,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  161,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-15 20:19",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  3444,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  161,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-15 20:54",
+                      "messages":  [
+                                       "Nahi g",
+                                       "He khara ahe ka"
+                                   ],
+                      "turn_id":  3446,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  163,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-16 21:03",
+                      "messages":  [
+                                       "Nahi",
+                                       "Pan passing yevdh tar lihun ye"
+                                   ],
+                      "turn_id":  3513,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  163,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-16 21:05",
+                      "messages":  [
+                                       "Nahi",
+                                       "Tuzya sathi kadhich nahi"
+                                   ],
+                      "turn_id":  3518,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  165,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 16:05",
+                      "messages":  [
+                                       "Chup"
+                                   ],
+                      "turn_id":  3594,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  2686,
+    "end_turn_id":  3594
+}

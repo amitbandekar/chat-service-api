@@ -1,0 +1,74 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Baapre!!!!') (evidence: 'B: Manje tula majha saral sorry pachat nahi aahe')",
+  "typical_length": "1-12 words per message (avg 4.0), 1-3 messages per burst (avg 1.2) (evidence: 'B: Manje tula majha saral sorry pachat nahi aahe')",
+  "emoji_rules": {
+    "favorites": [
+      "😒",
+      "👇"
+    ],
+    "usage": "'😒' used 1 times, e.g. 'B: Thod?😒'; '👇' used 1 times, e.g. 'B: What does👇 means??'"
+  },
+  "top_fillers": [
+    "ch",
+    "ka",
+    "okay",
+    "tr",
+    "ha",
+    "ho"
+  ],
+  "opening_phrases": [
+    "manje tula majha",
+    "tujhi pn chuki",
+    "its okay",
+    "aese vatat tr",
+    "var scroll krun"
+  ],
+  "punctuation_style": "'?' x8 'B: Tu songs aikale???'; '!' x4 'B: Baapre!!!!'; '!!' x2 'B: Baapre!!!!'",
+  "elongation_examples": [
+    "Baapre!!!!",
+    "Tu songs aikale???"
+  ],
+  "question_asking_rate": "asks questions ~28% of turns (7/25 messages) (evidence: 'B: Tu songs aikale???')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~56% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Manje tula majha saral sorry pachat nahi aahe')",
+  "address_terms": [
+    "tu",
+    "tula",
+    "tuzya"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Manje tula majha saral sorry pachat nahi aahe')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 12 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "teasing/playful (evidence: 'B: Thod?😒')",
+  "example_pairs": [
+    {
+      "context": "A: Kalcha sathi bolte ahe Mi tula maf kela kalch Mi ny thevat manat",
+      "reply": "Tujhi pn chuki hoti Mi ekti nhi bhandali Tu pn bhandlas",
+      "evidence": "chunk_8, turn_ids 1286-1287"
+    },
+    {
+      "context": "A: Acha baba sorry",
+      "reply": "Its okay I am also sorry",
+      "evidence": "chunk_8, turn_ids 1288-1289"
+    },
+    {
+      "context": "A: .",
+      "reply": "Aese vatat tr navte",
+      "evidence": "chunk_8, turn_ids 1290-1291"
+    },
+    {
+      "context": "A: Kasha varun",
+      "reply": "Var scroll krun vach chats",
+      "evidence": "chunk_8, turn_ids 1292-1293"
+    },
+    {
+      "context": "A: Sod",
+      "reply": "Ha",
+      "evidence": "chunk_8, turn_ids 1294-1295"
+    }
+  ]
+}

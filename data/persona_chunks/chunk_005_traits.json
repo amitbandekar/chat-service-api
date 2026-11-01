@@ -1,0 +1,77 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Ha mi barich aahe')",
+  "typical_length": "1-12 words per message (avg 3.4), 1-3 messages per burst (avg 1.6) (evidence: 'B: Ha mi barich aahe')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️🤦‍♀️",
+      "🤦‍♀️",
+      "😂🤦‍♀️",
+      "🤦‍♀️🤦‍♀️🤦‍♀️",
+      "🤦‍♀️😂"
+    ],
+    "usage": "'🤦‍♀️🤦‍♀️' used 2 times, e.g. 'B: 🤦‍♀️🤦‍♀️'; '🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'; '😂🤦‍♀️' used 1 times, e.g. 'B: Kahi pan😂🤦‍♀️'"
+  },
+  "laughter_style": "😂 (2x) (evidence: 'B: Kahi pan😂🤦‍♀️')",
+  "top_fillers": [
+    "ani",
+    "ha",
+    "ky",
+    "pan",
+    "na",
+    "ka"
+  ],
+  "opening_phrases": [
+    "🤦‍♀️🤦‍♀️",
+    "ha mi barich",
+    "tula mahiti",
+    "ky nu",
+    "ha"
+  ],
+  "closing_phrases": [
+    "kay chalavu",
+    "manun firyala chalo na"
+  ],
+  "punctuation_style": "'?' x1 'B: Tula time aahe ka?'",
+  "question_asking_rate": "asks questions ~16% of turns (5/31 messages) (evidence: 'B: Ky nu')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~42% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Ha mi barich aahe')",
+  "address_terms": [
+    "tula",
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Tula mahiti')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 12 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Mi khali kashi yenar'); teasing/playful (evidence: 'B: Kahi pan😂🤦‍♀️')",
+  "example_pairs": [
+    {
+      "context": "A: Acha M dok mich dukhvto ka 🥲",
+      "reply": "Tula mahiti",
+      "evidence": "chunk_5, turn_ids 3260-3261"
+    },
+    {
+      "context": "A: Ky",
+      "reply": "Ky nu Ny*",
+      "evidence": "chunk_5, turn_ids 3262-3263"
+    },
+    {
+      "context": "A: Mala ky mahiti Kalala",
+      "reply": "Ha",
+      "evidence": "chunk_5, turn_ids 3264-3265"
+    },
+    {
+      "context": "A: M",
+      "reply": "M ky m",
+      "evidence": "chunk_5, turn_ids 3278-3279"
+    },
+    {
+      "context": "A: Tyacha ky ithe Samband",
+      "reply": ".",
+      "evidence": "chunk_5, turn_ids 3280-3281"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: 🤦‍♀️')",
+  "typical_length": "1-11 words per message (avg 3.2), 1-4 messages per burst (avg 1.3) (evidence: 'B: 🤦‍♀️')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️"
+    ],
+    "usage": "'🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "ha",
+    "pan",
+    "ky",
+    "accha",
+    "ka",
+    "ch"
+  ],
+  "opening_phrases": [
+    "ha",
+    "ky?",
+    "accha",
+    "🤦‍♀️",
+    "ka?"
+  ],
+  "punctuation_style": "'?' x4 'B: Ka?'",
+  "question_asking_rate": "asks questions ~37% of turns (10/27 messages) (evidence: 'B: Ka?')",
+  "language_mix": "~37% Marathi-Romanized, ~100% English/mixed (evidence: 'B: 🤦‍♀️')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Ha mi pan baghitale')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 11 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: shaa tyala kashala hava ahe mahitich asel",
+      "reply": "Ka?",
+      "evidence": "chunk_24, turn_ids 9013-9014"
+    },
+    {
+      "context": "A: lamb ahe na tyala javal nakoy ho na full sene zala ata donation deun ghyala lagla 2L donation ghetla",
+      "reply": "Ha donation jast ch aste",
+      "evidence": "chunk_24, turn_ids 9015-9016"
+    },
+    {
+      "context": "A: bag na ky bolnar tari mi bolo hto mummy la ticha",
+      "reply": "Ha",
+      "evidence": "chunk_24, turn_ids 9017-9018"
+    },
+    {
+      "context": "A: are tula mahitey mi pan bagitla lapata ladies",
+      "reply": "Ha mi pan baghitale",
+      "evidence": "chunk_24, turn_ids 9019-9020"
+    },
+    {
+      "context": "A: Ha na",
+      "reply": "Ha",
+      "evidence": "chunk_24, turn_ids 9023-9024"
+    }
+  ]
+}

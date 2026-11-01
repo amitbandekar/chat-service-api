@@ -1,0 +1,445 @@
+﻿{
+    "chunk_id":  1,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  442,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-23 23:00",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  9111,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  442,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-23 23:50",
+                      "messages":  [
+                                       "Arjit Singh Spotify var top 3 madhe ala",
+                                       "ðŸ˜Ž",
+                                       "World wide"
+                                   ],
+                      "turn_id":  9112,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  444,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-25 00:51",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9118,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  447,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-25 23:35",
+                      "messages":  [
+                                       "ye dekh"
+                                   ],
+                      "turn_id":  9123,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  457,
+                      "speaker":  "A",
+                      "timestamp":  "2025-04-21 00:37",
+                      "messages":  [
+                                       "HI"
+                                   ],
+                      "turn_id":  9241,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  458,
+                      "speaker":  "A",
+                      "timestamp":  "2025-04-21 05:23",
+                      "messages":  [
+                                       "1.5-2 varsha asach gela n bolta we lost the bond. It\u0027s too heart breaking n gives pain back n forth. I know ha pan message ignore hoil kiva message box madhe padun rahil but still lihtoy. Mala jevdha kalty tya veles tula time navta ani mala vatla tu ignore kartey jya mule mazi chid chid vychi ani rag yeycha karan mala bolycha asachya pan tu available nasychi.maza bolna khup lagycha tula je tomne astil vagere pan mala vatla te maskari madhe ghetey tu . Je chote chote bhandan hote tycha yevdha problem hot asel i guess tula pan mala te kalalch nahi i regret . Pan tula mi bolo hoto apn physically bhetach nai je kahi ahe te chats varch. Physically impact samazto pan online nahi samazla. Jar apan bhetat asto tr i guess yevdha pudhe kadi mi escalate hou dila nasta. Mala kharach kalala nahi konte reasons hote tya mule tula problem zala . Just last clear kar ðŸ˜­ mala khup jad jaty he dead relation pudhe nyla dr veles tuzi story kiva ky tari yeta react pan krycha asta but then i remember we are not like earlier and it hurts ðŸ¤•. So i have decided to remove from everywhere one day. Ha pan message mi karnar navto ugch tech tech tula pan kantal ala asel .devane thode positive hints dile i guess so kartoy ."
+                                   ],
+                      "turn_id":  9242,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:28",
+                      "messages":  [
+                                       "Hi"
+                                   ],
+                      "turn_id":  9258,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:29",
+                      "messages":  [
+                                       "HI"
+                                   ],
+                      "turn_id":  9259,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:30",
+                      "messages":  [
+                                       "Kasa aahes"
+                                   ],
+                      "turn_id":  9260,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:30",
+                      "messages":  [
+                                       "bara nahiy itka",
+                                       "chalay kay na ky"
+                                   ],
+                      "turn_id":  9261,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:30",
+                      "messages":  [
+                                       "Ka?",
+                                       "Majh zal graduation"
+                                   ],
+                      "turn_id":  9262,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:31",
+                      "messages":  [
+                                       "ha",
+                                       "shital kaki ne status thevlela",
+                                       "na",
+                                       "bagitla hota"
+                                   ],
+                      "turn_id":  9263,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:32",
+                      "messages":  [
+                                       "Oh"
+                                   ],
+                      "turn_id":  9264,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:32",
+                      "messages":  [
+                                       "office madhla kam",
+                                       "abhyas"
+                                   ],
+                      "turn_id":  9265,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:32",
+                      "messages":  [
+                                       "? Master\u0027s"
+                                   ],
+                      "turn_id":  9266,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:32",
+                      "messages":  [
+                                       "sarv manage hotana mushkil zalay",
+                                       "ho"
+                                   ],
+                      "turn_id":  9267,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:33",
+                      "messages":  [
+                                       "Accha",
+                                       "Okay okay",
+                                       "Changal aahe m"
+                                   ],
+                      "turn_id":  9268,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:33",
+                      "messages":  [
+                                       "ny changla",
+                                       "downfall suru ahe",
+                                       "gelya pasun"
+                                   ],
+                      "turn_id":  9269,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:33",
+                      "messages":  [
+                                       "Koun"
+                                   ],
+                      "turn_id":  9270,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:34",
+                      "messages":  [
+                                       "tu ani kon"
+                                   ],
+                      "turn_id":  9271,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:37",
+                      "messages":  [
+                                       "Wtf",
+                                       "Fail",
+                                       "Mi aahe tr ikadech"
+                                   ],
+                      "turn_id":  9272,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:37",
+                      "messages":  [
+                                       "tech na",
+                                       "friendship geli na",
+                                       "rechecking pan ny",
+                                       "direct exam la basycha ahe ata"
+                                   ],
+                      "turn_id":  9273,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:38",
+                      "messages":  [
+                                       "Pn kt laglich kshi",
+                                       "Bachelor mdhe top ani aata fail"
+                                   ],
+                      "turn_id":  9274,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:38",
+                      "messages":  [
+                                       "tech na",
+                                       "laaj vatttey sarvana mazya peksha"
+                                   ],
+                      "turn_id":  9275,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:39",
+                      "messages":  [
+                                       "Laksh de yr abhyasa kadhe",
+                                       "He expected nhi tuzyakadhun"
+                                   ],
+                      "turn_id":  9276,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:39",
+                      "messages":  [
+                                       "mala pan nahiy yaar",
+                                       "mi lihla hota khup",
+                                       "kasa zala malach mahit ny",
+                                       "sagle shock ahet",
+                                       "ghari ny bolo mi"
+                                   ],
+                      "turn_id":  9277,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:40",
+                      "messages":  [
+                                       "Ky ny aata zal te zal aata pudh kr",
+                                       "Clear kr ti kt"
+                                   ],
+                      "turn_id":  9278,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:40",
+                      "messages":  [
+                                       "ho"
+                                   ],
+                      "turn_id":  9279,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:40",
+                      "messages":  [
+                                       "Aata kount sem?"
+                                   ],
+                      "turn_id":  9280,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:40",
+                      "messages":  [
+                                       "sem 2"
+                                   ],
+                      "turn_id":  9281,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:40",
+                      "messages":  [
+                                       "Okay okay",
+                                       "Clg?",
+                                       "M.COM kartoy?"
+                                   ],
+                      "turn_id":  9282,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:41",
+                      "messages":  [
+                                       "commerce kuthun",
+                                       "yeil",
+                                       "msc it",
+                                       "masters in information technology"
+                                   ],
+                      "turn_id":  9283,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:41",
+                      "messages":  [
+                                       "Shit shit",
+                                       "Sorry",
+                                       "Chukun"
+                                   ],
+                      "turn_id":  9284,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:42",
+                      "messages":  [
+                                       "ha",
+                                       "visar ata",
+                                       "ky bolu"
+                                   ],
+                      "turn_id":  9285,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:42",
+                      "messages":  [
+                                       "Are nhi re"
+                                   ],
+                      "turn_id":  9286,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:42",
+                      "messages":  [
+                                       "grah firleyt"
+                                   ],
+                      "turn_id":  9287,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:42",
+                      "messages":  [
+                                       "Ikade kaki shi bolatey tr tyat chukun boli"
+                                   ],
+                      "turn_id":  9288,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:42",
+                      "messages":  [
+                                       "tevha bolycho lucky ahes mazya sathi tevha maskari",
+                                       "vatychi"
+                                   ],
+                      "turn_id":  9289,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "B",
+                      "timestamp":  "2025-06-07 23:43",
+                      "messages":  [
+                                       "Mhanje"
+                                   ],
+                      "turn_id":  9290,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  461,
+                      "speaker":  "A",
+                      "timestamp":  "2025-06-07 23:43",
+                      "messages":  [
+                                       ".",
+                                       "Tuza all the best pan navta ya veli"
+                                   ],
+                      "turn_id":  9291,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  9111,
+    "end_turn_id":  9291
+}

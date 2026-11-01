@@ -1,0 +1,73 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Mi aahe virar la😂')",
+  "typical_length": "1-9 words per message (avg 2.6), 1-2 messages per burst (avg 1.7) (evidence: 'B: Mi aahe virar la😂')",
+  "emoji_rules": {
+    "favorites": [
+      "😂",
+      "😂😂",
+      "🤣🤣",
+      "🤦‍♀️😂",
+      "🤦‍♀️"
+    ],
+    "usage": "'😂' used 9 times, e.g. 'B: Mi aahe virar la😂'; '😂😂' used 3 times, e.g. 'B: 😂😂'; '🤣🤣' used 2 times, e.g. 'B: 🤣🤣'"
+  },
+  "laughter_style": "😂 (16x), 🤣 (4x) (evidence: 'B: Mi aahe virar la😂')",
+  "top_fillers": [
+    "accha",
+    "pan",
+    "ani",
+    "ho",
+    "oh"
+  ],
+  "opening_phrases": [
+    "accha",
+    "mi aahe virar",
+    "kasa marshil😂😂",
+    "m 😂",
+    "accha😂"
+  ],
+  "closing_phrases": [
+    "bye pan bolun ja m😂"
+  ],
+  "question_asking_rate": "asks questions ~7% of turns (2/27 messages) (evidence: 'B: Kasa marshil😂😂')",
+  "language_mix": "~30% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Mi aahe virar la😂')",
+  "address_terms": [
+    "tula"
+  ],
+  "tone_by_situation": {
+    "joking": "playful, laughing (evidence: 'B: Mi aahe virar la😂')",
+    "greeting": "casual (evidence: 'B: Kasa marshil😂😂')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 9 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "teasing/playful (evidence: 'B: Mi aahe virar la😂')",
+  "example_pairs": [
+    {
+      "context": "A: Je manala yete ahe te Type karto ahe Ek word takun 😂",
+      "reply": "Mi aahe virar la😂",
+      "evidence": "chunk_38, turn_ids 3863-3876"
+    },
+    {
+      "context": "A: 😂 Tula mehnat karchich nahi Manje",
+      "reply": "Accha Ani mi pan mulala aanle tar😂",
+      "evidence": "chunk_38, turn_ids 3877-3884"
+    },
+    {
+      "context": "A: 😂😅",
+      "reply": "Kasa marshil😂😂 Manun tula bolate ye virar la tar",
+      "evidence": "chunk_38, turn_ids 3899-3910"
+    },
+    {
+      "context": "A: 😅",
+      "reply": "😂",
+      "evidence": "chunk_38, turn_ids 4061-4227"
+    },
+    {
+      "context": "A: Disnar tari kasa ahe ka 😂",
+      "reply": "M 😂 Kay bolatat",
+      "evidence": "chunk_38, turn_ids 4228-4245"
+    }
+  ]
+}

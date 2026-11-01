@@ -1,0 +1,424 @@
+﻿{
+    "chunk_id":  4,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:51",
+                      "messages":  [
+                                       "So"
+                                   ],
+                      "turn_id":  3648,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:51",
+                      "messages":  [
+                                       "aho bolcha ðŸ˜‚ðŸ˜‚"
+                                   ],
+                      "turn_id":  3649,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:51",
+                      "messages":  [
+                                       "Lame"
+                                   ],
+                      "turn_id":  3650,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:51",
+                      "messages":  [
+                                       "ky"
+                                   ],
+                      "turn_id":  3651,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:52",
+                      "messages":  [
+                                       "Joke"
+                                   ],
+                      "turn_id":  3652,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:52",
+                      "messages":  [
+                                       "beta nahi aho",
+                                       "ðŸ˜‚ðŸ˜‚ðŸ˜‚",
+                                       "chal bye",
+                                       "zop m",
+                                       "ja"
+                                   ],
+                      "turn_id":  3653,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:53",
+                      "messages":  [
+                                       "Bye"
+                                   ],
+                      "turn_id":  3654,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:53",
+                      "messages":  [
+                                       "kon uthav ta",
+                                       "tula",
+                                       "ki alaram"
+                                   ],
+                      "turn_id":  3655,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:53",
+                      "messages":  [
+                                       "Papa"
+                                   ],
+                      "turn_id":  3656,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:53",
+                      "messages":  [
+                                       "aaj tr alaram vajlach nahi",
+                                       "late zala"
+                                   ],
+                      "turn_id":  3657,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:53",
+                      "messages":  [
+                                       "Hyavar bikul bharosa nhi"
+                                   ],
+                      "turn_id":  3658,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "acha"
+                                   ],
+                      "turn_id":  3659,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  3660,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "mi uthto",
+                                       "morpanki gana ahe",
+                                       "thevla",
+                                       "mi"
+                                   ],
+                      "turn_id":  3661,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "Mala nhi yet jag"
+                                   ],
+                      "turn_id":  3662,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "acha"
+                                   ],
+                      "turn_id":  3663,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:54",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  3664,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-17 22:55",
+                      "messages":  [
+                                       "goood night"
+                                   ],
+                      "turn_id":  3665,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  166,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-17 22:56",
+                      "messages":  [
+                                       "Good night"
+                                   ],
+                      "turn_id":  3666,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-18 23:15",
+                      "messages":  [
+                                       "Aese kahi naste"
+                                   ],
+                      "turn_id":  3670,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-18 23:17",
+                      "messages":  [
+                                       "riya mala bolat hoti asa asta"
+                                   ],
+                      "turn_id":  3671,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-18 23:17",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  3672,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-18 23:20",
+                      "messages":  [
+                                       "acha",
+                                       "aaj papa n sutti hoti ka"
+                                   ],
+                      "turn_id":  3673,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-18 23:20",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  3674,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-18 23:21",
+                      "messages":  [
+                                       "acha",
+                                       "udya asel na  m"
+                                   ],
+                      "turn_id":  3675,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-18 23:21",
+                      "messages":  [
+                                       "Papa nahi aahe"
+                                   ],
+                      "turn_id":  3676,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-18 23:21",
+                      "messages":  [
+                                       "ky"
+                                   ],
+                      "turn_id":  3677,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-18 23:21",
+                      "messages":  [
+                                       "Papa na sutti nahi aahe"
+                                   ],
+                      "turn_id":  3678,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  167,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-18 23:21",
+                      "messages":  [
+                                       "asa bol na",
+                                       "tula phone kadhi bhetla hot g"
+                                   ],
+                      "turn_id":  3679,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 22:03",
+                      "messages":  [
+                                       "Ajun tari nahi manje you have feelings",
+                                       "Omg"
+                                   ],
+                      "turn_id":  3750,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-20 22:55",
+                      "messages":  [
+                                       "Tula asa vatta"
+                                   ],
+                      "turn_id":  3751,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 22:59",
+                      "messages":  [
+                                       "Tula tine hug kel tevha kay vatal"
+                                   ],
+                      "turn_id":  3752,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-20 23:10",
+                      "messages":  [
+                                       "Vegla vatla",
+                                       "Khup"
+                                   ],
+                      "turn_id":  3753,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 23:16",
+                      "messages":  [
+                                       "Potat gola aala ka??"
+                                   ],
+                      "turn_id":  3754,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-20 23:17",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  3755,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 23:17",
+                      "messages":  [
+                                       "M"
+                                   ],
+                      "turn_id":  3756,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-20 23:18",
+                      "messages":  [
+                                       "Expected navta manun asel"
+                                   ],
+                      "turn_id":  3757,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 23:18",
+                      "messages":  [
+                                       "Oh"
+                                   ],
+                      "turn_id":  3758,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-20 23:19",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  3759,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  170,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-20 23:22",
+                      "messages":  [
+                                       "Kay karnar aahes??",
+                                       "U really dont have feelings for her na ??"
+                                   ],
+                      "turn_id":  3760,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  3648,
+    "end_turn_id":  3760
+}

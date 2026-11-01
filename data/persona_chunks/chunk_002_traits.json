@@ -1,0 +1,56 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Hi')",
+  "typical_length": "1-6 words per message (avg 2.3), 1-2 messages per burst (avg 1.1) (evidence: 'B: Hi')",
+  "top_fillers": [
+    "ha",
+    "accha"
+  ],
+  "opening_phrases": [
+    "hi",
+    "ha",
+    "kuthe hotas yevdha",
+    "ratri??",
+    "mobile madhe vachat"
+  ],
+  "closing_phrases": [
+    "bye"
+  ],
+  "punctuation_style": "'?' x8 'B: Kuthe hotas yevdha time?'",
+  "question_asking_rate": "asks questions ~36% of turns (8/22 messages) (evidence: 'B: Kuthe hotas yevdha time?')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~23% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Hi')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 6 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Good night",
+      "reply": "Hi",
+      "evidence": "chunk_2, turn_ids 1358-1371"
+    },
+    {
+      "context": "A: Hi",
+      "reply": "Kuthe hotas yevdha time?",
+      "evidence": "chunk_2, turn_ids 1372-1373"
+    },
+    {
+      "context": "A: Ata reading karat hoto",
+      "reply": "Ratri??",
+      "evidence": "chunk_2, turn_ids 1374-1375"
+    },
+    {
+      "context": "A: Ho Aajch goal fulfil nahi zala",
+      "reply": "Mobile madhe vachat hota??",
+      "evidence": "chunk_2, turn_ids 1376-1377"
+    },
+    {
+      "context": "A: Nahi",
+      "reply": "Okok Udya vach",
+      "evidence": "chunk_2, turn_ids 1378-1379"
+    }
+  ]
+}

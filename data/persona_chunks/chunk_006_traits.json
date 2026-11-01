@@ -1,0 +1,71 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Accha')",
+  "typical_length": "1-11 words per message (avg 3.1), 1-3 messages per burst (avg 1.4) (evidence: 'B: Accha')",
+  "emoji_rules": {
+    "favorites": [
+      "🥱",
+      "🤦‍♀️"
+    ],
+    "usage": "'🥱' used 1 times, e.g. 'B: Gnsdtc🥱'; '🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "na",
+    "ha",
+    "accha",
+    "ch",
+    "ka"
+  ],
+  "opening_phrases": [
+    "ha",
+    "accha",
+    "bol tu",
+    "mi shayad bhandup",
+    "hya sat la"
+  ],
+  "closing_phrases": [
+    "chal bye zopte"
+  ],
+  "punctuation_style": "'?' x1 'B: Dogh?'",
+  "question_asking_rate": "asks questions ~19% of turns (5/27 messages) (evidence: 'B: Ajun kay')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~48% Marathi-Romanized, ~89% English/mixed (evidence: 'B: Accha')",
+  "address_terms": [
+    "tu"
+  ],
+  "tone_by_situation": {
+    "busy": "wants to sleep/put phone away (evidence: 'B: Chal bye zopte')",
+    "greeting": "casual (evidence: 'B: Bol tu')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 11 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Chal bye zopte')",
+  "example_pairs": [
+    {
+      "context": "A: Ata bol Zala Khaun",
+      "reply": "Bol tu",
+      "evidence": "chunk_6, turn_ids 3060-3061"
+    },
+    {
+      "context": "A: .",
+      "reply": "Mi shayad bhandup la yenar aahe Shayad",
+      "evidence": "chunk_6, turn_ids 3062-3063"
+    },
+    {
+      "context": "A: kadhi",
+      "reply": "Hya sat la kiva tya 4 sutti aahet na tevha Shayad ajun kahi pakka nahi aahe",
+      "evidence": "chunk_6, turn_ids 3064-3065"
+    },
+    {
+      "context": "A: acha thik hai",
+      "reply": "Kaki bolat hoti bhandup la ye ikdhun ch ja clg la",
+      "evidence": "chunk_6, turn_ids 3066-3067"
+    },
+    {
+      "context": "A: ese kasa janar kuthe clg ahe mahit nahi ka kaki la",
+      "reply": "Mahiti aahe",
+      "evidence": "chunk_6, turn_ids 3068-3069"
+    }
+  ]
+}

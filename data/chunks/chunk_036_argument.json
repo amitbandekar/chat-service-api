@@ -1,0 +1,465 @@
+﻿{
+    "chunk_id":  36,
+    "mood":  "argument",
+    "turns":  [
+                  {
+                      "session_id":  354,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-26 21:01",
+                      "messages":  [
+                                       "Mala message kadhi pasun karycha hota",
+                                       "But",
+                                       "Tension yevdha ahe ki Mich nahi kela"
+                                   ],
+                      "turn_id":  8224,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  354,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-26 21:02",
+                      "messages":  [
+                                       "Don divas clg la",
+                                       "Pan nahi gelo"
+                                   ],
+                      "turn_id":  8226,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  354,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-26 21:03",
+                      "messages":  [
+                                       "Ani ithe maza topic ch nahi sapadtat",
+                                       "Ahe",
+                                       "Teacher ne 2 da vicharla"
+                                   ],
+                      "turn_id":  8230,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  354,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-26 21:04",
+                      "messages":  [
+                                       "Topic dile ahet most of janani",
+                                       "Ani mi tevdha sudha nahi kela"
+                                   ],
+                      "turn_id":  8234,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  354,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-26 21:05",
+                      "messages":  [
+                                       "Tumcha grp kay karto aahe",
+                                       "Ajun nahi tharvala topic te"
+                                   ],
+                      "turn_id":  8235,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  354,
+                      "speaker":  "A",
+                      "timestamp":  "2023-07-26 21:06",
+                      "messages":  [
+                                       "Ho na tech",
+                                       "Komal la pan bolo mi nahi karat tuzya shi",
+                                       "Sunday la",
+                                       "Pan ajun idea nahi ky karycha"
+                                   ],
+                      "turn_id":  8238,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  355,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-27 21:08",
+                      "messages":  [
+                                       "Amhi 2.30 la sutlo pan rickshaw navti m 2.50 nahi bhetali m direct 3.53 chi hoti ti pan ek station la jaun 1/2hour thambali mi ghari 5.30 la aali"
+                                   ],
+                      "turn_id":  8279,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-29 18:45",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  8290,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-29 18:54",
+                      "messages":  [
+                                       "Mi aese kahi bolich nahi"
+                                   ],
+                      "turn_id":  8296,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-29 18:55",
+                      "messages":  [
+                                       "Pan mi tas kahi boli ch nahi"
+                                   ],
+                      "turn_id":  8298,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-29 21:05",
+                      "messages":  [
+                                       "Ha mahiti aahe",
+                                       "Kay nahi tyala 10th vagare",
+                                       "Toh aata 5 6 madhe aahe aese vagto aahe"
+                                   ],
+                      "turn_id":  8310,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  356,
+                      "speaker":  "B",
+                      "timestamp":  "2023-07-29 21:12",
+                      "messages":  [
+                                       "Jaude mi kahi nahi bolnar",
+                                       "Tyana je karyach te karude",
+                                       "Tyala aata kahi nahi sangnar"
+                                   ],
+                      "turn_id":  8312,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  369,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-15 12:36",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  8489,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-20 18:08",
+                      "messages":  [
+                                       "Accha",
+                                       "Tu tar navin phone nahi ghenar hota na?"
+                                   ],
+                      "turn_id":  8506,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-20 18:09",
+                      "messages":  [
+                                       "Are ho",
+                                       "Te mi ghetlach nahi",
+                                       "Kaka ne dila gheun",
+                                       "Shaaranya cha papa ne"
+                                   ],
+                      "turn_id":  8507,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-20 18:17",
+                      "messages":  [
+                                       "Tas nahi re",
+                                       "In general bolte aahe mi yevdhya divasani bhetalas tila tar kay bolat hoti"
+                                   ],
+                      "turn_id":  8510,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-20 18:42",
+                      "messages":  [
+                                       "Nahi g",
+                                       "But",
+                                       "Tasa mala mahity tu tasa vichr nahi karnar"
+                                   ],
+                      "turn_id":  8513,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-20 18:54",
+                      "messages":  [
+                                       "Tuza timing chukla g",
+                                       "Mala ky bolu samzla nahi"
+                                   ],
+                      "turn_id":  8515,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  370,
+                      "speaker":  "B",
+                      "timestamp":  "2023-08-20 19:00",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  8518,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  371,
+                      "speaker":  "A",
+                      "timestamp":  "2023-08-25 06:26",
+                      "messages":  [
+                                       "Kal practical hota 7.10 ch",
+                                       "Ani mi tasa pochlo hoto",
+                                       "Gate war hoto",
+                                       "Ek Jan yet hota",
+                                       "Tr thamblo hoto",
+                                       "Sir ale",
+                                       "Mala bole chal ka thambla ahe",
+                                       "Mi bolo jau lagech",
+                                       "Toh ala 5 min madhe",
+                                       "M tho bola komal yetyey mi thambtoy jara tham",
+                                       "Ani ek Jan hota toh mazya sobat asto sation la",
+                                       "Toh pan yet hota",
+                                       "Tala sodun alo late hoil ka",
+                                       "Ka mi thamblo malach nahi samzal",
+                                       "Late zala sir ne ghetlach nahi",
+                                       "Ani nantar dusra dep ch God Ali ti boli yevdhe jan late zaley",
+                                       "Nearly 10 jan hote",
+                                       "Pan Target zalo Mich",
+                                       "Sir bole hod la tya ha bher  hota yala bolo pan tari ala nahi",
+                                       "ðŸ™ƒðŸ¥¹",
+                                       "Yevdhi ghan isjjat geli na",
+                                       "Ky bolu",
+                                       "Ani kal mala sakal pasunch vatat hota kahi tari honar ahe"
+                                   ],
+                      "turn_id":  8523,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  378,
+                      "speaker":  "A",
+                      "timestamp":  "2023-09-02 20:55",
+                      "messages":  [
+                                       "Hii",
+                                       "Hii boli Ani pudhe kahi bolis ch nahis",
+                                       "Ragavli ahes ka",
+                                       "Maza kahi chuklay ka"
+                                   ],
+                      "turn_id":  8562,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  381,
+                      "speaker":  "A",
+                      "timestamp":  "2023-09-07 21:30",
+                      "messages":  [
+                                       "Nahi",
+                                       "G"
+                                   ],
+                      "turn_id":  8590,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  385,
+                      "speaker":  "B",
+                      "timestamp":  "2023-09-28 11:21",
+                      "messages":  [
+                                       "Sutti postponed keli aahe",
+                                       "Papa na pan nahi aahe"
+                                   ],
+                      "turn_id":  8638,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  385,
+                      "speaker":  "A",
+                      "timestamp":  "2023-09-28 11:23",
+                      "messages":  [
+                                       "Nantar ajun ek message ala boltat donhi divas ahe sutti",
+                                       "Nahi"
+                                   ],
+                      "turn_id":  8641,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  385,
+                      "speaker":  "A",
+                      "timestamp":  "2023-09-28 11:23",
+                      "messages":  [
+                                       "Ho",
+                                       "Var Tuesday passun kal pariyant Mich gelo nahi"
+                                   ],
+                      "turn_id":  8645,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  385,
+                      "speaker":  "B",
+                      "timestamp":  "2023-09-28 12:15",
+                      "messages":  [
+                                       "Nahi sutti nahi karnar"
+                                   ],
+                      "turn_id":  8656,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  390,
+                      "speaker":  "A",
+                      "timestamp":  "2023-10-24 17:42",
+                      "messages":  [
+                                       "ajun ky bolnar ki nahi"
+                                   ],
+                      "turn_id":  8686,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  396,
+                      "speaker":  "A",
+                      "timestamp":  "2023-12-01 11:05",
+                      "messages":  [
+                                       "Ha ata gela maza sagla tension",
+                                       "Nahi zala ahe yevdha nit"
+                                   ],
+                      "turn_id":  8713,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  401,
+                      "speaker":  "B",
+                      "timestamp":  "2024-01-28 11:44",
+                      "messages":  [
+                                       "Nahi nahi ajun thoda bhav kha na"
+                                   ],
+                      "turn_id":  8761,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  401,
+                      "speaker":  "B",
+                      "timestamp":  "2024-01-28 13:24",
+                      "messages":  [
+                                       "Aese kahi nahi aahe"
+                                   ],
+                      "turn_id":  8769,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  401,
+                      "speaker":  "B",
+                      "timestamp":  "2024-01-28 13:26",
+                      "messages":  [
+                                       "Sakali jate ti 7.00 vasta yete tyat pan aalyavar journal vagare aste",
+                                       "Tumchya sarkh lavkar nahi sutat amhi"
+                                   ],
+                      "turn_id":  8773,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  401,
+                      "speaker":  "A",
+                      "timestamp":  "2024-01-28 13:28",
+                      "messages":  [
+                                       "Ohh guard nahi ahe"
+                                   ],
+                      "turn_id":  8778,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  401,
+                      "speaker":  "B",
+                      "timestamp":  "2024-01-28 13:29",
+                      "messages":  [
+                                       "Mala debate nahi karyachi aahe",
+                                       "Tumch vegle aahe ani amch vegle aahe"
+                                   ],
+                      "turn_id":  8781,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  415,
+                      "speaker":  "B",
+                      "timestamp":  "2024-03-29 11:18",
+                      "messages":  [
+                                       "Waah",
+                                       "Mi expect nahi kel hote ki tu dance vagare karshil aese"
+                                   ],
+                      "turn_id":  8929,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  417,
+                      "speaker":  "B",
+                      "timestamp":  "2024-05-24 15:25",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  8952,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 17:13",
+                      "messages":  [
+                                       "Nahi kahi nahi zal",
+                                       "Tula mahiti aahe ka nahi te"
+                                   ],
+                      "turn_id":  8965,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 17:43",
+                      "messages":  [
+                                       "Jaude asude mala junya ghoshti madhe kahi interest nahi"
+                                   ],
+                      "turn_id":  8967,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  418,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-04 18:14",
+                      "messages":  [
+                                       "Nahi",
+                                       "Aese kahi nahi aahe"
+                                   ],
+                      "turn_id":  8973,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  420,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-08 11:05",
+                      "messages":  [
+                                       "Maaf kelay mi apan bolu shakato aese kahi nahi"
+                                   ],
+                      "turn_id":  8978,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  420,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-08 12:29",
+                      "messages":  [
+                                       "Apan bolu shakato pan jase tula pahije tas nahi"
+                                   ],
+                      "turn_id":  8980,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  8224,
+    "end_turn_id":  8980
+}

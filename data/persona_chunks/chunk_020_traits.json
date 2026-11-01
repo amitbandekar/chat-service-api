@@ -1,0 +1,45 @@
+{
+  "typical_length": "4-4 words per message (avg 4.0), 1-4 messages per burst (avg 1.6) (evidence: 'B: Waiting for this message')",
+  "opening_phrases": [
+    "waiting for this"
+  ],
+  "question_asking_rate": "asks questions ~0% of turns (0/31 messages)",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Waiting for this message')"
+  },
+  "catchphrases": [
+    "'waiting for this message' (evidence: 'B: Waiting for this message')"
+  ],
+  "never_does": [
+    "writes messages >15 words (max observed: 4 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Waiting for this message",
+      "reply": "Waiting for this message",
+      "evidence": "chunk_20, turn_ids 8421-8422"
+    },
+    {
+      "context": "A: Waiting for this message",
+      "reply": "Waiting for this message Waiting for this message",
+      "evidence": "chunk_20, turn_ids 8423-8424"
+    },
+    {
+      "context": "A: Waiting for this message",
+      "reply": "Waiting for this message",
+      "evidence": "chunk_20, turn_ids 8425-8426"
+    },
+    {
+      "context": "A: Waiting for this message",
+      "reply": "Waiting for this message",
+      "evidence": "chunk_20, turn_ids 8427-8428"
+    },
+    {
+      "context": "A: Waiting for this message",
+      "reply": "Waiting for this message Waiting for this message Waiting for this message Waiting for this message",
+      "evidence": "chunk_20, turn_ids 8429-8430"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+﻿{
+    "chunk_id":  13,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:01",
+                      "messages":  [
+                                       "ho",
+                                       "mala ky nay"
+                                   ],
+                      "turn_id":  5860,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:01",
+                      "messages":  [
+                                       "Sodh jaude"
+                                   ],
+                      "turn_id":  5861,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:02",
+                      "messages":  [
+                                       "gharatun bher nighyla tula explaination dyava lagel",
+                                       "mala nahi"
+                                   ],
+                      "turn_id":  5862,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:02",
+                      "messages":  [
+                                       "Samjate na tevdh",
+                                       "Tyadivashi na mala pathavalach naste Karan khup ch bare navte khup explanation dyave lagale aste"
+                                   ],
+                      "turn_id":  5863,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:03",
+                      "messages":  [
+                                       "ðŸ˜…ðŸ˜‚"
+                                   ],
+                      "turn_id":  5864,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:03",
+                      "messages":  [
+                                       "Ani tumhi Ratri gele hote tyat"
+                                   ],
+                      "turn_id":  5865,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:04",
+                      "messages":  [
+                                       "haa"
+                                   ],
+                      "turn_id":  5866,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:05",
+                      "messages":  [
+                                       "Aaj tari abhyas karyala aala ka ladka tujha"
+                                   ],
+                      "turn_id":  5867,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:06",
+                      "messages":  [
+                                       "nahi na",
+                                       "shana ahe toh",
+                                       "gela ahe sodyla",
+                                       "tyala mahit hota na"
+                                   ],
+                      "turn_id":  5868,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:06",
+                      "messages":  [
+                                       "Jast ch lad karto tu tya he",
+                                       "Tyache"
+                                   ],
+                      "turn_id":  5869,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:06",
+                      "messages":  [
+                                       "nay",
+                                       "ata bagun alo mi",
+                                       "10.40",
+                                       "la",
+                                       "yetoy boli mummy"
+                                   ],
+                      "turn_id":  5870,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:07",
+                      "messages":  [
+                                       "Ha Karan tyala gheun nahi janar",
+                                       "Yeil tar bolav tyala",
+                                       "Sang abhyas kar"
+                                   ],
+                      "turn_id":  5871,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:08",
+                      "messages":  [
+                                       "aajun nahi ala"
+                                   ],
+                      "turn_id":  5872,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:09",
+                      "messages":  [
+                                       "Yeil toh bagh"
+                                   ],
+                      "turn_id":  5873,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:09",
+                      "messages":  [
+                                       "baghu"
+                                   ],
+                      "turn_id":  5874,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:10",
+                      "messages":  [
+                                       "Bagh kay te"
+                                   ],
+                      "turn_id":  5875,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:11",
+                      "messages":  [
+                                       "haa"
+                                   ],
+                      "turn_id":  5876,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:13",
+                      "messages":  [
+                                       "Bakki kay"
+                                   ],
+                      "turn_id":  5877,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:17",
+                      "messages":  [
+                                       "Ky nay",
+                                       "Udya bolu",
+                                       "Ata thodi practice kartoy",
+                                       "Coding"
+                                   ],
+                      "turn_id":  5878,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:17",
+                      "messages":  [
+                                       "K",
+                                       "Bye"
+                                   ],
+                      "turn_id":  5879,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:18",
+                      "messages":  [
+                                       "Chi",
+                                       "Udya sathi",
+                                       "Tham",
+                                       "Mala all the best bol"
+                                   ],
+                      "turn_id":  5880,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:18",
+                      "messages":  [
+                                       "All the best!"
+                                   ],
+                      "turn_id":  5881,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:19",
+                      "messages":  [
+                                       "Thanks ðŸ’—"
+                                   ],
+                      "turn_id":  5882,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:44",
+                      "messages":  [
+                                       "Are aai baba chi train 4hours late aahe",
+                                       "Sakali 5 vasta yenar boltat"
+                                   ],
+                      "turn_id":  5883,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:44",
+                      "messages":  [
+                                       "are bap re",
+                                       "ata"
+                                   ],
+                      "turn_id":  5884,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "Kay mahiti kay karnar"
+                                   ],
+                      "turn_id":  5885,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "konti ahe ti"
+                                   ],
+                      "turn_id":  5886,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "Mummy papa boltat aahe cancel karuya nantar 4 days ne jauya",
+                                       "Ltt madgoan"
+                                   ],
+                      "turn_id":  5887,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "acha"
+                                   ],
+                      "turn_id":  5888,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "Baghu kaka kay bolato te"
+                                   ],
+                      "turn_id":  5889,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:45",
+                      "messages":  [
+                                       "tasach kay tari karla hava",
+                                       "ata",
+                                       "fukat trass"
+                                   ],
+                      "turn_id":  5890,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:46",
+                      "messages":  [
+                                       "Ha tech na"
+                                   ],
+                      "turn_id":  5891,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:48",
+                      "messages":  [
+                                       "dada pan gela ahe",
+                                       "mummy la anayla"
+                                   ],
+                      "turn_id":  5892,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:49",
+                      "messages":  [
+                                       "Toh kadhi yenar aahe"
+                                   ],
+                      "turn_id":  5893,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-27 23:49",
+                      "messages":  [
+                                       "aaj",
+                                       "janashatabdi",
+                                       "ahe"
+                                   ],
+                      "turn_id":  5894,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  268,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-27 23:49",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  5895,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  269,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-29 22:07",
+                      "messages":  [
+                                       "Ho",
+                                       "Tu",
+                                       "Btw it\u0027s jevli*"
+                                   ],
+                      "turn_id":  5903,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  269,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-29 22:08",
+                      "messages":  [
+                                       "Ho",
+                                       "Nahi",
+                                       "Single tick ka yeta ahe net sampla ka"
+                                   ],
+                      "turn_id":  5904,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  269,
+                      "speaker":  "B",
+                      "timestamp":  "2023-01-29 22:31",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  5905,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  269,
+                      "speaker":  "A",
+                      "timestamp":  "2023-01-29 22:31",
+                      "messages":  [
+                                       "Acha acha"
+                                   ],
+                      "turn_id":  5906,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  5860,
+    "end_turn_id":  5906
+}

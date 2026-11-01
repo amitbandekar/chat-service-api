@@ -1,0 +1,72 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Hiii') (evidence: 'B: Ka')",
+  "typical_length": "1-10 words per message (avg 2.3), 1-2 messages per burst (avg 1.2) (evidence: 'B: Ka')",
+  "emoji_rules": {
+    "favorites": [
+      "🤦‍♀️",
+      "😒",
+      "😎"
+    ],
+    "usage": "'🤦‍♀️' used 2 times, e.g. 'B: 🤦‍♀️'; '😒' used 1 times, e.g. 'B: 😒'; '😎' used 1 times, e.g. 'B: I AM A PERFECT  COMBINATION OF MY FLAWS😎'"
+  },
+  "top_fillers": [
+    "ha",
+    "ok",
+    "ka",
+    "accha",
+    "na"
+  ],
+  "opening_phrases": [
+    "hi",
+    "ok",
+    "ka",
+    "krte aahe",
+    "accha"
+  ],
+  "closing_phrases": [
+    "ha thamb",
+    "khali jauya bola mala vatal khali dukanat vegre chala aahe",
+    "thamb"
+  ],
+  "punctuation_style": "'?' x5 'B: Kasa aahes??'",
+  "elongation_examples": [
+    "Hiii"
+  ],
+  "question_asking_rate": "asks questions ~33% of turns (9/27 messages) (evidence: 'B: Ka')",
+  "language_mix": "~22% Marathi-Romanized, ~93% English/mixed (evidence: 'B: Ka')",
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Hi')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 10 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Khali jauya bola mala vatal khali dukanat vegre chala aahe'); teasing/playful (evidence: 'B: 😒')",
+  "example_pairs": [
+    {
+      "context": "A: . acha bichari asa",
+      "reply": "Ka",
+      "evidence": "chunk_33, turn_ids 146-149"
+    },
+    {
+      "context": "A: tuza zala",
+      "reply": "Krte aahe",
+      "evidence": "chunk_33, turn_ids 150-151"
+    },
+    {
+      "context": "A: Hi",
+      "reply": "😒",
+      "evidence": "chunk_33, turn_ids 155-158"
+    },
+    {
+      "context": "A: Kontya bahshet ahet",
+      "reply": "French Hakuna matata tak",
+      "evidence": "chunk_33, turn_ids 161-162"
+    },
+    {
+      "context": "A: Ek word taku",
+      "reply": "Ha tar kay",
+      "evidence": "chunk_33, turn_ids 163-164"
+    }
+  ]
+}

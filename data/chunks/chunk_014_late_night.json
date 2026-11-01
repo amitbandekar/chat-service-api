@@ -1,0 +1,437 @@
+﻿{
+    "chunk_id":  14,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:14",
+                      "messages":  [
+                                       "Baghu kay hot te",
+                                       "Jast divas rahu pan nahi sakat"
+                                   ],
+                      "turn_id":  416,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:15",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  417,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:15",
+                      "messages":  [
+                                       "14 chya aadhi yave lagnar"
+                                   ],
+                      "turn_id":  418,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:15",
+                      "messages":  [
+                                       "Thoda tari relief hoil"
+                                   ],
+                      "turn_id":  419,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:15",
+                      "messages":  [
+                                       "Ha pan mala mahiti nahi parat kadhi jayala bhetnar",
+                                       "Sagale janar aahet may madhe",
+                                       "Amchi vadit program aahet"
+                                   ],
+                      "turn_id":  420,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:16",
+                      "messages":  [
+                                       "Acha",
+                                       "Tevha pan jau shakte thode divas",
+                                       "Starting aselbna sem chi"
+                                   ],
+                      "turn_id":  421,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:17",
+                      "messages":  [
+                                       "Nahi",
+                                       "Baal lagn pan aahe gharat",
+                                       "Plus clg pan asnar",
+                                       "Ani miss tar bilkul nahi karu shakat"
+                                   ],
+                      "turn_id":  422,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:18",
+                      "messages":  [
+                                       "Tyat kay yevdha",
+                                       "Tu kay hushar ahet cover karshil tevdha"
+                                   ],
+                      "turn_id":  423,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:19",
+                      "messages":  [
+                                       "Praticals astat",
+                                       "Te miss karun nahi chalnar"
+                                   ],
+                      "turn_id":  424,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:19",
+                      "messages":  [
+                                       "Ho",
+                                       "Ka"
+                                   ],
+                      "turn_id":  425,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:19",
+                      "messages":  [
+                                       "Ha",
+                                       "Ani amch clg tumchya sarkh naste 2 hours ch kiva 3 hours ch",
+                                       "Amch sakali 8.45 te sandyakali 5.30 paryant aste"
+                                   ],
+                      "turn_id":  426,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:21",
+                      "messages":  [
+                                       "ðŸ˜¨ðŸ˜¨"
+                                   ],
+                      "turn_id":  427,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:21",
+                      "messages":  [
+                                       "Haa",
+                                       "Aata tu ch sang miss karu shakate ki nay te"
+                                   ],
+                      "turn_id":  428,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:22",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  429,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:22",
+                      "messages":  [
+                                       "M bghu ky te aata",
+                                       "Sagalch ekatra aale aahet",
+                                       "Gaavi jaych aahe clg madhe events aahet gharat engagement aahe"
+                                   ],
+                      "turn_id":  430,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:24",
+                      "messages":  [
+                                       "Hoil",
+                                       "Holi",
+                                       "Aata sadya exam var concentrate kar",
+                                       "Nantar ch nantar"
+                                   ],
+                      "turn_id":  431,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:24",
+                      "messages":  [
+                                       "Sampale main paper",
+                                       "Aata ekch bakki aahe communication skills"
+                                   ],
+                      "turn_id":  432,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:24",
+                      "messages":  [
+                                       "Ho ka"
+                                   ],
+                      "turn_id":  433,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:25",
+                      "messages":  [
+                                       "Ho"
+                                   ],
+                      "turn_id":  434,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 00:25",
+                      "messages":  [
+                                       "Chal mi abyas karto ahe",
+                                       "Eka friend sobat",
+                                       "Bye"
+                                   ],
+                      "turn_id":  435,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  21,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 00:25",
+                      "messages":  [
+                                       "Bye"
+                                   ],
+                      "turn_id":  436,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:10",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸",
+                                       "Aalas ka m ghari?"
+                                   ],
+                      "turn_id":  441,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:46",
+                      "messages":  [
+                                       "Ho",
+                                       "Kapde duto ahe ðŸ˜…"
+                                   ],
+                      "turn_id":  442,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:54",
+                      "messages":  [
+                                       "Oh"
+                                   ],
+                      "turn_id":  443,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:55",
+                      "messages":  [
+                                       "Bol ata"
+                                   ],
+                      "turn_id":  444,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:58",
+                      "messages":  [
+                                       "Sunny sobat tu aahes ka?"
+                                   ],
+                      "turn_id":  445,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:58",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  446,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:58",
+                      "messages":  [
+                                       "M sumit?"
+                                   ],
+                      "turn_id":  447,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:58",
+                      "messages":  [
+                                       "Nahi"
+                                   ],
+                      "turn_id":  448,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Kaka kaki aale?"
+                                   ],
+                      "turn_id":  449,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Te ektra zople ahet"
+                                   ],
+                      "turn_id":  450,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Mnje"
+                                   ],
+                      "turn_id":  451,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Manje shital kaki",
+                                       "Kuthebtari geli",
+                                       "Ahe"
+                                   ],
+                      "turn_id":  452,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Te mhiti aahe mla"
+                                   ],
+                      "turn_id":  453,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 22:59",
+                      "messages":  [
+                                       "Kuthe"
+                                   ],
+                      "turn_id":  454,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 23:00",
+                      "messages":  [
+                                       "Kalyan"
+                                   ],
+                      "turn_id":  455,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 23:01",
+                      "messages":  [
+                                       "Ka"
+                                   ],
+                      "turn_id":  456,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 23:01",
+                      "messages":  [
+                                       "Tichi mavashi aali aahe"
+                                   ],
+                      "turn_id":  457,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "A",
+                      "timestamp":  "2022-04-03 23:01",
+                      "messages":  [
+                                       "Mi aikla hota ti janar ahe kuthe tari",
+                                       "Manun geli ahe",
+                                       "Lagech yenar ahe",
+                                       "Asa kahi tari"
+                                   ],
+                      "turn_id":  458,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  22,
+                      "speaker":  "B",
+                      "timestamp":  "2022-04-03 23:02",
+                      "messages":  [
+                                       "Yenar hoti pan late zal"
+                                   ],
+                      "turn_id":  459,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  416,
+    "end_turn_id":  459
+}

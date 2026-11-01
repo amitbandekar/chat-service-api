@@ -1,0 +1,71 @@
+{
+  "language_style": "Romanized Marathi + English (evidence: 'B: Tu kuthe ky krto')",
+  "typical_length": "1-15 words per message (avg 3.5), 1-2 messages per burst (avg 1.2) (evidence: 'B: Tu kuthe ky krto')",
+  "emoji_rules": {
+    "favorites": [
+      "😑"
+    ],
+    "usage": "'😑' used 2 times, e.g. 'B: 😑'"
+  },
+  "top_fillers": [
+    "ky",
+    "ha",
+    "ch",
+    "ani",
+    "accha",
+    "ho"
+  ],
+  "opening_phrases": [
+    "tu kuthe ky",
+    "mala nhi mhiti",
+    "accha",
+    "changal aahs",
+    "ky"
+  ],
+  "closing_phrases": [
+    "bye",
+    "tula nhi bolaych tr bye",
+    "tu zal ki bye"
+  ],
+  "question_asking_rate": "asks questions ~16% of turns (4/25 messages) (evidence: 'B: Tu kuthe ky krto')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~48% Marathi-Romanized, ~92% English/mixed (evidence: 'B: Tu kuthe ky krto')",
+  "address_terms": [
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Mala nhi mhiti')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 15 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Mi ky kela 🙂",
+      "reply": "Tu kuthe ky krto Mi ch vedi aahe",
+      "evidence": "chunk_18, turn_ids 3145-3146"
+    },
+    {
+      "context": "A: 🙂",
+      "reply": "😑",
+      "evidence": "chunk_18, turn_ids 3147-3148"
+    },
+    {
+      "context": "A: Ragat muli cute distat na",
+      "reply": "Mala nhi mhiti",
+      "evidence": "chunk_18, turn_ids 3149-3150"
+    },
+    {
+      "context": "A: Mala mahit ahe",
+      "reply": "Accha Ashya kiti mulina raag dila aahes",
+      "evidence": "chunk_18, turn_ids 3151-3152"
+    },
+    {
+      "context": "A: 2 Nay 3",
+      "reply": "Changal aahs Bye",
+      "evidence": "chunk_18, turn_ids 3153-3154"
+    }
+  ]
+}

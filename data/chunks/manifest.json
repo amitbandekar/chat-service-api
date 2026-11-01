@@ -1,0 +1,258 @@
+{
+  "total_chunks": 42,
+  "chunk_size": 40,
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "mood": "late_night",
+      "file": "chunk_001_late_night.json",
+      "turn_range": "9111-9291"
+    },
+    {
+      "chunk_id": 2,
+      "mood": "late_night",
+      "file": "chunk_002_late_night.json",
+      "turn_range": "1358-1444"
+    },
+    {
+      "chunk_id": 3,
+      "mood": "late_night",
+      "file": "chunk_003_late_night.json",
+      "turn_range": "352-399"
+    },
+    {
+      "chunk_id": 4,
+      "mood": "late_night",
+      "file": "chunk_004_late_night.json",
+      "turn_range": "3648-3760"
+    },
+    {
+      "chunk_id": 5,
+      "mood": "late_night",
+      "file": "chunk_005_late_night.json",
+      "turn_range": "3259-3310"
+    },
+    {
+      "chunk_id": 6,
+      "mood": "late_night",
+      "file": "chunk_006_late_night.json",
+      "turn_range": "3059-3107"
+    },
+    {
+      "chunk_id": 7,
+      "mood": "late_night",
+      "file": "chunk_007_late_night.json",
+      "turn_range": "1727-1802"
+    },
+    {
+      "chunk_id": 8,
+      "mood": "late_night",
+      "file": "chunk_008_late_night.json",
+      "turn_range": "1285-1324"
+    },
+    {
+      "chunk_id": 9,
+      "mood": "late_night",
+      "file": "chunk_009_late_night.json",
+      "turn_range": "9593-9632"
+    },
+    {
+      "chunk_id": 10,
+      "mood": "late_night",
+      "file": "chunk_010_late_night.json",
+      "turn_range": "7643-7688"
+    },
+    {
+      "chunk_id": 11,
+      "mood": "late_night",
+      "file": "chunk_011_late_night.json",
+      "turn_range": "1141-1180"
+    },
+    {
+      "chunk_id": 12,
+      "mood": "late_night",
+      "file": "chunk_012_late_night.json",
+      "turn_range": "8269-8358"
+    },
+    {
+      "chunk_id": 13,
+      "mood": "late_night",
+      "file": "chunk_013_late_night.json",
+      "turn_range": "5860-5906"
+    },
+    {
+      "chunk_id": 14,
+      "mood": "late_night",
+      "file": "chunk_014_late_night.json",
+      "turn_range": "416-459"
+    },
+    {
+      "chunk_id": 15,
+      "mood": "late_night",
+      "file": "chunk_015_late_night.json",
+      "turn_range": "400-443"
+    },
+    {
+      "chunk_id": 16,
+      "mood": "late_night",
+      "file": "chunk_016_late_night.json",
+      "turn_range": "1196-1235"
+    },
+    {
+      "chunk_id": 17,
+      "mood": "late_night",
+      "file": "chunk_017_late_night.json",
+      "turn_range": "2906-3061"
+    },
+    {
+      "chunk_id": 18,
+      "mood": "late_night",
+      "file": "chunk_018_late_night.json",
+      "turn_range": "3145-3184"
+    },
+    {
+      "chunk_id": 19,
+      "mood": "late_night",
+      "file": "chunk_019_late_night.json",
+      "turn_range": "6877-6916"
+    },
+    {
+      "chunk_id": 20,
+      "mood": "late_night",
+      "file": "chunk_020_late_night.json",
+      "turn_range": "8421-8460"
+    },
+    {
+      "chunk_id": 21,
+      "mood": "late_night",
+      "file": "chunk_021_late_night.json",
+      "turn_range": "373-412"
+    },
+    {
+      "chunk_id": 22,
+      "mood": "late_night",
+      "file": "chunk_022_late_night.json",
+      "turn_range": "7896-7980"
+    },
+    {
+      "chunk_id": 23,
+      "mood": "neutral",
+      "file": "chunk_023_neutral.json",
+      "turn_range": "2601-2665"
+    },
+    {
+      "chunk_id": 24,
+      "mood": "neutral",
+      "file": "chunk_024_neutral.json",
+      "turn_range": "9012-9068"
+    },
+    {
+      "chunk_id": 25,
+      "mood": "neutral",
+      "file": "chunk_025_neutral.json",
+      "turn_range": "8242-8403"
+    },
+    {
+      "chunk_id": 26,
+      "mood": "neutral",
+      "file": "chunk_026_neutral.json",
+      "turn_range": "8905-8979"
+    },
+    {
+      "chunk_id": 27,
+      "mood": "neutral",
+      "file": "chunk_027_neutral.json",
+      "turn_range": "7054-7271"
+    },
+    {
+      "chunk_id": 28,
+      "mood": "neutral",
+      "file": "chunk_028_neutral.json",
+      "turn_range": "5469-5518"
+    },
+    {
+      "chunk_id": 29,
+      "mood": "neutral",
+      "file": "chunk_029_neutral.json",
+      "turn_range": "2800-2947"
+    },
+    {
+      "chunk_id": 30,
+      "mood": "neutral",
+      "file": "chunk_030_neutral.json",
+      "turn_range": "5641-5804"
+    },
+    {
+      "chunk_id": 31,
+      "mood": "neutral",
+      "file": "chunk_031_neutral.json",
+      "turn_range": "7466-7515"
+    },
+    {
+      "chunk_id": 32,
+      "mood": "neutral",
+      "file": "chunk_032_neutral.json",
+      "turn_range": "3693-3744"
+    },
+    {
+      "chunk_id": 33,
+      "mood": "neutral",
+      "file": "chunk_033_neutral.json",
+      "turn_range": "146-235"
+    },
+    {
+      "chunk_id": 34,
+      "mood": "neutral",
+      "file": "chunk_034_neutral.json",
+      "turn_range": "9388-9737"
+    },
+    {
+      "chunk_id": 35,
+      "mood": "argument",
+      "file": "chunk_035_argument.json",
+      "turn_range": "2686-3594"
+    },
+    {
+      "chunk_id": 36,
+      "mood": "argument",
+      "file": "chunk_036_argument.json",
+      "turn_range": "8224-8980"
+    },
+    {
+      "chunk_id": 37,
+      "mood": "happy",
+      "file": "chunk_037_happy.json",
+      "turn_range": "4227-7058"
+    },
+    {
+      "chunk_id": 38,
+      "mood": "happy",
+      "file": "chunk_038_happy.json",
+      "turn_range": "3516-5628"
+    },
+    {
+      "chunk_id": 39,
+      "mood": "sad",
+      "file": "chunk_039_sad.json",
+      "turn_range": "4440-6447"
+    },
+    {
+      "chunk_id": 40,
+      "mood": "sad",
+      "file": "chunk_040_sad.json",
+      "turn_range": "2876-4654"
+    },
+    {
+      "chunk_id": 41,
+      "mood": "busy",
+      "file": "chunk_041_busy.json",
+      "turn_range": "2592-6549"
+    },
+    {
+      "chunk_id": 42,
+      "mood": "busy",
+      "file": "chunk_042_busy.json",
+      "turn_range": "2995-8311"
+    }
+  ]
+}

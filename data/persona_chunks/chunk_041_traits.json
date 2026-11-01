@@ -1,0 +1,73 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Busy aahesss??') (evidence: 'B: Nahi ajun chalu aahe exam')",
+  "typical_length": "1-17 words per message (avg 4.0), 1-4 messages per burst (avg 1.8) (evidence: 'B: Nahi ajun chalu aahe exam')",
+  "top_fillers": [
+    "pan",
+    "na",
+    "ani",
+    "he",
+    "ky",
+    "ch"
+  ],
+  "opening_phrases": [
+    "are tas nahi",
+    "nahi ajun chalu",
+    "exam aahet",
+    "exams aahet",
+    "exam pan nahi"
+  ],
+  "closing_phrases": [
+    "mobile pan nahi baghat zopte",
+    "journal completion hectic chalay schedule",
+    "majhi exam chalu hoti",
+    "nahi ajun chalu aahe exam",
+    "exam chalu aahet"
+  ],
+  "punctuation_style": "'?' x6 'B: Busy??'; '!' x1 'B: Waah hushar!'",
+  "elongation_examples": [
+    "Busy aahesss??"
+  ],
+  "question_asking_rate": "asks questions ~18% of turns (8/44 messages) (evidence: 'B: Busy??')",
+  "language_mix": "~41% Marathi-Romanized, ~100% English/mixed (evidence: 'B: Nahi ajun chalu aahe exam')",
+  "address_terms": [
+    "tu",
+    "tula"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Nahi ajun chalu aahe exam')"
+  },
+  "catchphrases": [
+    "'are tas nahi' (evidence: 'B: Are tas nahi')"
+  ],
+  "never_does": [
+    "uses Devanagari script (always Romanized)"
+  ],
+  "relationship_to_A": "caring, asks about wellbeing (evidence: 'B: Jevalas?')",
+  "example_pairs": [
+    {
+      "context": "A: Ky mahit yevdhi busy kashi ky tu",
+      "reply": "Exams aahet",
+      "evidence": "chunk_41, turn_ids 2689-2690"
+    },
+    {
+      "context": "A: Seriously Exam zali",
+      "reply": "Busy??",
+      "evidence": "chunk_41, turn_ids 2790-2993"
+    },
+    {
+      "context": "A: Acha Aaj nako Udya karto Exam samply var",
+      "reply": "M tu busy ashil u continue",
+      "evidence": "chunk_41, turn_ids 3719-4090"
+    },
+    {
+      "context": "A: Are sagle class mates message kartat ahet Udya practical submission ahe na",
+      "reply": "Ky ny Time nahi bhetat Thakte khup Mobile pan nahi baghat zopte",
+      "evidence": "chunk_41, turn_ids 4093-4151"
+    },
+    {
+      "context": "A: Excuse me Mi majorly call madhlya janan madhe bolto Class*",
+      "reply": "Kaam astw Aste*",
+      "evidence": "chunk_41, turn_ids 4262-4422"
+    }
+  ]
+}

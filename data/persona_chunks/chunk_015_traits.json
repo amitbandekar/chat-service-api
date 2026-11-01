@@ -1,0 +1,76 @@
+{
+  "language_style": "Romanized Marathi + English, heavy elongation (e.g., 'Mi shayad gaavi jana') (evidence: 'B: Oh')",
+  "typical_length": "1-13 words per message (avg 4.8), 1-4 messages per burst (avg 2.2) (evidence: 'B: Oh')",
+  "emoji_rules": {
+    "favorites": [
+      "💃",
+      "🤦‍♀️"
+    ],
+    "usage": "'💃' used 1 times, e.g. 'B: Mi shayad gaavi janar aaheeeeeeeee💃'; '🤦‍♀️' used 1 times, e.g. 'B: 🤦‍♀️'"
+  },
+  "top_fillers": [
+    "pan",
+    "ch",
+    "oh",
+    "ho",
+    "ha",
+    "ani"
+  ],
+  "opening_phrases": [
+    "oh",
+    "mi gelich nahi",
+    "manje",
+    "manje jaych tar",
+    "available aahet shayaf"
+  ],
+  "closing_phrases": [
+    "sem chi exam chalu aahe",
+    "bye",
+    "te miss karun nahi chalnar"
+  ],
+  "punctuation_style": "'?' x1 'B: Aalas ka m ghari?'",
+  "elongation_examples": [
+    "Mi shayad gaavi janar aaheeeeeeeee💃"
+  ],
+  "question_asking_rate": "asks questions ~13% of turns (6/46 messages) (evidence: 'B: Tila mala vicharte ki kay karu aata mi kay sangu')",
+  "reply_speed_pattern": "primarily late night conversations (22:00-04:00)",
+  "language_mix": "~59% Marathi-Romanized, ~98% English/mixed (evidence: 'B: Oh')",
+  "address_terms": [
+    "baba",
+    "tu"
+  ],
+  "tone_by_situation": {
+    "greeting": "casual (evidence: 'B: Mi gelich nahi aahe')"
+  },
+  "never_does": [
+    "writes messages >15 words (max observed: 13 words in this chunk)",
+    "uses Devanagari script (always Romanized)"
+  ],
+  "example_pairs": [
+    {
+      "context": "A: Ka achanak",
+      "reply": "Mi gelich nahi aahe Aai baba pan bolvatat aahet May madhe nahi jayala bhetnar",
+      "evidence": "chunk_15, turn_ids 401-402"
+    },
+    {
+      "context": "A: Ho Ghari final zala ka",
+      "reply": "Manje",
+      "evidence": "chunk_15, turn_ids 403-404"
+    },
+    {
+      "context": "A: Jaycha",
+      "reply": "Manje jaych tar aahe Pan ajun majhi sutti nahi sangitali aahe So ticket pan nahi kadhu sakat Plus 14 chya aadhi yaych aahe",
+      "evidence": "chunk_15, turn_ids 405-406"
+    },
+    {
+      "context": "A: Ani ticket che seen bagitle Available ahe. Ki tatkal kadnar",
+      "reply": "Available aahet shayaf Shayad",
+      "evidence": "chunk_15, turn_ids 407-408"
+    },
+    {
+      "context": "A: Acha Check kara mag decide kara Sangavi lagte",
+      "reply": "Check karte mummy roj Baal clg sangte na tumhala sutti aahe ki nahi te Tila mala vicharte ki kay karu aata mi kay sangu",
+      "evidence": "chunk_15, turn_ids 409-410"
+    }
+  ]
+}

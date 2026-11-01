@@ -1,0 +1,434 @@
+﻿{
+    "chunk_id":  5,
+    "mood":  "late_night",
+    "turns":  [
+                  {
+                      "session_id":  158,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-12 22:15",
+                      "messages":  [
+                                       "Ha mi barich aahe"
+                                   ],
+                      "turn_id":  3259,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-12 22:16",
+                      "messages":  [
+                                       "Acha",
+                                       "M dok mich dukhvto ka ðŸ¥²"
+                                   ],
+                      "turn_id":  3260,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-12 22:21",
+                      "messages":  [
+                                       "Tula mahiti"
+                                   ],
+                      "turn_id":  3261,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-12 22:21",
+                      "messages":  [
+                                       "Ky"
+                                   ],
+                      "turn_id":  3262,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-12 22:29",
+                      "messages":  [
+                                       "Ky nu",
+                                       "Ny*"
+                                   ],
+                      "turn_id":  3263,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-12 22:31",
+                      "messages":  [
+                                       "Mala ky mahiti",
+                                       "Kalala"
+                                   ],
+                      "turn_id":  3264,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  158,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-12 22:31",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  3265,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:11",
+                      "messages":  [
+                                       "M"
+                                   ],
+                      "turn_id":  3278,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:12",
+                      "messages":  [
+                                       "M ky m"
+                                   ],
+                      "turn_id":  3279,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:12",
+                      "messages":  [
+                                       "Tyacha ky ithe",
+                                       "Samband"
+                                   ],
+                      "turn_id":  3280,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:13",
+                      "messages":  [
+                                       "."
+                                   ],
+                      "turn_id":  3281,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:24",
+                      "messages":  [
+                                       "Sod",
+                                       "Toh nahi kahi bolnar"
+                                   ],
+                      "turn_id":  3282,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:28",
+                      "messages":  [
+                                       "I know nahi bolnar te"
+                                   ],
+                      "turn_id":  3283,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:28",
+                      "messages":  [
+                                       "M kashala la ghabrte"
+                                   ],
+                      "turn_id":  3284,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:29",
+                      "messages":  [
+                                       "Pn apan saglyan samor kase bolnar bhetnar",
+                                       "Apan aadhi kas bolaycho tyana mahiti aahe"
+                                   ],
+                      "turn_id":  3285,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:34",
+                      "messages":  [
+                                       "M chal udya date var jauðŸ˜‚"
+                                   ],
+                      "turn_id":  3286,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:35",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸",
+                                       "Kahi panðŸ˜‚ðŸ¤¦â€â™€ï¸"
+                                   ],
+                      "turn_id":  3287,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:37",
+                      "messages":  [
+                                       "Jau nahi tr khali",
+                                       "Asach"
+                                   ],
+                      "turn_id":  3288,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:37",
+                      "messages":  [
+                                       "Kas janar"
+                                   ],
+                      "turn_id":  3289,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:38",
+                      "messages":  [
+                                       "Gadi nahi ahe mazya kade",
+                                       "Chalat java lagel"
+                                   ],
+                      "turn_id":  3290,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:38",
+                      "messages":  [
+                                       "Are pagal",
+                                       "Tas nahi",
+                                       "Mi khali kashi yenar"
+                                   ],
+                      "turn_id":  3291,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:38",
+                      "messages":  [
+                                       "Chalat",
+                                       "Uchlun kasa nenar",
+                                       "ðŸ˜‚",
+                                       "Kasa disel te"
+                                   ],
+                      "turn_id":  3292,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:40",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸ðŸ¤¦â€â™€ï¸",
+                                       "Tu pagal zala aahes"
+                                   ],
+                      "turn_id":  3293,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:45",
+                      "messages":  [
+                                       "Ho tula baghun"
+                                   ],
+                      "turn_id":  3294,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:45",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸ðŸ¤¦â€â™€ï¸ðŸ¤¦â€â™€ï¸",
+                                       "Baghitalas pan nahi ani bolto aaheðŸ¤¦â€â™€ï¸ðŸ˜‚"
+                                   ],
+                      "turn_id":  3295,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:47",
+                      "messages":  [
+                                       "Are teri khubsoorati mere akho me sama nahi payi",
+                                       "Mazya dolynchi chuki ahe ti"
+                                   ],
+                      "turn_id":  3296,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:47",
+                      "messages":  [
+                                       "Bass bass"
+                                   ],
+                      "turn_id":  3297,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:53",
+                      "messages":  [
+                                       "ðŸ˜…",
+                                       "Kharach jau",
+                                       "Bag dok chalav kahi tari"
+                                   ],
+                      "turn_id":  3298,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:54",
+                      "messages":  [
+                                       "Kay chalavu",
+                                       "Sunny la aanave lagel"
+                                   ],
+                      "turn_id":  3299,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:54",
+                      "messages":  [
+                                       "Chalel",
+                                       "Gheu"
+                                   ],
+                      "turn_id":  3300,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:56",
+                      "messages":  [
+                                       "Baghu dupari kuthetari janar aahet shayad"
+                                   ],
+                      "turn_id":  3301,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-13 23:58",
+                      "messages":  [
+                                       "Kon kon?"
+                                   ],
+                      "turn_id":  3302,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-13 23:59",
+                      "messages":  [
+                                       "Mi kaka kaki ani sunny",
+                                       "Sandyakali ki dupari te nahi mahiti"
+                                   ],
+                      "turn_id":  3303,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 00:00",
+                      "messages":  [
+                                       "Mi ky karu m tyat ðŸ˜’"
+                                   ],
+                      "turn_id":  3304,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 00:02",
+                      "messages":  [
+                                       "Abe pgl"
+                                   ],
+                      "turn_id":  3305,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 00:03",
+                      "messages":  [
+                                       "Ky tyat",
+                                       "Roj yete ka tu"
+                                   ],
+                      "turn_id":  3306,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 00:03",
+                      "messages":  [
+                                       "Manun firyala chalo na",
+                                       "Jar dupari gelo tar sandyakali baghu ani sandyakali gelo tar sakali baghu",
+                                       "Tula time aahe ka?"
+                                   ],
+                      "turn_id":  3307,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 00:09",
+                      "messages":  [
+                                       "Tuzya sathi tr time ch time ahe ðŸ˜‚"
+                                   ],
+                      "turn_id":  3308,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "B",
+                      "timestamp":  "2022-08-14 00:09",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸ðŸ¤¦â€â™€ï¸"
+                                   ],
+                      "turn_id":  3309,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  159,
+                      "speaker":  "A",
+                      "timestamp":  "2022-08-14 00:09",
+                      "messages":  [
+                                       "Tu sang",
+                                       "Mala"
+                                   ],
+                      "turn_id":  3310,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  3259,
+    "end_turn_id":  3310
+}

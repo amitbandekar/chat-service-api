@@ -1,0 +1,433 @@
+﻿{
+    "chunk_id":  24,
+    "mood":  "neutral",
+    "turns":  [
+                  {
+                      "session_id":  424,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-11 15:41",
+                      "messages":  [
+                                       "ðŸ¤¦â€â™€ï¸"
+                                   ],
+                      "turn_id":  9012,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-11 15:41",
+                      "messages":  [
+                                       "shaa",
+                                       "tyala kashala hava ahe mahitich asel"
+                                   ],
+                      "turn_id":  9013,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-11 15:41",
+                      "messages":  [
+                                       "Ka?"
+                                   ],
+                      "turn_id":  9014,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-11 15:43",
+                      "messages":  [
+                                       "lamb ahe na",
+                                       "tyala javal nakoy",
+                                       "ho na",
+                                       "full sene zala",
+                                       "ata donation deun ghyala lagla",
+                                       "2L donation ghetla"
+                                   ],
+                      "turn_id":  9015,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-11 15:45",
+                      "messages":  [
+                                       "Ha donation jast ch aste"
+                                   ],
+                      "turn_id":  9016,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-11 15:45",
+                      "messages":  [
+                                       "bag na",
+                                       "ky bolnar",
+                                       "tari mi bolo hto mummy la ticha"
+                                   ],
+                      "turn_id":  9017,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  424,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-11 15:49",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9018,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-13 13:36",
+                      "messages":  [
+                                       "are tula mahitey mi pan bagitla lapata ladies"
+                                   ],
+                      "turn_id":  9019,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-13 16:02",
+                      "messages":  [
+                                       "Ha mi pan baghitale"
+                                   ],
+                      "turn_id":  9020,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-13 18:28",
+                      "messages":  [
+                                       "Ha chaan hota concept"
+                                   ],
+                      "turn_id":  9022,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-13 18:44",
+                      "messages":  [
+                                       "Ha na"
+                                   ],
+                      "turn_id":  9023,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-13 21:25",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9024,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-13 21:25",
+                      "messages":  [
+                                       "tu he bagity",
+                                       "ka"
+                                   ],
+                      "turn_id":  9025,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-13 21:53",
+                      "messages":  [
+                                       "Ky?"
+                                   ],
+                      "turn_id":  9026,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  425,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-13 21:53",
+                      "messages":  [
+                                       "Panchyat"
+                                   ],
+                      "turn_id":  9027,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  426,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-14 17:41",
+                      "messages":  [
+                                       "Acha",
+                                       "Ny second mi pan ardha sodla hota",
+                                       "Third ala tevha bagilta",
+                                       "Third bara ahe"
+                                   ],
+                      "turn_id":  9031,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  426,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-14 19:18",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9032,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  426,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-14 19:18",
+                      "messages":  [
+                                       "Mirzapur tari bagitys ka"
+                                   ],
+                      "turn_id":  9033,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  427,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-19 18:38",
+                      "messages":  [
+                                       "Ya gulabi valya bhini ahet ka same à¤¦à¤¿à¤¸à¤¤à¤¾à¤¤"
+                                   ],
+                      "turn_id":  9035,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  427,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-19 21:57",
+                      "messages":  [
+                                       "Acha"
+                                   ],
+                      "turn_id":  9037,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  428,
+                      "speaker":  "A",
+                      "timestamp":  "2024-07-20 13:21",
+                      "messages":  [
+                                       "Kasla"
+                                   ],
+                      "turn_id":  9041,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  429,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-20 18:05",
+                      "messages":  [
+                                       "Internship zali na tyavar"
+                                   ],
+                      "turn_id":  9042,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  429,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-20 18:37",
+                      "messages":  [
+                                       "Production baghitale larger scale var",
+                                       "Kay kay testing kartat te baghitale",
+                                       "Documentation kay kay aste te baghitale",
+                                       "New development asel tar kay kartat te baghitale"
+                                   ],
+                      "turn_id":  9044,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  429,
+                      "speaker":  "B",
+                      "timestamp":  "2024-07-20 18:55",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9046,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-08 16:11",
+                      "messages":  [
+                                       "Hi",
+                                       "Nice Dp"
+                                   ],
+                      "turn_id":  9047,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-08 18:51",
+                      "messages":  [
+                                       "Hi",
+                                       "Thanks"
+                                   ],
+                      "turn_id":  9048,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-08 19:10",
+                      "messages":  [
+                                       "Kon ahe pan"
+                                   ],
+                      "turn_id":  9049,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-08 19:27",
+                      "messages":  [
+                                       "Mi obv"
+                                   ],
+                      "turn_id":  9050,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-08 19:39",
+                      "messages":  [
+                                       "Oh",
+                                       "Pn toh filter nhi aahe",
+                                       "Phone camera ne click kelela aahe"
+                                   ],
+                      "turn_id":  9052,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-08 19:41",
+                      "messages":  [
+                                       "Te mahity",
+                                       "Apart from that",
+                                       "Ashe chngle filter astil tr pathav"
+                                   ],
+                      "turn_id":  9053,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  430,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-08 19:51",
+                      "messages":  [
+                                       "Ha"
+                                   ],
+                      "turn_id":  9054,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  431,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-11 11:44",
+                      "messages":  [
+                                       "Ky?"
+                                   ],
+                      "turn_id":  9055,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  432,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-11 19:57",
+                      "messages":  [
+                                       "pathavnar hoti na"
+                                   ],
+                      "turn_id":  9056,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-13 16:23",
+                      "messages":  [
+                                       "Moty g tumcha clg"
+                                   ],
+                      "turn_id":  9059,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-13 19:06",
+                      "messages":  [
+                                       "Acha",
+                                       "Tu je kartey te hard ahe"
+                                   ],
+                      "turn_id":  9061,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-13 19:11",
+                      "messages":  [
+                                       "Vichartoy ki sangtoy?"
+                                   ],
+                      "turn_id":  9062,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "A",
+                      "timestamp":  "2024-08-13 19:12",
+                      "messages":  [
+                                       "Mi ka sangen",
+                                       "Mala thodi mahity",
+                                       "Mala tr easy vatt",
+                                       "Tu karteys tr easych asel"
+                                   ],
+                      "turn_id":  9063,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-13 19:14",
+                      "messages":  [
+                                       "Baghyala saglach easy vatat pan jevha swata karav lagat tevha samjat"
+                                   ],
+                      "turn_id":  9064,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-13 19:24",
+                      "messages":  [
+                                       "Accha"
+                                   ],
+                      "turn_id":  9066,
+                      "score":  ""
+                  },
+                  {
+                      "session_id":  433,
+                      "speaker":  "B",
+                      "timestamp":  "2024-08-13 19:31",
+                      "messages":  [
+                                       "Ha m tu shikhav tila"
+                                   ],
+                      "turn_id":  9068,
+                      "score":  ""
+                  }
+              ],
+    "start_turn_id":  9012,
+    "end_turn_id":  9068
+}
