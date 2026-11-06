@@ -15,6 +15,7 @@ This guide explains how to deploy the Rutuja Persona API to **Render** and conne
   - Affection / Love you: Every **5 days**
   - Workout / Exercise check: Every **10 days**
 - **Mobile Push Notifications:** Natively integrated with **Expo Push Service**. When Rutuja sends a reminder or cricket highlight, a notification is sent directly to your phone.
+- **Reply Queue (no message unread):** If the model errors (429/503), the user's message is stored in `reply_queue` and retried (1m → 5m → 15m → 30m → 1h) until answered; boot-up resurrects any unanswered chat from the last 7 days. Monitor at `GET /api/status` → `reply_queue`.
 
 ---
 
@@ -52,7 +53,12 @@ Under **Environment Variables** in Render, add:
 | `XKIRO_BASE_URL` | `https://api.xkiro.com/v1` | Xkiro / OpenRouter API Base URL |
 | `MODEL_NAME` | `qwen/qwen3.8-max:free` | Model name |
 | `CRICKET_API_KEY` | *(Optional)* | CricAPI key for live Indian cricket scores |
-| `INACTIVITY_HOURS_THRESHOLD` | `8` | Daytime hours before proactive nudge |
+| `INACTIVITY_HOURS_THRESHOLD` | `8` | Daytime (IST) hours before proactive nudge |
+| `TZ` | `Asia/Kolkata` | Pins the Node process to IST — required for correct time-of-day behaviour |
+| `PROACTIVE_MAX_PER_DAY` | `3` | Max bot-initiated messages per IST day (nudges + reminders + cricket combined) |
+| `PROACTIVE_MIN_GAP_HOURS` | `4` | Minimum hours between any two proactive messages |
+| `NUDGE_MAX_PER_DAY` | `1` | Max "you awake?" nudges per IST day |
+| `RESET_PROACTIVE_STATE` | *(one-time)* `true` | Staggers overdue scheduled reminders once — set, deploy, then remove |
 
 Click **Deploy Web Service**. Once deployed, Render will provide a public URL like:
 `https://chat-service-api.onrender.com`

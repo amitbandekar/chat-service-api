@@ -94,18 +94,40 @@ INSERT INTO chat_sessions (id, model, metadata)
 VALUES ('00000000-0000-0000-0000-000000000001', 'qwen/qwen3.8-max:free', '{"note": "default single session mirroring session_master.jsonl"}'::jsonb)
 ON CONFLICT (id) DO NOTHING;
 
+-- Single-row queue that guarantees no user message stays unanswered.
+CREATE TABLE IF NOT EXISTS reply_queue (
+  id BIGSERIAL PRIMARY KEY,
+  session_id UUID NOT NULL REFERENCES chat_sessions(id) ON DELETE CASCADE,
+  user_content TEXT NOT NULL,
+  status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending','sent','failed')),
+  attempts INT NOT NULL DEFAULT 0,
+  last_error TEXT NOT NULL DEFAULT '',
+  reply_content TEXT,
+  source TEXT NOT NULL DEFAULT 'chat', -- 'chat' = POST failure, 'reconcile' = boot backfill
+  created_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  next_attempt_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  sent_at TIMESTAMPTZ
+);
+
+CREATE INDEX IF NOT EXISTS idx_reply_queue_due ON reply_queue (status, next_attempt_at);
+
 -- Seed initial scheduled topics
+-- NOTE: last_triggered_at is seeded to now() (NOT back-dated). Back-dated seeds
+-- made all three topics instantly overdue, so on 2026-11-02 three reminders +
+-- the inactivity nudge stacked into one evening. If an existing DB is already
+-- overdue, run db/reset_proactive_state.sql instead.
 INSERT INTO scheduled_topics (topic_name, interval_days, last_triggered_at, active_start_hour, active_end_hour, prompt_instruction)
 VALUES 
-  ('interview_prep', 4, now() - INTERVAL '3 days', 18, 22, 'Casually ask Amit about his interview preparation or coding practice progress in 1 short sentence (e.g., "Interview prep kiti zali?", "Coding practice chalu ahe na?").'),
-  ('affection_love', 5, now() - INTERVAL '4 days', 21, 23, 'Send a rare, short, sweet affectionate message with emoji to Amit (e.g., "Love you re ❤️", "Take care ha 🥺❤️") as per persona rules.'),
-  ('exercise_workout', 10, now() - INTERVAL '9 days', 17, 21, 'Casually ask Amit if he has been exercising or working out recently (e.g., "Workout / gym chalu ahe ka tuza?").')
+  ('interview_prep', 4, now(), 18, 22, 'Casually ask Amit about his interview preparation or coding practice progress in 1 short sentence (e.g., "Interview prep kiti zali?", "Coding practice chalu ahe na?").'),
+  ('affection_love', 5, now(), 21, 23, 'Send a rare, short, sweet affectionate message with emoji to Amit (e.g., "Love you re ❤️", "Take care ha 🥺❤️") as per persona rules.'),
+  ('exercise_workout', 10, now(), 17, 21, 'Casually ask Amit if he has been exercising or working out recently (e.g., "Workout / gym chalu ahe ka tuza?").')
 ON CONFLICT (topic_name) DO NOTHING;
 
--- Seed initial topic cooldowns
+-- Seed initial topic cooldowns (also fresh, not back-dated)
 INSERT INTO topic_cadence (topic_key, last_sent_at, min_cooldown_days)
 VALUES 
-  ('food_inquiry', now() - INTERVAL '4 days', 3),
-  ('good_morning', now() - INTERVAL '4 days', 3),
-  ('good_night', now() - INTERVAL '4 days', 3)
+  ('food_inquiry', now(), 3),
+  ('good_morning', now(), 3),
+  ('good_night', now(), 3)
 ON CONFLICT (topic_key) DO NOTHING;

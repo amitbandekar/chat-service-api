@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { getPool, isDbEnabled } = require('../db/db');
+const timeService = require('./timeService');
 
 const CADENCE_FILE = path.join(__dirname, '..', 'data', 'topic_cadence.json');
 const SCHEDULED_TOPICS_FILE = path.join(__dirname, '..', 'data', 'scheduled_topics.json');
@@ -172,7 +173,8 @@ async function getDueScheduledTopic() {
     }
 
     const now = new Date();
-    const currentHour = now.getHours();
+    // Active topic windows (workout 17–21, interview 18–22, affection 21–23) are defined in IST
+    const currentHour = timeService.istHour(now);
 
     for (const t of topics) {
         // Check active hours window
