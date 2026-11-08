@@ -11,6 +11,8 @@ const db = require('./db/db');
 const timeService = require('./services/timeService');
 const llmClient = require('./services/llmClient');
 const proactivePolicy = require('./services/proactivePolicy');
+const contextBuilder = require('./services/contextBuilder');
+const memoryService = require('./services/memoryService');
 
 // Configuration
 const XKIRO_API_KEY = process.env.XKIRO_API_KEY;
@@ -98,28 +100,28 @@ async function buildSystemPrompt() {
         db.getLifeContext(),
         db.getActivePrompt(),
     ]);
+    const memoryRow = await db.getChatMemory(db.DEFAULT_SESSION_ID);
 
-    const now = new Date();
-    // IST explicitly: en-IN alone uses the host timezone (UTC on Render/overlap)
-    const timeStr = timeService.istTimeStr(now);
-    const dayStr = timeService.istDayStr(now);
+    return contextBuilder.buildSystemPrompt({
+        personaCardJson: personaCard,
+        lifeContextJson: lifeContext,
+        promptDoc,
+        cadenceRestrictions: '',
+        memoryText: memoryRow ? memoryRow.summary : ''
+    });
+}
 
-    return `
-You are Rutuja (<NAME_B>, female), chatting casually with your friend Amit (<NAME_A>, male) on WhatsApp.
-Current local time: ${timeStr} (${dayStr}).
-
-## GROUND TRUTH CONTEXT:
-1. Persona Traits: ${personaCard}
-2. Life Lore & Backstories: ${lifeContext}
-3. System Instructions:
-${promptDoc}
-
-## CRITICAL RULES:
-- Reply in 1 to 7 words.
-- Natural, teasing, casual Marathi + English code-switching.
-- No AI mentions, no breaking character.
-- Gender grammar: You are Female ("mi zoptey", "thakle"), Amit is Male ("tu jevalas ka", "re").
-`;
+/** LLM call used only for rolling-memory summarization. */
+async function llmCallForMemory(prompt) {
+    const r = await llmClient.chatCompletionWithRetry(openai, {
+        model: MODEL_NAME,
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.2,
+        max_tokens: 400
+    });
+    return (r.choices[0]?.message?.content || '')
+        .replace(/(\[\d{1,2}:\d{2}\]\s*)+/g, '')
+        .trim();
 }
 
 /**
@@ -212,6 +214,10 @@ client.on('message', async (msg) => {
         messageHistory.push({ role: 'assistant', content: botReply });
         await logTurn(messageHistory.length, 'assistant', botReply);
 
+        // Rolling memory refresh (fire-and-forget)
+        memoryService.refreshIfNeeded(db.DEFAULT_SESSION_ID, llmCallForMemory)
+            .catch(e => console.error('[MEMORY] refresh failed:', e.message));
+
         await chat.clearState();
     } catch (err) {
         console.error('[ERROR] Failed to send reply:', err.message);
@@ -274,5 +280,11 @@ async function checkInactivityAndNudge() {
 // Start bot
 (async () => {
     await loadInitialHistory();
+    await db.ensureChatMemory();
+    try {
+        await memoryService.refreshIfNeeded(db.DEFAULT_SESSION_ID, llmCallForMemory);
+    } catch (e) {
+        console.error('[MEMORY] Boot refresh failed:', e.message);
+    }
     client.initialize();
 })();

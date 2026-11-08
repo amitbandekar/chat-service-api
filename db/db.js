@@ -461,6 +461,104 @@ async function enqueueUnansweredTurns(days = 7) {
   return count;
 }
 
+/**
+ * Rolling chat memory — a compact natural-language summary of recent chats,
+ * stored OUR side (this is the "context storage" the model API can't do).
+ * summary = refreshed every REFRESH_EVERY user messages / on boot if missing.
+ */
+const MEMORY_FILE = path.join(ROOT, 'data', 'chat_memory.json');
+
+async function ensureChatMemory() {
+  const pool = getPool();
+  if (pool && isDbEnabled()) {
+    try {
+      await pool.query(`
+        CREATE TABLE IF NOT EXISTS chat_memory (
+          id SERIAL PRIMARY KEY,
+          session_id UUID UNIQUE NOT NULL REFERENCES chat_sessions(id) ON DELETE CASCADE,
+          summary TEXT NOT NULL,
+          through_user_count INT NOT NULL DEFAULT 0,
+          updated_at TIMESTAMPTZ NOT NULL DEFAULT now()
+        )
+      `);
+      return true;
+    } catch (e) {
+      console.error('[DB] ensureChatMemory failed:', e.message);
+    }
+  }
+  return false;
+}
+
+async function getChatMemory(sessionId = DEFAULT_SESSION_ID) {
+  const pool = getPool();
+  if (pool && isDbEnabled()) {
+    try {
+      const r = await pool.query('SELECT summary, through_user_count, updated_at FROM chat_memory WHERE session_id = $1', [sessionId]);
+      return r.rows[0] || null;
+    } catch (e) {
+      console.error('[DB] getChatMemory failed:', e.message);
+    }
+  }
+  try {
+    if (fs.existsSync(MEMORY_FILE)) {
+      const all = JSON.parse(fs.readFileSync(MEMORY_FILE, 'utf-8'));
+      const row = all.find((m) => m.session_id === sessionId);
+      return row || null;
+    }
+  } catch (e) { /* ignore */ }
+  return null;
+}
+
+async function saveChatMemory(sessionId, summary, throughUserCount) {
+  const pool = getPool();
+  if (pool && isDbEnabled()) {
+    try {
+      await pool.query(
+        `INSERT INTO chat_memory (session_id, summary, through_user_count, updated_at)
+         VALUES ($1, $2, $3, now())
+         ON CONFLICT (session_id) DO UPDATE SET summary = $2, through_user_count = $3, updated_at = now()`,
+        [sessionId, summary, throughUserCount]
+      );
+      return true;
+    } catch (e) {
+      console.error('[DB] saveChatMemory failed:', e.message);
+    }
+  }
+  try {
+    let all = [];
+    if (fs.existsSync(MEMORY_FILE)) all = JSON.parse(fs.readFileSync(MEMORY_FILE, 'utf-8'));
+    const i = all.findIndex((m) => m.session_id === sessionId);
+    const row = { session_id: sessionId, summary, through_user_count: throughUserCount, updated_at: new Date().toISOString() };
+    if (i >= 0) all[i] = row; else all.push(row);
+    if (!fs.existsSync(path.dirname(MEMORY_FILE))) fs.mkdirSync(path.dirname(MEMORY_FILE), { recursive: true });
+    fs.writeFileSync(MEMORY_FILE, JSON.stringify(all, null, 2), 'utf-8');
+    return true;
+  } catch (e) {
+    console.error('[DB] file saveChatMemory failed:', e.message);
+    return false;
+  }
+}
+
+/** total user turns in the session (staleness trigger) */
+async function getUserTurnCount(sessionId = DEFAULT_SESSION_ID) {
+  const pool = getPool();
+  if (pool && isDbEnabled()) {
+    try {
+      const r = await pool.query("SELECT count(*)::int n FROM chat_turns WHERE session_id = $1 AND role = 'user'", [sessionId]);
+      return r.rows[0].n;
+    } catch (e) {
+      console.error('[DB] getUserTurnCount failed:', e.message);
+    }
+  }
+  try {
+    if (fs.existsSync(SESSION_FILE)) {
+      const lines = fs.readFileSync(SESSION_FILE, 'utf-8').split('\n').filter(Boolean);
+      return lines.filter((l) => l.includes('"role":"user"') || l.includes('"role": "user"')).length;
+    }
+  } catch (e) { /* ignore */ }
+  return 0;
+}
+
 module.exports = {
   DEFAULT_SESSION_ID,
   getPool,
@@ -480,4 +578,8 @@ module.exports = {
   markReplyFailed,
   getReplyQueueStats,
   enqueueUnansweredTurns,
+  ensureChatMemory,
+  getChatMemory,
+  saveChatMemory,
+  getUserTurnCount,
 };

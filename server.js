@@ -14,6 +14,8 @@ const timeService = require('./services/timeService');
 const llmClient = require('./services/llmClient');
 const proactivePolicy = require('./services/proactivePolicy');
 const replyQueue = require('./services/replyQueue');
+const contextBuilder = require('./services/contextBuilder');
+const memoryService = require('./services/memoryService');
 
 const app = express();
 app.use(cors());
@@ -66,37 +68,28 @@ async function loadHistory() {
 /**
  * Build dynamic system prompt with current local time, phase, and topic cooldown restrictions
  */
+/**
+ * Build dynamic system prompt — compact block-structured "Character Frame"
+ * (identity / life-now / rolling memory / hard rules / few-shots) instead of
+ * raw JSON dumps. Persona + memory come from our DBs, so model/API swaps
+ * never lose the character.
+ */
 async function buildSystemPrompt() {
-    const [personaCard, lifeContext, promptDoc, cadenceRestrictions] = await Promise.all([
+    const [personaCard, lifeContext, promptDoc, cadenceRestrictions, memoryRow] = await Promise.all([
         db.getPersona(),
         db.getLifeContext(),
         db.getActivePrompt(),
-        cadenceService.getCadencePromptRestrictions()
+        cadenceService.getCadencePromptRestrictions(),
+        db.getChatMemory(db.DEFAULT_SESSION_ID)
     ]);
 
-    const now = new Date();
-    const timeStr = timeService.istTimeStr(now);
-    const dayStr = timeService.istDayStr(now);
-
-    return `
-You are Rutuja (<NAME_B>, female), chatting casually with your friend Amit (<NAME_A>, male) on WhatsApp.
-Current local time: ${timeStr} (${dayStr}).
-
-## TOPIC COOLDOWN RESTRICTIONS (3-4 Days Gap):
-${cadenceRestrictions || '- None currently active.'}
-
-## GROUND TRUTH CONTEXT:
-1. Persona Traits: ${personaCard}
-2. Life Lore & Backstories: ${lifeContext}
-3. System Instructions:
-${promptDoc}
-
-## CRITICAL RULES:
-- Reply in 1 to 7 words.
-- Natural, teasing, casual Marathi + English code-switching.
-- No AI mentions, no breaking character.
-- Gender grammar: You are Female ("mi zoptey", "thakle"), Amit is Male ("tu jevalas ka", "re").
-`;
+    return contextBuilder.buildSystemPrompt({
+        personaCardJson: personaCard,
+        lifeContextJson: lifeContext,
+        promptDoc,
+        cadenceRestrictions,
+        memoryText: memoryRow ? memoryRow.summary : ''
+    });
 }
 
 /**
@@ -137,6 +130,19 @@ async function generateResponse(messages) {
     // Models sometimes echo our [HH:MM] history prefixes — never send those to the user
     text = text.replace(/(\[\d{1,2}:\d{2}\]\s*)+/g, '').trim();
     return text;
+}
+
+/** LLM call used only for rolling-memory summarization (cheap, low-temp). */
+async function llmCallForMemory(prompt) {
+    const r = await llmClient.chatCompletionWithRetry(openai, {
+        model: MODEL_NAME,
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.2,
+        max_tokens: 400
+    });
+    return (r.choices[0]?.message?.content || '')
+        .replace(/(\[\d{1,2}:\d{2}\]\s*)+/g, '')
+        .trim();
 }
 
 // ----------------- API ROUTES ----------------- //
@@ -215,6 +221,10 @@ app.post('/api/messages', async (req, res) => {
 
         // Update topic cadence cooldowns if applicable
         cadenceService.analyzeAndRecordTurnTopics(botReply);
+
+        // Rolling memory refresh (fire-and-forget, never blocks the reply)
+        memoryService.refreshIfNeeded(db.DEFAULT_SESSION_ID, llmCallForMemory)
+            .catch(e => console.error('[MEMORY] async refresh failed:', e.message));
 
         res.json({
             success: true,
@@ -554,6 +564,14 @@ async function runReplyQueueTick() {
 
     // Reply queue: create table + re-queue anything the model ever left unanswered
     const store = await db.ensureReplyQueue();
+    await db.ensureChatMemory();
+
+    // Rolling memory: build it once at boot so early messages have full context
+    try {
+        await memoryService.refreshIfNeeded(db.DEFAULT_SESSION_ID, llmCallForMemory);
+    } catch (e) {
+        console.error('[MEMORY] Boot refresh failed:', e.message);
+    }
     const reconcileDays = parseInt(process.env.REPLY_RECONCILE_DAYS || '7', 10);
     try {
         const resurrected = await db.enqueueUnansweredTurns(reconcileDays);
