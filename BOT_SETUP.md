@@ -1,6 +1,6 @@
 # Rutuja WhatsApp Bot Setup & Execution Guide
 
-This bot connects Rutuja's persona (`Qwen 3.8 Max` via Xkiro/OpenRouter) to a live WhatsApp number using `whatsapp-web.js`.
+This bot connects Rutuja's persona (`Gemini 3.8 Flash` free tier via APInex) to a live WhatsApp number using `whatsapp-web.js`.
 
 ---
 
@@ -25,9 +25,14 @@ This installs:
 Check your [.env](file:///.env) file and configure your target number:
 
 ```env
-XKIRO_API_KEY=your_xkiro_key_here
-XKIRO_BASE_URL=https://api.xkiro.com/v1
-MODEL_NAME=qwen/qwen3.8-max:free
+XKIRO_API_KEY=sk-apx-REPLACE-WITH-YOUR-APINEX-KEY
+XKIRO_BASE_URL=https://api.apinex.bond/v1
+MODEL_NAME=free/gemini-3.8-flash
+
+# Previous provider (Xkiro) — kept for quick rollback by swapping these values back in:
+# XKIRO_API_KEY=sk-xt-your-xkiro-key
+# XKIRO_BASE_URL=https://api.xkiro.com/v1
+# MODEL_NAME=qwen/qwen3.8-max:free
 
 # Format: CountryCode + PhoneNumber + @c.us (e.g. 919876543210@c.us)
 TARGET_PHONE_NUMBER=919876543210@c.us

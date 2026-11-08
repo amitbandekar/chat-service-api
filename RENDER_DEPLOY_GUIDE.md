@@ -49,9 +49,9 @@ Under **Environment Variables** in Render, add:
 | Variable | Value | Description |
 | :--- | :--- | :--- |
 | `DATABASE_URL` | `postgresql://...` | Render PostgreSQL internal/external connection string |
-| `XKIRO_API_KEY` | `sk-xt-...` | Your Xkiro API Key |
-| `XKIRO_BASE_URL` | `https://api.xkiro.com/v1` | Xkiro / OpenRouter API Base URL |
-| `MODEL_NAME` | `qwen/qwen3.8-max:free` | Model name |
+| `XKIRO_API_KEY` | `sk-apx-...` | Your **APInex** API key (env name kept for compatibility) |
+| `XKIRO_BASE_URL` | `https://api.apinex.bond/v1` | **APInex** OpenAI-compatible base URL |
+| `MODEL_NAME` | `free/gemini-3.8-flash` | APInex free model (validated best for the persona; `free/qwen-3.8-max` also fine) |
 | `CRICKET_API_KEY` | *(Optional)* | CricAPI key for live Indian cricket scores |
 | `INACTIVITY_HOURS_THRESHOLD` | `8` | Daytime (IST) hours before proactive nudge |
 | `TZ` | `Asia/Kolkata` | Pins the Node process to IST — required for correct time-of-day behaviour |
@@ -59,6 +59,7 @@ Under **Environment Variables** in Render, add:
 | `PROACTIVE_MIN_GAP_HOURS` | `4` | Minimum hours between any two proactive messages |
 | `NUDGE_MAX_PER_DAY` | `1` | Max "you awake?" nudges per IST day |
 | `RESET_PROACTIVE_STATE` | *(one-time)* `true` | Staggers overdue scheduled reminders once — set, deploy, then remove |
+| `REPAIR_BAD_REPLIES` | *(one-time)* `true` | Strips echoed `[HH:MM]` junk from last-4-days assistant turns — set, deploy, then remove |
 
 Click **Deploy Web Service**. Once deployed, Render will provide a public URL like:
 `https://chat-service-api.onrender.com`

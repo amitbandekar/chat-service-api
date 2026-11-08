@@ -141,6 +141,8 @@ async function generateResponse(messages) {
     let text = response.choices[0]?.message?.content?.trim() || 'Hi';
     // Clean any markdown formatting or quotes
     text = text.replace(/^["']|["']$/g, '').trim();
+    // Models sometimes echo our [HH:MM] history prefixes — never send those to the user
+    text = text.replace(/(\[\d{1,2}:\d{2}\]\s*)+/g, '').trim();
     return text;
 }
 
