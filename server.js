@@ -548,39 +548,6 @@ async function runReplyQueueTick() {
     }
 }
 
-/**
- * One-time cleanup of "badly replied" assistant turns: models echoed our
- * [HH:MM] history prefixes and they snowballed in the stored messages.
- * Strips those tokens from the last 4 days and removes orphan fragments.
- * Enable once via env var REPAIR_BAD_REPLIES=true (Render), then remove it.
- * Equivalent manual run: psql "$DATABASE_URL" -f db/repair_bad_replies.sql
- */
-async function repairBadReplies() {
-    const pool = db.getPool();
-    if (!pool || !db.isDbEnabled()) {
-        console.log('[REPAIR] REPAIR_BAD_REPLIES set but no database configured — skipping.');
-        return;
-    }
-    try {
-        const upd = await pool.query(`
-            UPDATE chat_turns
-            SET content = regexp_replace(content, '(\\[\\d{1,2}:\\d{2}\\]\\s*)+', '', 'g')
-            WHERE role = 'assistant'
-              AND created_at > now() - interval '4 days'
-              AND content ~ '(\\[\\d{1,2}:\\d{2}\\]\\s*)+'
-        `);
-        const del = await pool.query(`
-            DELETE FROM chat_turns
-            WHERE role = 'assistant'
-              AND content = 'baghtey'
-              AND created_at > now() - interval '3 days'
-        `);
-        console.log(`[REPAIR] Echo-stripped assistant turns: ${upd.rowCount}, orphan rows removed: ${del.rowCount}. Now run without REPAIR_BAD_REPLIES.`);
-    } catch (e) {
-        console.error('[REPAIR] Failed:', e.message);
-    }
-}
-
 // Start server
 (async () => {
     await loadHistory();
@@ -599,10 +566,6 @@ async function repairBadReplies() {
 
     if (String(process.env.RESET_PROACTIVE_STATE || '').trim().toLowerCase() === 'true') {
         await resetProactiveState();
-    }
-
-    if (String(process.env.REPAIR_BAD_REPLIES || '').trim().toLowerCase() === 'true') {
-        await repairBadReplies();
     }
 
     // Reply queue worker: first pass shortly after boot, then every 30 seconds
